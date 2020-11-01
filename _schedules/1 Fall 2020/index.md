@@ -29,6 +29,7 @@ questions.
 |                 |                              |                                     |                             |
 | Maandag         | Hangman: Finish 5            | Notebook: Finish                    |                             |
 | Dinsdag         |                              | Writing Assignment                  |                             |
+{: .table}
 
 <br />
 
