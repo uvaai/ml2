@@ -15,25 +15,28 @@ Kiki van Rongen (TA)
 You can reach us at <minorai@mprog.nl> for any practical matters or other
 questions.
 
-## Course content
+## Module 1: Schedule & Werkcolleges
 
-This course consists of 6 modules. Each of these modules is expected to take 1
-week and will focus on exploring one or more techniques from machine learning.
-In general, there will be 4 components to each module:
+| Dag             | Data Pipelines               | Introduction to Machine Learning 2  | Werkcollege Schema          |
+| --------------- | ---------------------------- | ----------------------------------- | --------------------------- |
+| Maandag         | Introduction & Lecture       | SOWISO: 7.a & 7.b                   |                             |
+|                 | Assignment: Queue            |                                     |                             |
+| Dinsdag         | Assignment: Game of Cards    | Watch Theory videos                 | 11:00 [Q&A] Classes & OO    |
+|                 |                              | Notebook: t/m Cleaning the Data     |                             |
+| Woensdag        | Hangman: Assingment 1, 2, 3  | Notebook: t/m Cost Function         | 11:00 [Q&A] Logistic Regr.  |
+| Donderdag       | Hangman: Finish 3, Start 4   | Notebook: Obtaining Gradient Terms  |                             |
+| Vrijdag         | Hangman: Finish 4, Start 5   | Notebook: t/m Predictions       	   | 11:00 [Optional] LR & MLE   |
+|                 |                              |                                     |                             |
+| Maandag         | Hangman: Finish 5            | Notebook: Finish                    |                             |
+| Dinsdag         |                              | Writing Assignment                  |                             |
 
-* **Theory videos:** These will mostly introduce the required machine learning concepts for the topics that week.
-* **SOWISO:** An online platform we'll use to cover foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
-* **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
-* **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
+<br />
 
-Log in with your UvAnetID and create an account to get access to the modules.
+* **[Q&A] Classes & OO** op *dinsdag 3 november om 11:00*: 
 
-## Deadlines
+* **[Q&A] Logistic Regression** op *woensdag 4 november om 11:00*: 
 
-All assignments in a module should be handed in the following week by *Monday 23:59*.
-
-If you think you will not make a deadline, send us an email *before* the
-deadline has expired, so we can try to find a suitable solution. 
+* **[Optional] Logistic Regression & Maximum Likelihood Estimation** op *vrijdag 6 november om 11:00*:
 
 ## Asking questions
 
@@ -48,32 +51,16 @@ found in the Welcome post there.
 
 ### Videocall on Discord
 
-If you have a very specific question, something that would require sharing
+If you have a specific question, something that would require sharing
 a large portion of your solution, or you are unsure how exactly to phrase your
 question for Ed, you can request a videocall with the staff. You can do so on
 Discord, using the *QuestionQueue* bot.
 
-The question queue will be open **every weekday from 9:00 to 13:00**. If you
+The question queue will be open **every weekday from 9:30 to 13:30**. If you
 send the *QuestionQueue* bot a direction message starting with `!ask` and then
 followed by your question, you will be added to the queue. The staff will take
 videocalls from the queue in the order they are asked, and you will be notified
 by the *QuestionQueue* bot when it is your turn.
-
-### Werkcollege at Science Park
-
-Once a week there will also be a werkcollege at Science Park, which will
-replace the Discord video calls for that day. You can sit there, bring your
-laptop to work, meet your fellow students, and ask the staff questions. The
-schedule for the werkcolleges can be found on [Datanose](https://datanose.nl/#course[90802]).
-
-### Zoom meetings
-
-There will be Zoom meetings scheduled twice a week, once on **Wednesday at
-15:00** and once on **Friday at 15:00**. These meetings will be used to discuss
-progress and answer questions. In addition, these meetings may also be used to
-give lectures, when there are parts of the theory that require more
-explanation. You can also request a topic be discussed in more depth at these
-meetings, which then may be covered at the next meeting.
 
 ### Email the staff
 
@@ -82,16 +69,9 @@ of the formats above, you can email the course staff at <minorai@mprog.nl>
 
 ## Passing the course
 
-The programming and writing assignment will both be graded on a 1 to 10 scale.
-and at the end of the course an average for both these elements will be
-computed. The SOWISO exercises have automatic feedback, so they will only be
-graded on a *pass/fail* basis. Completing all the chapters is required in order
-to recieve a pass for this element.
-
-If all elements are completed satisfactorily, your final grade for the course
-is computed as:
-
-    30% programming average + 30% written average + 40% exam grade
+Your final grade for this course will a weighted average of all submitted
+assignments and your final exam grade. For the assignments there will be
+programming and writing portions, each graded as described below.
 
 ### Programming Grades
 
