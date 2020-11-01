@@ -17,7 +17,7 @@ questions.
 
 ## Module 1: Schedule & Werkcolleges
 
-| Dag             | Data Pipelines               | Introduction to ML 2                | Werkcollege Schema          |
+| Dag             | Data Pipelines               | Introduction to ML 2                | Werkcolleges          |
 | --------------- | ---------------------------- | ----------------------------------- | --------------------------- |
 | Maandag         | Introduction,  Lecture & Assignment: Queue     | SOWISO: 7.a & 7.b |                             |
 | Dinsdag         | Assignment: Game of Cards    | Watch Theory videos. Notebook: t/m Cleaning the Data | 11:00 [Q&A] Classes & OO    |
@@ -27,7 +27,6 @@ questions.
 |                 |                              |                                     |                             |
 | Maandag         | Hangman: Finish 5            | Notebook: Finish                    |                             |
 | Dinsdag         |                              | Writing Assignment                  |                             |
-{: .table}
 
 <br />
 
