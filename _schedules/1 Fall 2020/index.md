@@ -20,10 +20,10 @@ questions.
 | Dag             | Data Pipelines               | Introduction to ML 2                | Werkcolleges          |
 | --------------- | ---------------------------- | ----------------------------------- | --------------------------- |
 | Maandag         | Introduction,  Lecture & Assignment: Queue     | SOWISO: 7.a & 7.b |                             |
-| Dinsdag         | Assignment: Game of Cards    | Watch: Theory videos & Notebook: t/m Cleaning the Data | 11:00 [Q&A] Classes & OO    |
-| Woensdag        | Hangman: Part 1, 2 & 3       | Notebook: t/m Cost Function         | 11:00 [Q&A] Logistic Regr.  |
-| Donderdag       | Hangman: Finish 3, Start 4   | Logistic Deriv. & Notebook: Obtaining Gradient Terms  |           |
-| Vrijdag         | Hangman: Finish 4, Start 5   | Notebook: t/m Predictions | 11:00 [Optional] Cost function & MLE   |
+| Dinsdag         | Assignment: Game of Cards    | Watch: Theory videos & Notebook: t/m Cleaning the Data | 11:00 [Q&A] Classes & Object Oriented |
+| Woensdag        | Hangman: Part 1, 2 & 3       | Notebook: t/m Cost Function         | 11:00 [Q&A] Logistic Regression  |
+| Donderdag       | Hangman: Part 3 &  4         | Logistic Deriv. & Notebook: Obtaining Gradient Terms  |           |
+| Vrijdag         | Hangman: Part 4 & 5          | Notebook: t/m Predictions | 11:00 [Optional] Cost function & MLE   |
 |                 |                              |                                     |                             |
 | Maandag         | Hangman: Finish 5            | Notebook: Finish                    |                             |
 | Dinsdag         |                              | Writing Assignment                  |                             |
@@ -34,7 +34,7 @@ questions.
 
 * **[Q&A] Logistic Regression** op *woensdag 4 november om 11:00*: 
 
-* **[Optional] Logistic Regression & Maximum Likelihood Estimation** op *vrijdag 6 november om 11:00*:
+* **[Optional] Cost function & Maximum Likelihood Estimation** op *vrijdag 6 november om 11:00*:
 
 ## Asking questions
 
