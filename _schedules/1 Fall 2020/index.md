@@ -19,12 +19,10 @@ questions.
 
 | Dag             | Data Pipelines               | Introduction to Machine Learning 2  | Werkcollege Schema          |
 | --------------- | ---------------------------- | ----------------------------------- | --------------------------- |
-| Maandag         | Introduction & Lecture       | SOWISO: 7.a & 7.b                   |                             |
-|                 | Assignment: Queue            |                                     |                             |
-| Dinsdag         | Assignment: Game of Cards    | Watch Theory videos                 | 11:00 [Q&A] Classes & OO    |
-|                 |                              | Notebook: t/m Cleaning the Data     |                             |
-| Woensdag        | Hangman: Assingment 1, 2, 3  | Notebook: t/m Cost Function         | 11:00 [Q&A] Logistic Regr.  |
-| Donderdag       | Hangman: Finish 3, Start 4   | Notebook: Obtaining Gradient Terms  |                             |
+| Maandag         | Introduction,  Lecture & Assignment: Queue     | SOWISO: 7.a & 7.b |                             |
+| Dinsdag         | Assignment: Game of Cards    | Watch Theory videos. Notebook: t/m Cleaning the Data | 11:00 [Q&A] Classes & OO    |
+| Woensdag        | Hangman: Part 1, 2 & 3       | Notebook: t/m Cost Function         | 11:00 [Q&A] Logistic Regr.  |
+| Donderdag       | Hangman: Finish 3, Start 4   | Logistic Deriv. & Notebook: Obtaining Gradient Terms  |           |
 | Vrijdag         | Hangman: Finish 4, Start 5   | Notebook: t/m Predictions       	   | 11:00 [Optional] LR & MLE   |
 |                 |                              |                                     |                             |
 | Maandag         | Hangman: Finish 5            | Notebook: Finish                    |                             |
