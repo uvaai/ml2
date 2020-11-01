@@ -25,7 +25,7 @@ questions.
 | Donderdag       | Hangman: Part 3 &  4         | Logistic Deriv. & Notebook: Obtaining Gradient Terms  |           |
 | Vrijdag         | Hangman: Part 4 & 5          | Notebook: t/m Predictions | 11:00 [Optional] Cost function & MLE   |
 |                 |                              |                                     |                             |
-| Maandag         | Hangman: Finish 5            | Notebook: t/m Creating hypotheses   |                             |
+| Maandag         | Hangman: Finish 5            | Notebook: t/m Creating Hypotheses   |                             |
 | Dinsdag         |                              | Writing Assignment                  |                             |
 
 <br />
