@@ -1,10 +1,10 @@
 # Logistic Regression
 
-This week we'll continue with more videos from Andrew Ng's machine learning course on Coursera. Before we start with Logistic Regression, we will first freshen up our knowledge on the definition of machine learning. The last video you have already seen, but we have included it again this week, as it is very important for the model we will build in this week's programming exercises.
-
-### What is machine learning
-
-![embed](https://www.youtube.com/embed/PPLop4L2eGk)
+This week we'll continue with more videos from Andrew Ng's machine learning
+course on Coursera. The topic this week is Logistic Regression, which is a
+regression model that is used for classification problems. The last video here
+you've already seen, but we have included it again this week, as it is very
+important for the model we will build in this week's programming exercises.
 
 ### Logistic Regression: Classification
 
@@ -32,6 +32,8 @@ This week we'll continue with more videos from Andrew Ng's machine learning cour
 
 ### Recap: Feature Scaling
 
-You have already seen this video in week 5 of this course. We will discuss and apply feature scaling in this week's notebook, so if you are unsure on when and why you would apply feature scaling, please watch this video again.
+You have already seen this video in module 5 of ML1. We will discuss and apply
+feature scaling in this week's notebook, so if you are unsure on when and why
+you would apply feature scaling, please watch this video again.
 
 ![embed](https://youtube.com/embed/r5E2X1JdHAU)
