@@ -17,24 +17,31 @@ questions.
 
 ## Module 1: Schedule & Werkcolleges
 
-| Dag             | Data Pipelines               | Introduction to ML 2                | Werkcolleges          |
+| Day             | Data Pipelines               | Introduction to ML 2                | Werkcolleges                |
 | --------------- | ---------------------------- | ----------------------------------- | --------------------------- |
-| Maandag         | Introduction,  Lecture & Assignment: Queue     | SOWISO: 7.a & 7.b |                             |
-| Dinsdag         | Assignment: Game of Cards    | Watch: Theory videos & Notebook: t/m Cleaning Data | 11:00 [Q&A] Classes & Object Oriented |
-| Woensdag        | Hangman: Part 1, 2 & 3       | Notebook: t/m Cost Function         | 11:00 [Q&A] Logistic Regression  |
-| Donderdag       | Hangman: Part 3 &  4         | Logistic Deriv. & Notebook: Obtaining Gradient Terms  |           |
-| Vrijdag         | Hangman: Part 4 & 5          | Notebook: t/m Predictions | 11:00 [Optional] Cost function & MLE   |
+| Monday          | Introduction,  Lecture & Assignment: Queue     | SOWISO: 7.a & 7.b |                             |
+| Tuesday         | Assignment: Game of Cards    | Watch: Theory videos & Notebook: t/m Cleaning Data | 11:00 [Q&A] Classes & Object Oriented |
+| Wednesday       | Hangman: Part 1, 2 & 3       | Notebook: t/m Cost Function         | 11:00 [Q&A] Logistic Regression |
+| Thursday        | Hangman: Part 3 &  4         | Logistic Deriv. & Notebook: Obtaining Gradient Terms  |           |
+| Friday          | Hangman: Part 4 & 5          | Notebook: t/m Predictions           | 11:00 [Optional] Cost function & MLE |
 |                 |                              |                                     |                             |
-| Maandag         | Hangman: Finish 5            | Notebook: t/m Creating Hypotheses   |                             |
-| Dinsdag         |                              | Writing Assignment                  |                             |
+| Monday          | Hangman: Finish 5            | Notebook: t/m Creating Hypotheses   |                             |
+| Tuesday         |                              | Writing Assignment                  |                             |
 
 <br />
 
-* **[Q&A] Classes & OO** op *dinsdag 3 november om 11:00*: 
+There are two types of werkcollege in this course. The *[Q&A]* sessions are
+intended for asking question and additional explanations about topics already
+covered in the reading or video material. The *[Optional]* session will be
+a technical lecture going beyond what is covered in the material. The
+material covered there will not be part of the exam material and attendance
+will not be recorded.
 
-* **[Q&A] Logistic Regression** op *woensdag 4 november om 11:00*: 
+* **[Q&A] Classes & Object Oriented Programming** on *Tuesday November 3rd at 11:00*: <https://uva-live.zoom.us/j/89113452090>
 
-* **[Optional] Cost function & Maximum Likelihood Estimation** op *vrijdag 6 november om 11:00*:
+* **[Q&A] Logistic Regression** on *Wednesday November 4th at 11:00*: <https://uva-live.zoom.us/j/83486211050>
+
+* **[Optional] Cost function & Maximum Likelihood Estimation** on *Friday November 6th at 11:00*: <https://uva-live.zoom.us/j/86416860823>
 
 ## Asking questions
 
