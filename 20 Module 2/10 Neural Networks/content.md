@@ -1,11 +1,9 @@
 # Neural Networks
 
-While this is much too large a topic to fit at the end of this course, it also
-would be a shame to not show how far you've come, and that understanding the
-components of this very abstract algorithm is now actually within reach. The
-videos below from Andrew Ng's Machine Learning course on Coursera give a very
-good introduction into what the components of a neural network are exactly, and
-why it is such a powerful model.
+These videos by Andrew outline what a neural network looks like, and give some
+good intuitions on why it is such useful model. They should be a good first
+introduction into what neural networks are exactly. These videos do not yet
+cover how exactly to train a neural network.
 
 ### Neural Network Representation: Non-linear hypothese
 
@@ -35,16 +33,12 @@ why it is such a powerful model.
 
 ![embed](https://youtube.com/embed/gAKQOZ5zIWg)
 
-
 ## Backpropagation: Training a neural network
 
-These videos by Andrew outline what a neural network looks like, and give some
-good intuitions on why it is such useful model, but they do not yet cover how
-to actually train a neural network model. The algorithm to learn the weights of
-a neural network based on training data is called *backpropagation* and is a
-quite a difficult algorithm to completely understand. Introducing backpropagion
-in its general form will be one of the main topics the *next* neural networks
-module.
+The algorithm to learn the weights of a neural network based on training data
+is called *backpropagation* and is a quite a difficult algorithm to completely
+understand. Introducing backpropagion in its general form will be one of the
+main topics the *next* neural networks module.
 
 Here, for a high level overview of what backpropagation tries to do and
 how neural networks end up being used in practice, we'll refer to these
