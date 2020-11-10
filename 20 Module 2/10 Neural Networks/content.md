@@ -1,15 +1,5 @@
 # Neural Networks
 
-*All the videos below are entirely optional, and will not be a part of the exam
-material.*
-
-For the past 7 weeks we've been studying the fundamentals of machine learning,
-including the required mathematical tools, core theoretical concepts and the
-details of specific algorithms. With all these fundamentals under our belt,
-we've actually also developed the language required to discuss one of the
-largest, most complex and most active area's in all of machine learning: Neural
-networks.
-
 While this is much too large a topic to fit at the end of this course, it also
 would be a shame to not show how far you've come, and that understanding the
 components of this very abstract algorithm is now actually within reach. The
@@ -53,10 +43,10 @@ good intuitions on why it is such useful model, but they do not yet cover how
 to actually train a neural network model. The algorithm to learn the weights of
 a neural network based on training data is called *backpropagation* and is a
 quite a difficult algorithm to completely understand. Introducing backpropagion
-in its most general form will be one of the main topics of *Introduction to
-Machine Learning 2*.
+in its general form will be one of the main topics the *next* neural networks
+module.
 
-Here, for a very high level overview of what backpropagation tries to do and
+Here, for a high level overview of what backpropagation tries to do and
 how neural networks end up being used in practice, we'll refer to these
 introductory videos by *3blue1brown*.
 
