@@ -8,8 +8,9 @@ Module 1:
     Shipwreck Survival: /module-1/shipwreck-survival
   Written Assignment:
     Automation and Labour: /module-1/automation-and-labour
-Module 2: /module-1/overview
+Module 2:
+  Overview: /module-2/overview
   Theory Videos:
-    Logistic Regression: /module-1/logistic-regression
+    Neural Networks: /module-2/neural-networks
   Programming Notebook:
-    Shipwreck Survival: /module-1/shipwreck-survival
+    Representation and Forward Step: /module-1/model-representation-forward-computation
