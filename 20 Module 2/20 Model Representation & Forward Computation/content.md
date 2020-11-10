@@ -1,5 +1,5 @@
 
 ## Model Representation & Forward Computation
 
-Download the notebook [here](data/forward.ipynb).
+Download the notebook [here](NN_forward.zip).
 
