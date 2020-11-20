@@ -14,7 +14,7 @@
 
 ### Softmax regression
 
-![embed](hhttps://youtube.com/embed/LLux1SW--oM)
+![embed](https://youtube.com/embed/LLux1SW--oM)
 
 ### Training a softmax classifier
 

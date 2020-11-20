@@ -16,7 +16,7 @@
 
 ![embed](https://youtube.com/embed/BpgnnS7mKKU)
 
-### Application: Model selection and training/validation/test sets
+### Application: Model selection and train/validation/test sets
 
 ![embed](https://youtube.com/embed/uoTBdCODGvk)
 
