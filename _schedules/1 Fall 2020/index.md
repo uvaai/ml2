@@ -34,7 +34,7 @@ The deadline for module 3 is **Tuesday December 1st at 17:59**.
 | Monday          | Finish Climate Data          | Backward: 1b, 1c & 2a               | 11:00 [Q&A] Backpropagation |
 | Tuesday         | Yelp: Reading the data       | Backward: 2b, 2c, 3 & 4             |                             |
 | Wednesday       | Yelp: Merging JSON reviews   | Backward: 5 & 6                     | 							 |
-| Thursday        | Yelp: Matching inspections   | Watch Theory 2 & Start Activations  |                             |
+| Thursday        | Yelp: Matching inspections with reviews | Watch Theory 2 & Start Activations |                   |
 | Friday          | Yelp: Matching inspection (cont.) | Finish Activations             | 11:00 [Q&A] Activation Functions |
 |                 |                              |                                     |                             |
 | Monday          | Yelp: Merging in the inspections | Watch Theory 3 & Start CIFAR10  |  		                     |
@@ -42,9 +42,9 @@ The deadline for module 3 is **Tuesday December 1st at 17:59**.
 
 <br />
 
-* **[Q&A] Backpropagation** on *Monday November 23rd at 11:00*: <https://uva-live.zoom.us/j/84268335159>
+* **[Q&A] Backpropagation** on *Monday November 23rd at 11:00*: <https://uva-live.zoom.us/j/84114910044>
 
-* **[Q&A] Activation Functions** on *Friday November 27th at 11:00*: <https://uva-live.zoom.us/j/87814275140>
+* **[Q&A] Activation Functions** on *Friday November 27th at 11:00*: <https://uva-live.zoom.us/j/87256195962>
 
 ## Module 2: Schedule & Werkcolleges
 
