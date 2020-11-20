@@ -1,5 +1,3 @@
 
-## Applying Neural Networks to the CIFAR 10 data set
-
-Download the notebook [here](data/cifar10.ipynb).
+## Applying Neural Networks to the CIFAR10 data set
 
