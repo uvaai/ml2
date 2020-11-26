@@ -22,5 +22,9 @@ The last part covers some practical tips for applying neural networks to your
 own data and how to deal with common problems like underfitting or overfitting.
 The [theory videos](/module-3/applying-neural-networks) will introduce
 regularization and cover how to choose between different solutions for common
-problems. Finally, in the [programming notebook](/module-3/cifar10-data-set)
+problems.
+
+<!---
+Finally, in the [programming notebook](/module-3/cifar10-data-set)
 you can experiment with applying these strategies yourself to the CIFAR10 data set.
+-->
