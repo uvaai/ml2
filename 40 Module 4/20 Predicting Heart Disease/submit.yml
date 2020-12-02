@@ -1,4 +1,4 @@
-name: prog_9b
+name: prog_10
 files:
     required:
-        - activations.ipynb
+        - decision_trees.ipynb
