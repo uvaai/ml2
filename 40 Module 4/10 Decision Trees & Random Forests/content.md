@@ -4,9 +4,12 @@ The lecture below by Patrick Winston gives a good first introduction into many
 of the concepts used in Decision Trees, namely splitting the data set on a
 specific attribute and measuring the resulting (dis)order of subsets.
 
-### Identification Tree and Disorder
+### Identification Trees and Disorder
 
 ![embed](https://youtube.com/embed/SXBG3RGr_Rc)
+
+
+<br/>
 
 These next few short videos by Victor Lavrenko give a more formal and more
 complete picture of what a Decision Tree is and how exactly it is built. They
