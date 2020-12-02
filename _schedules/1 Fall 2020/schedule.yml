@@ -26,5 +26,9 @@ Module 3:
     Activation functions: /module-3/activation-functions
   Theory 3:
     Applying neural networks: /module-3/applying-neural-networks
-# Programming 3:
-#   CIFAR10 data set: /module-3/cifar10-data-set
+Module 4:
+  Overview: /module-4/overview
+  Theory:
+    Learning network weights: /module-4/decision-trees-random-forests
+  Programming:
+    Predicting heart disease: /module-4/predicting-heart-disease
