@@ -20,6 +20,8 @@ Aan de start van het tentamen zullen alle studenten in breakout-rooms worden ing
 
 Wij zullen vervolgens tijdens het tentamen langs de breakout-rooms gaan om te surveilleren.
 
+Mocht er iets niet duidelijk zijn in een vraag, kun je de "Ask for help" knop onderin gebruiken.
+
 ## Regels
 
 * Zorg dat je alleen een browser met de tentamenvragen open hebt staan en een tekst editor om je antwoorden in te schrijven.
@@ -30,11 +32,10 @@ Wij zullen vervolgens tijdens het tentamen langs de breakout-rooms gaan om te su
 
 * Gebruik van een mobiele telefoon of andere apparaten, anders dat de computer waarop je het tentamen maakt, is niet toegestaan.
 
-* Spreken met andere is niet toegestaan gedurende het tentamen.
+* Spreken met anderen is niet toegestaan gedurende het tentamen.
 
 	* Ook hard op denken / spreken is niet toegestaan, omdat wij op basis de camera beelden geen onderscheid kunnen maken tussen dat en een telefoongesprek dat open staat.
 
-* Mocht er iets niet duidelijk zijn in een vraag, kun je de "Ask for help" knop onderin gebruiken.
 
 ## Format van de antwoorden
 
