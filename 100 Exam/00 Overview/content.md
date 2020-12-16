@@ -11,17 +11,21 @@ Aan de start van het tentamen zullen alle studenten in breakout-rooms worden ing
 * zet je je camera aan,
 * en mute je je microfoon.
 
-De docenten zullen vervolgens tijdens het tentamen langs de breakout-rooms gaan om te surveilleren.
+Wij zullen vervolgens tijdens het tentamen langs de breakout-rooms gaan om te surveilleren.
 
 ## Regels
 
-* Zorg dat je alleen een browser met de tentamenvragen open hebt staan en een text editor om je antwoorden in te schrijven. Specifiek zijn andere browser-tabs of messenger appliciations **niet** toegestaan.
+* Zorg dat je alleen een browser met de tentamenvragen open hebt staan en een tekst editor om je antwoorden in te schrijven.
+
+	* Specifiek zijn andere browser-tabs of messenger appliciations **niet** toegestaan.
 
 * Je dient gedurende het maken van het tentamen de gehele tijd zichtbaar in beeld te zijn.
 
 * Gebruik van een mobiele telefoon of andere apparaten, anders dat de computer waarop je het tentamen maakt, is niet toegestaan.
 
-* Spreken met andere is niet toegestaan gedurende het tentamen. Ook hard op denken / spreken is niet toegestaan, omdat wij op basis de camera beelden geen onderscheid kunnen maken tussen dat en een telefoongesprek dat open staat.
+* Spreken met andere is niet toegestaan gedurende het tentamen.
+
+	* Ook hard op denken / spreken is niet toegestaan, omdat wij op basis de camera beelden geen onderscheid kunnen maken tussen dat en een telefoongesprek dat open staat.
 
 * Mocht er iets niet duidelijk zijn in een vraag, kun je de "Ask for help" knop onderin gebruiken.
 
@@ -38,4 +42,7 @@ De antwoorden voor het tentamen kunnen hier worden ingeleverd: [Submit](/exam/su
 
 De vragen mogen in het Nederlands of Engels worden beantwoord.
 
-De antwoorden mogen in een tekst editor zoals Word of vergelijkbaar worden geschreven. De uiteindelijke antwoorden moeten naar PDF worden geconverteerd voordat ze worden ingeleverd. Zorg dus wel dat jouw editor makkelijk een PDF van de tekst kan maken.
+De antwoorden mogen in een tekst editor zoals Word of vergelijkbaar worden geschreven.
+
+De uiteindelijke antwoorden moeten naar PDF worden geconverteerd voordat ze worden ingeleverd. Zorg dus wel dat jouw editor makkelijk een PDF van de tekst kan maken.
+
