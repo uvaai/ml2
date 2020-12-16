@@ -26,7 +26,9 @@ $$
 
 ![network.png](network.png)
 
-**Question 2.1:** Given the network displayed in the image above: Give all parameter matrices and vectors for each of the layers. Then list the total number of parameters in the network.
+The image above displays a Neural Network. Input nodes are green, hidden nodes are black, and output nodes are red.
+
+**Question 2.1:** Given the network displayed in the image above: Give the shape of all parameter matrices *and* vectors for each of the layers. Then list the total number of parameters in the network.
 
 ![dataset.png](dataset.png)
 
