@@ -2,6 +2,13 @@
 
 Het tentamen zal **vrijdag 18 december om 10:00** zijn en zal via Zoom worden gesurveilleerd. De link hiervoor is: #TODO
 
+## Belangrijke Links
+
+* [Vragen](/exam/questions): De vragen zullen aan de start van het tentamen hier worden gepubliceerd.
+
+* [Correcties](/exam/corrections): Mochten er correcties moeten worden gemaakt, omdat een vraag bijvoorbeeld toch niet helemaal duidelijk is, dan zal dat hier worden toegevoegd.
+
+* [Submit](/exam/submit): Je antwoorden voor het tentamen kunnen hier worden ingeleverd.
 
 ## Procedure
 
@@ -28,15 +35,6 @@ Wij zullen vervolgens tijdens het tentamen langs de breakout-rooms gaan om te su
 	* Ook hard op denken / spreken is niet toegestaan, omdat wij op basis de camera beelden geen onderscheid kunnen maken tussen dat en een telefoongesprek dat open staat.
 
 * Mocht er iets niet duidelijk zijn in een vraag, kun je de "Ask for help" knop onderin gebruiken.
-
-## Links
-
-De vragen zullen aan de start van het tentamen hier worden gepubliceerd: [Vragen](/exam/questions)
-
-Mochten er correcties moeten worden gemaakt, omdat een vraag bijvoorbeeld toch niet helemaal duidelijk is, dan zal dat hier worden toegevoegd: [Correcties](/exam/corrections)
-
-De antwoorden voor het tentamen kunnen hier worden ingeleverd: [Submit](/exam/submit)
-
 
 ## Format van de antwoorden
 
