@@ -1,6 +1,6 @@
 # Instructies Online tentamen
 
-Het tentamen zal **vrijdag 18 december om 10:00** zijn en zal via Zoom worden gesurveilleerd. De link hiervoor is: #TODO
+Het tentamen zal **vrijdag 18 december om 10:00** zijn en zal via Zoom worden gesurveilleerd. De link hiervoor is: <https://uva-live.zoom.us/j/87992093827>
 
 ## Belangrijke Links
 
