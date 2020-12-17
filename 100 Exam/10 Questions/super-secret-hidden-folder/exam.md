@@ -12,7 +12,7 @@ $$
 
 **Question 1.3:** In Logistic Regression we use the sigmoid/logistic function: $g(z) = \frac{1}{1 + e^{-z}}$. Explain what this function does to its input, and why that is a desirable property.
 
-![target.png](target.png){: width=20}
+![target.png](target.png){: width="20px"}
 
 **Question 1.4.1:** Explain what the decision boundary is for a classification model.
 
