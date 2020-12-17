@@ -6,7 +6,7 @@ Het tentamen zal **vrijdag 18 december om 10:00** zijn en zal via Zoom worden ge
 
 * [Vragen](/exam/questions): De vragen zullen aan de start van het tentamen hier worden gepubliceerd.
 
-* [Correcties](/exam/corrections): Mochten er correcties moeten worden gemaakt, omdat een vraag bijvoorbeeld toch niet helemaal duidelijk is, dan zal dat hier worden toegevoegd.
+* [Corrections](/exam/corrections): Mochten er correcties moeten worden gemaakt, omdat een vraag bijvoorbeeld toch niet helemaal duidelijk is, dan zal dat hier worden toegevoegd.
 
 * [Submit](/exam/submit): Je antwoorden voor het tentamen kunnen hier worden ingeleverd.
 
@@ -46,7 +46,7 @@ De uiteindelijke antwoorden moeten naar PDF worden geconverteerd voordat ze word
 
 ## Deadline en inleveren
 
-Zorg dat je PDF uiterlijk om **12:30** inlevert.
+Er staat 2.5 uur voor het tentamen. Zorg dat je jouw antwoorden *voor* de eindtijd van het tentamen inlevert.
 
 Mocht je eerder klaar zijn, gebruik de "Ask for help" feature. Wij controleren dan of alles in ingeleverd, en pas daarna kun je de Zoom meeting verlaten.
 
