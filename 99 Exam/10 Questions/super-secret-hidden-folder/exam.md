@@ -95,7 +95,7 @@ the IG, as long as:
 * It is symmetrical around a ratio of 0.5,
 * and the highest value is at a ratio of 0.5.
 
-Both the Entropy and the Gigi-coefficient clearly meet these criteria. Explain
+Both the Entropy and the Gini-coefficient clearly meet these criteria. Explain
 why these two criteria are actually necessary for a good measure of the "purity"
 of a ratio.
 
