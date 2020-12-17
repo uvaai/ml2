@@ -49,7 +49,7 @@ you obtain or determine the exact decision boundary of that model?
 The image above displays a Neural Network. Input nodes are green, hidden nodes are black, and output nodes are red.
 
 **Question 2.1.1:** For the Neural Network displayed above: Give the dimensions
-of all *matrix and vector* parameters, defining each layer. List the
+of all *matrix and vector* parameters defining each layer. List the
 dimensions separately for each of the layers.
 
 **Question 2.1.2:** What is the total number of learnable weights in this network?
@@ -93,12 +93,12 @@ Below are 3 learning curves, where training and validation cost of a neural netw
 ## Question 4: Decision Trees
 
 **Question 4.1.2:** Describe what the branches of a categorical feature split
-look like for some split in a decision tree. How is the number of branches
+look like in a decision tree. How is the number of branches
 determined and what does each of the branches correspond to?
 
 **Question 4.1.1:** Explain how you can use the information gain to determine
 what split to make for a categorical decision tree. Why is that an effective
-way to determine what split to make?
+way to determine what split to make next?
 
 **Question 4.1.3:** What does the feature that is used for the *first split* in
 a decision tree tell you about the dataset you've trained the decision tree on?
@@ -106,10 +106,11 @@ a decision tree tell you about the dataset you've trained the decision tree on?
 <br/>
 
 **Question 4.2:** Suppose you have a Decision Tree, which you think might be 
-overfitting, based on the validation score. Give **3 possible methods** that you
-could use to change the tree, that will make overfitting less likely. Explain
-for each of the methods why it would work. *Note:* You are only allowed to
-make changes to the tree or the algorithm; you can not use a completely different model like a Random Forest.
+overfitting based on the validation score. Give **3 possible methods** that you
+could use to change the tree, that will make overfitting less likely. For each
+of these methods also explain why they would make overfitting less likely.
+
+*Note:* You are only allowed to make changes to the tree or the algorithm; you can not use a completely different model like a Random Forest.
 
 <br/>
 
@@ -120,8 +121,8 @@ The image above below the *Entropy* and the *Gini-coefficient* of a list with a 
 
 **Question 4.3:** In Decision Trees we use Information Gain to quantify the
 effectiveness of a specific split. In the assignment we used entropy as a part
-of the information gain to calculate how "pure" a list of True and False values
-was based on their ratio.  However, we can actually use any function as part of
+of the information gain to calculate how "pure" a list of class labels
+was based on their ratio.However, we can actually use any function as part of
 the IG, as long as:
 
 * It is symmetrical around a ratio of 0.5,
@@ -129,7 +130,7 @@ the IG, as long as:
 
 Both the Entropy and the Gini-coefficient clearly meet these criteria. Explain
 why these two criteria are actually necessary for a good measure of the "purity"
-of a ratio.
+of a class label ratio.
 
 ## Question 5: Model selection
 
