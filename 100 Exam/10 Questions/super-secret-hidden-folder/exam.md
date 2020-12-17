@@ -30,9 +30,9 @@ The image above displays a Neural Network. Input nodes are green, hidden nodes a
 
 **Question 2.1:** Given the network displayed in the image above: Give the shape of all parameter matrices *and* vectors for each of the layers. Then list the total number of parameters in the network.
 
-![dataset.png](dataset.png)
+![data.png](data.png)
 
-**Question 2.2:** How many input and output nodes would a Neural Network need to be able to predict the values of the column "Y" in the dataset displayed above?
+**Question 2.2:** How many input and output nodes would a Neural Network need to be able to predict the values of the column "origin" in the dataset displayed above?
 
 **Question 2.3:** Explain why the addition of hidden layers to the Neural Network enables the Neural Network to model more complex datasets.
 
