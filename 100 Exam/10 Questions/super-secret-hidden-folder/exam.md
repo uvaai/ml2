@@ -10,13 +10,13 @@ $$
 
 **Question 1.2.1:** The logistic regression cost function is made up from two parts that are added together. Explain why one could say that for every input, only one of these parts is active.
 
-<br/>
-
 **Question 1.2.2:** Describe what the error looks like for an active part.
 
 <br/>
 
 **Question 1.3:** In Logistic Regression we use the sigmoid/logistic function: $g(z) = \frac{1}{1 + e^{-z}}$. Explain what this function does to its input, and why that is a desirable property.
+
+<br/>
 
 ![target.png](target.png){: width="60%"}
 
@@ -35,6 +35,8 @@ $$
 The image above displays a Neural Network. Input nodes are green, hidden nodes are black, and output nodes are red.
 
 **Question 2.1:** Given the network displayed in the image above: Give the shape of all parameter matrices *and* vectors for each of the layers. Then list the total number of parameters in the network.
+
+<br/>
 
 ![data.png](data.png)
 
@@ -67,6 +69,8 @@ The image above shows the entropy and the GINI-value of a list with a specific r
 **Question 4.2.2:** Describe what the resulting branches of that categorical split would look like.
 
 **Question 4.2.3:** What does the value upon which the first split is made tell you about the dataset.
+
+<br/>
 
 **Question 4.3:** Suppose you have a Decision Tree for which you suspect that it overfits based on the validation score. Give three possible methods that you could use to change the tree, that will make overfitting less likely. Explain for each of the methods why it would work. **Note:** You are only allowed to make changes to the tree; you can not use a different model like a Random Forest.
 
