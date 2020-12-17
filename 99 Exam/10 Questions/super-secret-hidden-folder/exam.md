@@ -49,10 +49,10 @@ you obtain or determine the exact decision boundary of that model?
 The image above displays a Neural Network. Input nodes are green, hidden nodes are black, and output nodes are red.
 
 **Question 2.1.1:** For the Neural Network displayed above: Give the dimensions
-of all parameter *matrices and vectors* defining each layer. List the
-dimensions separately for each layer.
+of all *matrix and vector* parameters, defining each layer. List the
+dimensions separately for each of the layers.
 
-**Question 2.1.2:** What is the total number of learnable parameters in this network?
+**Question 2.1.2:** What is the total number of learnable weights in this network?
 
 <br/>
 
