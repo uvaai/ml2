@@ -14,7 +14,9 @@ $$
 J(\theta) = - \dfrac{1}{m} \sum_{i=1}^{m} y^{i} \log(h_\theta(x^{i})) + (1 - y^{i}) \log(1-h_\theta(x^{i}))
 $$
 
-**Question 1.2.1:** The logistic regression cost function is made up from two separate parts for each sample that are added together. Explain why one could say that for every input, only one of these parts is active.
+**Question 1.2.1:** The logistic regression cost function is made up of *two
+separate parts*, for each sample, that are added together. Explain why one
+could say that for every sample, only one of these parts is active.
 
 **Question 1.2.2:** Describe what the error approximately looks like for an active part, i.e. for what inputs is it high / low and how does it change.
 
