@@ -84,7 +84,7 @@ Below are 3 learning curves, where training and validation cost of a neural netw
 
 ![image_entropy_gini.png](image_entropy_gini.png)
 
-The image above shows the *entropy* and the *GINI-value* of a list with a specific ratio $p$ of `True` and `False` values. Both functions can be used to calculate the Information Gain of a specific split.
+The image above shows the *Entropy* and the *Gini-coefficient* of a list with a specific ratio $p$ of `True` and `False` values. Both functions can be used to calculate the Information Gain of a specific split.
 
 **Question 4.1:** In Decision Trees we use Information Gain to quantify the
 effectiveness of a specific split. In the assignment we used entropy as a part
@@ -95,7 +95,8 @@ the IG, as long as:
 * It is symmetrical around a ratio of 0.5,
 * and the highest value is at a ratio of 0.5.
 
-Explain why these two criteria are necessary for a good measure of the "purity"
+Both the Entropy and the Gigi-coefficient clearly meet these criteria. Explain
+why these two criteria are actually necessary for a good measure of the "purity"
 of a ratio.
 
 **Question 4.2.1:** Explain how you use the information gain to determine what split to make for a categorical decision tree.
