@@ -87,11 +87,30 @@ Below are 3 learning curves, where training and validation cost of a neural netw
 
 ## Question 4: Decision Trees
 
+**Question 4.1.2:** Describe what the branches of a categorical
+feature split look like for some specific split in a decision tree.
+
+**Question 4.1.1:** Explain how you use the information gain to determine what split to make for a categorical decision tree.
+
+**Question 4.1.3:** What does the feature that is used for the *first split* in
+a decision tree tell you about the dataset?
+
+<br/>
+
+**Question 4.2:** Suppose you have a Decision Tree, which you think might be 
+overfitting, based on the validation score. Give **3 possible methods** that you
+could use to change the tree, that will make overfitting less likely. Explain
+for each of the methods why it would work. *Note:* You are only allowed to
+make changes to the tree or the algorithm; you can not use a completely different model like a Random Forest.
+
+<br/>
+
+The image above below the *Entropy* and the *Gini-coefficient* of a list with a specific ratio $p$ of `True` and `False` values. Both functions can be used to calculate the Information Gain of a specific split.
+
 ![image_entropy_gini.png](image_entropy_gini.png)
 
-The image above shows the *Entropy* and the *Gini-coefficient* of a list with a specific ratio $p$ of `True` and `False` values. Both functions can be used to calculate the Information Gain of a specific split.
 
-**Question 4.1:** In Decision Trees we use Information Gain to quantify the
+**Question 4.3:** In Decision Trees we use Information Gain to quantify the
 effectiveness of a specific split. In the assignment we used entropy as a part
 of the information gain to calculate how "pure" a list of True and False values
 was based on their ratio.  However, we can actually use any function as part of
@@ -103,22 +122,6 @@ the IG, as long as:
 Both the Entropy and the Gini-coefficient clearly meet these criteria. Explain
 why these two criteria are actually necessary for a good measure of the "purity"
 of a ratio.
-
-**Question 4.2.1:** Explain how you use the information gain to determine what split to make for a categorical decision tree.
-
-**Question 4.2.2:** Describe what the resulting branches of a categorical
-feature split look like for some specific split.
-
-**Question 4.2.3:** What does the feature that is used for the *first split* in
-a decision tree tell you about the dataset?
-
-<br/>
-
-**Question 4.3:** Suppose you have a Decision Tree, which you think might be 
-overfitting, based on the validation score. Give **3 possible methods** that you
-could use to change the tree, that will make overfitting less likely. Explain
-for each of the methods why it would work. *Note:* You are only allowed to
-make changes to the tree or the algorithm; you can not use a completely different model like a Random Forest.
 
 ## Question 5: The XOR problem
 
