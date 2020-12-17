@@ -50,7 +50,9 @@ The image above displays a Neural Network. Input nodes are green, hidden nodes a
 
 ![data.png](data.png)
 
-**Question 2.2:** Say you're trying to train a Neural Network on the data set above. How many input and output nodes would that Neural Network need to be able to predict the values of the column "origin" in that dataset?
+**Question 2.2:** Say you're trying to train a Neural Network on the data set
+above. How many *input nodes* and *output nodes* would that Neural Network need
+to be able to predict the values of the column **origin** in that dataset?
 
 **Question 2.3:** Explain why the addition of hidden layers to the Neural Network enables the Neural Network to model more complex datasets.
 
