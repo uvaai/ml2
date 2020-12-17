@@ -28,7 +28,8 @@ could say that for every sample, only one of these parts is active.
 
 ![target.png](target.png){: width="60%"}
 
-**Question 1.4.1:** Explain what the decision boundary is for a classification model.
+**Question 1.4.1:** Explain what the decision boundary for a classification
+model is.
 
 **Question 1.4.2:** Explain what the **optimal** decision boundary would look like for the dataset depicted above.
 
