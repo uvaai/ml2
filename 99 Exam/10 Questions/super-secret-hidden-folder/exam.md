@@ -131,7 +131,7 @@ Both the Entropy and the Gini-coefficient clearly meet these criteria. Explain
 why these two criteria are actually necessary for a good measure of the "purity"
 of a ratio.
 
-## Question 5: The XOR problem
+## Question 5: Model selection
 
 ![xor.png](xor.png){: width="60%"}
 
@@ -144,5 +144,6 @@ and class B. For each of the following models:
 
 3. Decision trees
 
-Explain whether or not it is possible to train a model that can correctly classify
-_all_ points in the dataset. Motivate your answers for each of the models.
+Explain whether or not it is possible to train the model to correctly classify
+_all_ points in the dataset. Motivate your answers for each of the models
+separately.
