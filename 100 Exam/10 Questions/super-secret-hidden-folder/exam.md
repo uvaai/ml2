@@ -66,6 +66,6 @@ The image above shows the entropy and the GINI-value of a list with a specific r
 
 ## Question 5: The XOR problem
 
-![xor.png](xor.png)
+![xor.png](xor.png){: width="60%"}
 
 **Question 5:** Given the dataset above with two different classes: class A, and class B. Explain for Logistic Regression, Neural Networks, and Decision trees whether it is possible to train a model that can correctly classify _all_ datapoints.
