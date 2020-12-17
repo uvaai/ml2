@@ -1,0 +1,4 @@
+name: exam
+files:
+    required:
+        - exam_ml2.pdf
