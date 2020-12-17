@@ -28,7 +28,7 @@ does that make it an effective classification cost function?
 
 <br/>
 
-Consider the classification data set plotted below.
+Consider the classification dataset plotted below.
 
 ![target.png](target.png){: width="60%"}
 
@@ -60,7 +60,7 @@ Consider the following dataset:
 
 ![data.png](data.png)
 
-**Question 2.2:** Say you're trying to train a Neural Network on the data set
+**Question 2.2:** Say you're trying to train a Neural Network on the dataset
 above. How many *input nodes* and *output nodes* would that Neural Network need
 to be able to predict the values of the column **origin** in that dataset?
 
@@ -92,13 +92,16 @@ Below are 3 learning curves, where training and validation cost of a neural netw
 
 ## Question 4: Decision Trees
 
-**Question 4.1.2:** Describe what the branches of a categorical
-feature split look like for some specific split in a decision tree.
+**Question 4.1.2:** Describe what the branches of a categorical feature split
+look like for some split in a decision tree. How is the number of branches
+determined and what does each of the branches correspond to?
 
-**Question 4.1.1:** Explain how you use the information gain to determine what split to make for a categorical decision tree.
+**Question 4.1.1:** Explain how you can use the information gain to determine
+what split to make for a categorical decision tree. Why is that an effective
+way to determine what split to make?
 
 **Question 4.1.3:** What does the feature that is used for the *first split* in
-a decision tree tell you about the dataset?
+a decision tree tell you about the dataset you've trained the decision tree on?
 
 <br/>
 
@@ -142,4 +145,4 @@ and class B. For each of the following models:
 3. Decision trees
 
 Explain whether or not it is possible to train a model that can correctly classify
-_all_ points in the data set. Motivate your answers.
+_all_ points in the dataset. Motivate your answers for each of the models.
