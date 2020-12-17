@@ -1,6 +1,8 @@
 ## Question 1: Logistic Regression
 **Question 1.1:** Explain why Logistic Regression has the term "Regression" in it's name, even though it is a classification model.
 
+</br>
+
 The cost function for logistic regression is given as:
 $$
 J(\theta) = - \dfrac{1}{m} \sum_{i=1}^{m} y^{i} \log(h_\theta(x^{i})) + (1 - y^{i}) \log(1-h_\theta(x^{i}))
@@ -8,7 +10,11 @@ $$
 
 **Question 1.2.1:** The logistic regression cost function is made up from two parts that are added together. Explain why one could say that for every input, only one of these parts is active.
 
+</br>
+
 **Question 1.2.2:** Describe what the error looks like for an active part.
+
+</br>
 
 **Question 1.3:** In Logistic Regression we use the sigmoid/logistic function: $g(z) = \frac{1}{1 + e^{-z}}$. Explain what this function does to its input, and why that is a desirable property.
 
