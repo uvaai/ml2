@@ -65,13 +65,13 @@ The image above displays a Neural Network. Input nodes are green, hidden nodes a
 
 <br/>
 
-Below are 3 learning curves, where training and validation cost of a neural network are measured *during* the training phase. On the *x*-axis are the iterations of gradient descent and on the *y*-axis shows the cost. After each step of gradient descent, not only is the training error measured, but also the validation error.
+Below are 3 learning curves, where training and validation cost of a neural network are measured *during* the training phase. On the *x*-axis are the iterations of gradient descent and the *y*-axis shows the cost. After each step of gradient descent, not only is the training error measured, but also the validation error.
 
 ![learning_curve.png](learning_curve.png)
 
-**Question 3.3:** Each of these 3 curves shows that the network has not reached an optimal solution. For each of the 3 learning curves above, descibe: 
+**Question 3.3:** Each of these 3 curves shows that the network has not reached an optimal solution. For each of the 3 learning curves above, descibe:
 
-* What possible the problem with the neural network or training process could be,
+* What the problem with the neural network or training process could possibly be,
 
 * how this can be deduced from the graph,
 
@@ -90,7 +90,7 @@ calculate how "pure" a list of True and False values was based on their ratio.
 However, we can actually use any function as long as:
 
 * It is symmetrical around a ratio of 0.5,
-* and the highest value that the function returns is when the ratio is 0.5. 
+* and the highest value that the function returns is when the ratio is 0.5.
 
 Explain why these two criteria are necessary for a good measure of the "purity"
 of a ratio.
