@@ -76,6 +76,7 @@ Sending such a request is *not* required for the assignment, as it can take a
 while to get a response in some cases, but it might still yield interesting
 results.
 
+
 *Before reading the relevant privacy notice*, answer the following questions:
 
 * **Q1.** What company or institution did you choose?
@@ -83,15 +84,17 @@ results.
 * **Q2.** Which decisions that affect you do you think this company might make
 *soley* automatically? Try to be as complete as possible in your description.
 
-* **Q3.** A decision to, for example, inspect you for fraud can of course be argued
+
+A decision to, for example, inspect you for fraud can of course be argued
 to be only *partially* automatically, if the actual inspection is then done
 manually, and therefore need not necessarily be disclosed under the GDPR.
-Which decisions you do you think might be made *partially* automatically?
-Again, be as complete as possible.
 
-* **Q4.** For one of the potentially automated decisions you listed in Q2 or Q3,
-speculate what a machine learning model for that decision might look like. What
-kind of training data would it use and what regression/classification
+* **Q3.** Which decisions you do you think might be made *partially*
+automatically? Again, be as complete as possible.
+
+* **Q4.** For one of the potentially automated decisions you listed in Q2 or
+Q3, speculate what a machine learning model for that decision might look like.
+What kind of training data would it use and what regression/classification
 predictions do you think it would make exactly?
 
 
@@ -105,7 +108,10 @@ provided?
 * **Q6.** Does the answer to Q5 correspond with your expectations from Q2 and Q3?
 Where does it differ and what surprised you the most?
 
-* **Q7.** The article by Goodman and Flaxman lists three possible barriers
-transparency. Do you think you encountered any of these barriers with your
-company? If so, which ones and why?
+
+The article by Goodman and Flaxman lists three possible barriers to 
+transparency. 
+
+* **Q7.** Do you think you encountered any of these barriers with your company?
+If so, which ones and why?
 
