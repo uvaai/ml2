@@ -57,7 +57,7 @@ currently. For this writing assignment you will try and investigate to what
 degree at least questions regarding the existance of automated decision-making
 that affects you are actually answerable under the GDPR.
 
-#### Assignment
+#### Assignment and Questions
 
 For this assignment you should pick one private company or government
 institution for which you are a *data subject* and which might make automated
