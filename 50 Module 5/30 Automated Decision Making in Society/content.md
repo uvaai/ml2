@@ -1,4 +1,4 @@
-a
+
 ## Automated Decision Making in Society
 
 Decision made by machine learning algorithms are already a part of many aspects
