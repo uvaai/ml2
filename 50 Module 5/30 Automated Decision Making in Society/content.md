@@ -90,7 +90,7 @@ to be only *partially* automatical, if the actual inspection is then done
 manually, and therefore need not necessarily be disclosed under the GDPR.
 
 * **Q3.** Which decisions you do you think might be made *partially*
-automatically? Again, be as complete as possible.
+automatically? Again, try to be as complete as possible.
 
 * **Q4.** For one of the potentially automated decisions you listed in Q2 or
 Q3, speculate what a machine learning model for that decision might look like.
