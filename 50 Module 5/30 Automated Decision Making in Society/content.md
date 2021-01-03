@@ -122,7 +122,7 @@ the actual decision. This appeared to be the case for judges not wanting to
 contradict the sentencing recommendation by the COMPAS algorithm, which we
 discussed in an earlier written assignment. It also appears in WOB-data
 regarding the questionair on use algorithms by the Dutch government, in the
-reply from the *Centrum Indicatiestelling Zorg*, which states "Er is een
+reply from the *Centrum Indicatiestelling Zorg*, which states "Ook is er een
 algoritme in gebruik dat advies geeft over een eventueel toe te kennen
 Zorgprofiel. [...] Medewerkers vinden het soms lastig om, op basis van de eigen
 expertise, af te wijken van het voorstel dat een algoritme geeft."
