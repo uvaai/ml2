@@ -1,10 +1,10 @@
 
 ## Automated Decision Making in Society
 
-Decision made by machine learning algorithms are already a part of many aspects
-of our lives, although it can sometimes a bit opaque where exactly. For the
-writing assignment this week, you'll dive deeper into that question and try to
-accertain where algorithms might make decisions in some part of *your* life.
+Decisions made by machine learning algorithms are already a part of many
+aspects of our lives, although it can sometimes a bit opaque where exactly. For
+the writing assignment this week, you'll dive deeper into that question and try
+to accertain where algorithms might make decisions in some part of *your* life.
 This assignment will be a bit larger than other written assignments, as there
 are several articles to read as background and you'll have to do some
 investigating yourself.
