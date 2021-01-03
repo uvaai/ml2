@@ -89,7 +89,7 @@ manually, and therefore need not necessarily be disclosed under the GDPR.
 Which decisions you do you think might be made *partially* automatically?
 Again, be as complete as possible.
 
-* **Q4.** For one of the potentially automated decisions you listed in Q2 and Q3,
+* **Q4.** For one of the potentially automated decisions you listed in Q2 or Q3,
 speculate what a machine learning model for that decision might look like. What
 kind of training data would it use and what regression/classification
 predictions do you think it would make exactly?
