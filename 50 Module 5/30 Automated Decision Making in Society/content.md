@@ -1,4 +1,4 @@
-
+a
 ## Automated Decision Making in Society
 
 Decision made by machine learning algorithms are already a part of many aspects
@@ -86,7 +86,7 @@ results.
 
 
 A decision to, for example, inspect you for fraud can of course be argued
-to be only *partially* automatically, if the actual inspection is then done
+to be only *partially* automatical, if the actual inspection is then done
 manually, and therefore need not necessarily be disclosed under the GDPR.
 
 * **Q3.** Which decisions you do you think might be made *partially*
@@ -101,17 +101,34 @@ predictions do you think it would make exactly?
 Next, read privacy notice and any response you might have gotten from the from
 the company you selected, and answer the remaining questions:
 
-* **Q5.** What automated decisions are described by the company? If any automated
-decisions are listed, what additional information about the logic involved is
-provided?
+* **Q5.** What automated decisions are described by the company? If any
+automated decisions are listed, what additional information about the logic
+involved is provided?
 
-* **Q6.** Does the answer to Q5 correspond with your expectations from Q2 and Q3?
-Where does it differ and what surprised you the most?
+* **Q6.** Does the answer to Q5 correspond with your expectations from Q2 and
+Q3? Where does it differ and what surprised you the most?
 
 
 The article by Goodman and Flaxman lists three possible barriers to 
 transparency. 
 
 * **Q7.** Do you think you encountered any of these barriers with your company?
-If so, which ones and why?
+If so, which one(s) and why?
+
+
+Even if a decision is only partially automated, anecdotal evidence has been
+reported that automated recommendations might still influence the human making
+the actual decision. This appeared to be the case for judges not wanting to
+contradict the sentencing recommendation by the COMPAS algorithm, which we
+discussed in an earlier written assignment. It also appears in WOB-data
+regarding the questionair on use algorithms by the Dutch government, in the
+reply from the *Centrum Indicatiestelling Zorg*, which states "Er is een
+algoritme in gebruik dat advies geeft over een eventueel toe te kennen
+Zorgprofiel. [...] Medewerkers vinden het soms lastig om, op basis van de eigen
+expertise, af te wijken van het voorstel dat een algoritme geeft."
+
+* **Q8.** Do you think any of the partially automated decision you listed for
+Q3 are at risk of such an influence? Why, or why not?
+
+* **Q9.** Describe one possible solution to control for this type of influencing.
 
