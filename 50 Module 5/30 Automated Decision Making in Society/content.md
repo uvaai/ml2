@@ -130,6 +130,6 @@ expertise, af te wijken van het voorstel dat een algoritme geeft."
 * **Q8.** Do you think any of the partially automated decisions you listed for
 Q3 are at risk of such an influence? Why, or why not?
 
-* **Q9.** Propose a possible (partial) solution to control for this type of
-influencing.
+* **Q9.** Propose a possible (partial) solution the company might implement to
+control for this type of influencing.
 
