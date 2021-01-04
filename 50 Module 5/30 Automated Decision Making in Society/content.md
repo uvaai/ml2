@@ -131,5 +131,5 @@ expertise, af te wijken van het voorstel dat een algoritme geeft."
 Q3 are at risk of such an influence? Why, or why not?
 
 * **Q9.** Propose a possible (partial) solution the company might implement to
-control for this type of influencing.
+mitigate this type of influencing.
 
