@@ -110,7 +110,9 @@ Q3? Where does it differ and what surprised you the most?
 
 
 The article by Goodman and Flaxman lists three possible barriers to 
-transparency. 
+transparency: Intentional concealment on the part corporations or institutions,
+gaps in technical literacy of most people, and a mismatch between the
+mathematical optimization in ML and the demands of human-scale reasoning.
 
 * **Q7.** Do you think you encountered any of these barriers with your company?
 If so, which one(s) and why?
