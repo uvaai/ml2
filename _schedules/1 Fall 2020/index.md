@@ -42,7 +42,7 @@ The deadline for module 5 is **Tuesday January 12th at 17:59**.
 
 * **[Q&A] Convolution & Conv. Nets** on *Thursday January 7th at 11:00*: <https://uva-live.zoom.us/j/81032031908>
 
-## 4: Schedule & Werkcolleges
+## Module 4: Schedule & Werkcolleges
 
 The deadline for module 4 is **Thursday December 10th at 17:59**.
 
