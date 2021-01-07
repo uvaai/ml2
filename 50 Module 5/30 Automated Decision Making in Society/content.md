@@ -98,8 +98,8 @@ What kind of training data would it use and what regression/classification
 predictions do you think it would make exactly?
 
 
-Next, read privacy notice and any response you might have gotten from the from
-the company you selected, and answer the remaining questions:
+Next, read the privacy notice and any response you might have gotten from the
+from the company you selected, and answer the remaining questions:
 
 * **Q5.** What automated decisions are described by the company? If any
 automated decisions are listed, what additional information about the logic
