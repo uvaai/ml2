@@ -22,12 +22,12 @@ For your chosen topic, you should answer the following question:
 
 * Q1. What topic did you choose?
 
-Seach for news articles online referring to your topic and read at least 2
-different ones. 
+Search for news articles online referring to your topic and read at least 2
+different ones.
 
 * Q2. Which articles on the topic did you read?
 
-* Q3. What impression did the news article give you of the system? Were the articles mostly negative, positve or neutral? Did any particular benefit or risk of the system stand out? 
+* Q3. What impression did the news article give you of the system? Were the articles mostly negative, positive or neutral? Did any particular benefit or risk of the system stand out?
 
 Next, try to find more in depth articles or blog posts explaining the actual
 working of the system. Your goal in reading these sources should be to get a
@@ -36,18 +36,17 @@ working of the system. Your goal in reading these sources should be to get a
 Two important things to note: If your system contains a lot of technical
 details you're not familair with (like might be the case for the *AlphaFold*
 topic), then it is not required that you study the details to completely
-understand the system. If exact details are hard to find for you system (like
+understand the system. If exact details are hard to find for your system (like
 might the case for the *political microtargeting* topic), then is enough to try
 to speculate what such a system would look like, based on the information you
 *can* find.
 
-In all cases you should focus on the high level understanding of what the
-systems learns or does. It is a machine learning system or another type of AI?
+In all cases you should focus on a high-level understanding of what the
+systems learns or does. Is it a machine learning system or another type of AI?
 If so, is it supervised or unsupervised learning? What would the training data
 for this system look like? What types of algorithm(s) do you think are part of
 this system?
 
 * Q4. Which sources did you find?
 
-* Q5. Give your own high level description / speculation of what this system does based on the sources you've found. Your answer here may go into detail, full technical detail is not required. Try to limit your answer to around 400 words maximum.
-
+* Q5. Give your own high level description / speculation of what this system does based on the sources you've found. Your answer here may go into detail, but full technical detail is not required. Try to limit your answer to around 400 words maximum.
