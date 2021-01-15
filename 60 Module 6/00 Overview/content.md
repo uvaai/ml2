@@ -6,4 +6,6 @@ introduce some more from deep learning and some of the useful tools and tricks
 to get these deeper networks to still learn useful representations. The 
 [programming notebook](/module-6/building-deeper-cnns) will consist of two
 parts where you're practice applying these tools to two different data sets.
+Finally, for the [writing assignment](/module-6/understanding-ai-systems) we'll
+take better look at AI systems covered in recent news articles.
 
