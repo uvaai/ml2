@@ -36,7 +36,7 @@
 
 ### Batch Normalization: Batch Norm at test time
 
-![embed](https://youtube.com/embed/nUUqwaxLnWs)
+![embed](https://youtube.com/embed/5qefnAek8OA)
 
 
 ### Practical advice for using ConvNets: Data Augmentation
