@@ -1,0 +1,53 @@
+
+## Understanding AI systems
+
+For the last writing assignment of this course, we'll take another look at AI
+systems mentioned in news articles. Having spent the last few months studying
+Artificial Intelligence and Machine Learning, you should now have a lot more
+background to understand what a modern AI systems are approximately learning.
+
+You may pick your own topic for this writing assignmentm but he topic should be
+some system that contains AI/ML which has been covered in news articles
+recently. Possible examples would include:
+
+* Deepfake models used to create fake news videos.
+* Microtargeting models used for political advertisements on social media.
+* AlphaFold used to solve protein-folding, which can speed up vaccine development.
+
+If you're unsure if the system/model you've chosen would be a good topic for
+the writing assignment, you can of course discuss this with one of the
+teachers.
+
+For your chosen topic, you should answer the following question:
+
+* Q1. What topic did you choose?
+
+Seach for news articles online referring to your topic and read at least 2
+different ones. 
+
+* Q2. Which articles on the topic did you read?
+
+* Q3. What impression did the news article give you of the system? Were the articles mostly negative, positve or neutral? Did any particular benefit or risk of the system stand out? 
+
+Next, try to find more in depth articles or blog posts explaining the actual
+working of the system. Your goal in reading these sources should be to get a
+*general* idea of the inner workings of these systems.
+
+Two important things to note: If your system contains a lot of technical
+details you're not familair with (like might be the case for the *AlphaFold*
+topic), then it is not required that you study the details to completely
+understand the system. If exact details are hard to find for you system (like
+might the case for the *political microtargeting* topic), then is enough to try
+to speculate what such a system would look like, based on the information you
+*can* find.
+
+In all cases you should focus on the high level understanding of what the
+systems learns or does. It is a machine learning system or another type of AI?
+If so, is it supervised or unsupervised learning? What would the training data
+for this system look like? What types of algorithm(s) do you think are part of
+this system?
+
+* Q4. Which sources did you find?
+
+* Q5. Give your own high level description / speculation of what this system does based on the sources you've found. Your answer here may go into detail, full technical detail is not required. Try to limit your answer to around 400 words maximum.
+
