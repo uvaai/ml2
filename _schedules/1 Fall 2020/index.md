@@ -29,11 +29,11 @@ The deadline for module 5 is **Monday January 25th at 17:59**.
 
 | Day             | Data Pipelines               | Introduction to ML 2                | Werkcolleges                |
 | --------------- | ---------------------------- | ----------------------------------- | --------------------------- |
-| Friday          | Bokeh: Basic plotting        | Watch Theory videos & Start CIFAR   |                             |
+| Friday          | Bokeh: Basic plotting        | Watch Theory videos & Start CIFAR Notebook |                      |
 |                 |                              |                                     |                             |
 | Monday          | Bokeh: Styling and Layout    | Finish CIFAR Notebook               |                             | 
 | Tuesday         | Bokeh: Data Sources and Transformation | Start GTSRB Notebook      |                             |
-| Wednesday       | Bokeh: Interactions          | Cont. GTSRB Notebook                | 11:00 [Q&A] Deep Conv. Nets |
+| Wednesday       | Bokeh: Interactions          | Cont. GTSRB Notebook                | 11:00 [Q&A] Deep CNN        |
 | Thursday        | Start Visualization          | Finish GTSRB Notebook               |                             |
 | Friday          | Cont. Visualization          | Start Writing Assignment            |                             |
 |                 |                              |                                     |                             |
@@ -41,7 +41,7 @@ The deadline for module 5 is **Monday January 25th at 17:59**.
 
 <br />
 
-* **[Q&A] Deep Conv. Nets** on *Wednesday January 20th at 11:00*: <https://uva-live.zoom.us/j/83308606569>
+* **[Q&A] Deep CNN** on *Wednesday January 20th at 11:00*: <https://uva-live.zoom.us/j/83308606569>
 
 ## Module 5: Schedule & Werkcolleges
 
