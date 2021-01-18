@@ -1,13 +1,13 @@
 # Project
 
-This project is completely optional, as you're final grade for the "ML project"
+This project is completely optional, as your final grade for the "ML project"
 will only depend on the combination of your grades for the previous 2 modules.
 However, as there is about a week left, we'd like to suggest some interesting
 directions in AI to further explore.
 
-If you'd like to still try a machine project this last week, you're very
-welcome too. Know that originally we planned a month for a project, so you'll
-probably not be able to complete it, but you'll still gain a lot more
+If you'd like to still try a machine learning project this last week, you're
+very welcome too. Know that originally we planned a month for a project, so
+you'll probably not be able to complete it, but you'll still gain a lot more
 experience in applying AI in a project of your own. As this portion is
 ungraded, it doesn't matter if you pick something too ambitious and are not
 able to complete it.
@@ -29,7 +29,8 @@ going for a neural network approach.
 For datasets, [Kaggle](https://www.kaggle.com/) provides many, many challenges
 you might take up. If you'd like a recommendation, we'd suggest the [plankton
 classification challenge](https://www.kaggle.com/c/plankton-challenge/overview)
-from a few years ago.
+from a few years ago. You can of course discuss any other projects topics you
+might want to try with us.
 
 ### Visualization project
 
@@ -47,10 +48,10 @@ or alternatively [COVID-19 open research challenge](https://www.kaggle.com/allen
 
 ### Machine Learning extended topics
 
-Eventhough we covered a lot of ML algorithms, there are still many more topics
+Even though we've covered a lot of ML algorithms, there are still many more topics
 to explore. For this project you should pick a class of algorithms we've not
 covered yet, study them on your own and see if you can get these algorithms to
-learn on a simple problem. You should currently have enough of general
+learn on a simple problem. You should currently have enough of a general
 background to find relevant material for most classes of algorithms, although
 we still might be able to point you in a specific direction if needed. There
 are two classes we would suggest as options:
@@ -76,7 +77,7 @@ to play these games.
 Lastly, you could pick another writing assignment topic and dive into that.
 This can again be any topic we've not covered yet. One suggestion we might make
 is to take a look at the recent developments around *explanainable* and
-*interpretable* AI. In many critical applications, knowing why a model as
+*interpretable* AI. In many critical applications, knowing why a model has
 predicted something is more and more becoming almost as important as the
 accuracy of the prediction itself. Some resources and articles to get you
 started:
@@ -92,12 +93,12 @@ teammembers or form a team and then decide on a topic together. If you're still
 looking for or accepting other teammembers, you can make a post on the [Ed
 forum](https://edstem.org/us/courses/2334/discussion/) using the `ML Project`
 tag. You can of course do any of these topics alone, and there is official no
-maximum group size either, although we would recommend about 3 students per
+maximum group size either, although we would recommend *about 3 students* per
 team.
 
-If you have made a team and selected a topic, please send us a short message to
-inform us. Additionally, if enough of you would want to, we could do very
-informal final presentation session, where any team that would like, can share
-what they've done / learned this week. Sok please also let us know if you'd
-like to participate in this.
+If you have made a team and selected a topic, please **send us a short
+message** to inform us. Additionally, if enough of you would want to, we could
+do very informal final presentation session, where any team that would like,
+can share what they've done / learned this week. So, please also let us know if
+you'd like to participate in this.
 
