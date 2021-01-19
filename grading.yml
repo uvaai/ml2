@@ -1,0 +1,81 @@
+templates:
+    2: &auto-manual
+        type: float
+        subgrades:
+            correctness: integer
+            points: integer
+        automatic:
+            correctness: (correctness_score * 100).floor
+        calculation: (correctness/100).floor * (points + 6)
+        hide_calculated: true
+    3: &manual
+        type: float
+        subgrades:
+            points: integer
+        calculation: points + 6
+    4: &fullyauto
+        type: pass
+        subgrades:
+            correctness: integer
+        automatic:
+            correctness: (correctness_score * 100).floor
+        calculation: -(correctness / 100)
+        auto_publish: true
+        hide_subgrades: true
+    5: &check_off
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
+    6: &manual_exam
+        type: float
+        subgrades:
+          points: float
+        calculation: points
+        hide_subgrades: true
+
+grades:
+    prog_7: *manual
+    prog_8: *manual
+    prog_9a: *manual
+    prog_9b: *manual
+    prog_10: *manual
+    writ_7: *manual
+    exam: *manual_exam
+
+calculation:
+    final:
+        module1: 15
+        module2: 15
+        module3: 15
+        module4: 15
+        exam: 40
+
+assignments:
+
+exam:
+    submits:
+        exam: 1
+
+module1:
+    show_progress: true
+    submits:
+        prog_7: 1
+        writ_7: 1
+
+module2:
+    show_progress: true
+    submits:
+        prog_8: 1
+
+module3:
+    show_progress: true
+    submits:
+        prog_9a: 1
+        prog_9b: 1
+
+module4:
+    show_progress: true
+    submits:
+        prog_10: 1
