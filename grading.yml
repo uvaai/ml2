@@ -55,6 +55,8 @@ calculation:
         module3: 15
         module4: 15
         exam: 40
+        module5: 0
+        module6: 0
 
 exam:
     submits:
@@ -81,3 +83,15 @@ module4:
     show_progress: true
     submits:
         prog_10: 1
+
+module5:
+    show_progress: true
+    submits:
+        prog_11: 1
+        writ_11: 1
+
+module6:
+    show_progress: true
+    submits:
+        prog_12: 1
+        writ_12: 1
