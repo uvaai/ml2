@@ -30,10 +30,6 @@ templates:
         hide_calculated: true
     6: &manual_exam
         type: float
-        subgrades:
-            points: float
-        calculation: points
-        hide_subgrades: true
 
 grades:
     prog_7: *manual
@@ -42,11 +38,11 @@ grades:
     prog_9a: *manual
     prog_9b: *manual
     prog_10: *manual
-    exam: *manual_exam
     prog_11: *manual
     writ_11: *manual
     prog_12: *manual
     writ_12: *manual
+    exam: *manual_exam
 
 calculation:
     final:
