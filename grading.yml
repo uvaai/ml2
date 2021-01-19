@@ -31,17 +31,17 @@ templates:
     6: &manual_exam
         type: float
         subgrades:
-          points: float
+            points: float
         calculation: points
         hide_subgrades: true
 
 grades:
     prog_7: *manual
+    writ_7: *manual
     prog_8: *manual
     prog_9a: *manual
     prog_9b: *manual
     prog_10: *manual
-    writ_7: *manual
     exam: *manual_exam
     prog_11: *manual
     writ_11: *manual
