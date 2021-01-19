@@ -43,6 +43,10 @@ grades:
     prog_10: *manual
     writ_7: *manual
     exam: *manual_exam
+    prog_11: *manual
+    writ_11: *manual
+    prog_12: *manual
+    writ_12: *manual
 
 calculation:
     final:
