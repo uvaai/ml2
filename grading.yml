@@ -55,8 +55,6 @@ calculation:
         module3: 15
         module4: 15
         exam: 40
-        module5: 0
-        module6: 0
 
 exam:
     submits:
