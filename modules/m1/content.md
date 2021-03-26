@@ -5,7 +5,7 @@ The deadline for both Data Pipelines and Introduction to Machine Learning 2 is<b
 
 | Day                | Data Pipelines               | Introduction to<br>Machine Learning | Seminars                    |
 | ------------------ | ---------------------------- | ----------------------------------- | --------------------------- |
-| Thursday<br>01/04  | Introduction, Queue, Game of Cards | Theory videos +<br>Logistic Regression: Assignment 2 |      |
+| Thursday<br>01/04  | Introduction, Queue,<br>Game of Cards | Theory videos +<br>Logistic Regression: Assignment 2 |      |
 |                    |                              |                                     |                             |
 | Tuesday<br>06/04   | Hangman: Part 1, 2           | Logistic Regression: Assignment 5   | Logistic Regression         |
 | Wednesday<br>07/04 | Hangman: Part 3              | Logistic Regression: Assignment 8   | Classes & Object Oriented programming |
