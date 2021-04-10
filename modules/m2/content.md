@@ -5,7 +5,7 @@ The deadline for both Data Pipelines and Introduction to Machine Learning 2 is<b
 
 | Day                | Data Pipelines               | Introduction to<br>Machine Learning | Seminars                    |
 | ------------------ | ---------------------------- | ----------------------------------- | --------------------------- |
-| Monday<br>12/04    | Room class & Creating rooms  | Theory Videos +<br>NN Forward: Assignment 1 |                     |
+| Monday<br>12/04    | Room class & Creating rooms  | Theory Videos + NN Forward:<br>Assignment 1 |                     |
 | Tuesday<br>13/04   | Making connections &<br> Adventure: Step 2 | NN Forward:<br>Assignment 2 & 3 | Neural Network Theory |
 | Wednesday<br>14/04 | Adventure: Step 3 & 4        | NN Forward:<br>Assignment 4, 5, 6 & 7 |                           |
 | Thursday<br>15/04  | Adventure: Step 5 & 6        | NN Forward:<br>Assignment 8 & 9     | Neural Network Implementation |
