@@ -23,7 +23,7 @@ potentially solve, and also depends on the assumption that capitalism is the
 only viable economic system.
 
 However, countering these arguments would really just change the subject to
-the advantages and disadvantges of UBI. Implementing a UBI would just as a
+the advantages and disadvantages of UBI. Implementing a UBI would just as a
 direct effect eliminate this potential problem of unemployment due to
 automation, but that is not the only reason to argue for a UBI. Considering
 pro's and con's of a UBI is an interesting political en economic exercise, but
