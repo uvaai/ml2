@@ -22,7 +22,7 @@ these really cut to the core of the many underlying problems a UBI would
 potentially solve, and also depends on the assumption that capitalism is the
 only viable economic system.
 
-However, countering these arguments would really just changes the subject to
+However, countering these arguments would really just change the subject to
 the advantages and disadvantges of UBI. Implementing a UBI would just as a
 direct effect eliminate this potential problem of unemployment due to
 automation, but that is not the only reason to argue for a UBI. Considering
@@ -50,7 +50,7 @@ article. All other sections are optional, if you're interested.
 
 For the writing assignment of this week, you should argue, based on these two
 articles, whether or not you actually think it is likely that increases in AI
-technology will indeed lead to mass unemployment. If you consulte other
+technology will indeed lead to mass unemployment. If you consult other
 sources before coming to your conclusion, you should cite these in your answer
 too, but this is not required.
 
