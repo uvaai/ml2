@@ -18,6 +18,7 @@ Module 2:
     Model Release Strategies: /module-2/model-release-strategies
 Module 3:
   Overview: /module-3/overview
+  Schedule: /modules/m3
   Theory 1:
     Learning network weights: /module-3/learning-network-weights
   Programming 1:
@@ -28,6 +29,8 @@ Module 3:
     Activation functions: /module-3/activation-functions
   Theory 3:
     Applying neural networks: /module-3/applying-neural-networks
+  Writing:
+    Automated Decision Making in Society: /module-5/automated-decision-making-in-society
 Module 4:
   Overview: /module-4/overview
   Theory:
@@ -40,8 +43,6 @@ Module 5:
     Convolutional Neural Networks: /module-5/convolutional-neural-networks
   Programming:
     Filters and Convolution: /module-5/filters-and-convolution
-  Writing:
-    Automated Decision Making in Society: /module-5/automated-decision-making-in-society
 Module 6:
   Overview: /module-6/overview
   Theory:

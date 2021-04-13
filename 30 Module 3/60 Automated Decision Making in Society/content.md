@@ -17,10 +17,11 @@ results of which were analysed by the CBS.
 
 Start by reading sections 1 and 2 of the report. Most common among the
 respondents is the use of "case-based algorithms" (i.e. machine learning) with
-many of the specific algorithms corresponding to methods covered in ML1 and
-ML2, including the CNN's from this module. If you're interested in more of the
-specifics, part of the questionair responses were made public by a WOB-request
-by the NOS and can be searched through
+many of the specific algorithms corresponding to methods we've covered in ML1
+or will still cover in ML2, like Decision Trees and Convolutional Neural
+Networks. If you're interested in more of the specifics, part of the
+questionair responses were made public by a WOB-request by the NOS and can be
+searched through
 [here](https://app.nos.nl/datavisualisatie/2018/algoritmen/index.html).
 
 In 2018 the EU also introduced the General Data Protection Regulation, which
