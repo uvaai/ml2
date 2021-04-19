@@ -35,6 +35,7 @@ grades:
     prog_7: *manual
     writ_7: *manual
     prog_8: *manual
+    writ_8: *manual
     prog_9a: *manual
     prog_9b: *manual
     prog_10: *manual
@@ -64,6 +65,7 @@ module1:
 module2:
     submits:
         prog_8: 1
+        writ_8: 1
 
 module3:
     submits:
