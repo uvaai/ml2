@@ -32,9 +32,9 @@ sections from the
 [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 by Christoph Molnar. Start by reading sections:
 
-* Interpretability: 2.0, 2.1, 2.2
-* Interpretable Models: 4.0, 4.4
-* Model-Agnostic methods: 5.0 and 5.1
+* Interpretability: *2.0, 2.1, 2.2*
+* Interpretable Models: *4.0, 4.4*
+* Model-Agnostic methods: *5.0, 5.1*
 
 from the book before you continue with the rest of the assignment.
 
@@ -42,7 +42,6 @@ Cynthia Rudin from Duke Unversity wrote an interesting article advocating a
 differnt position, namely to stop using black box models altogether, whenever
 possible, for any situation where explanations might be needed. Read the
 article linked here:
-
 [Cythia Rudin - Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/abs/1811.10154).
 
 
