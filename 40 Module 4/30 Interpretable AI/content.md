@@ -20,10 +20,10 @@ has resulted in quite a few different methods to generate an explanation for a
 black box model. For example:
 
 * Determining what features in the testing sample, or which specific samples
-from the training data where relevant for this prediction
+from the training data where relevant for this prediction.
 * Interpreting or visualizing the internal structure or weights of the model in
 some way as to give insight in what has actually been learned.
-* Learning an an interpretable model that comes very close to the results of 
+* Learning an interpretable model that comes very close to the results of 
 the original black box model for (some part of) the problem and then interpret
 that model instead.
 
