@@ -30,13 +30,13 @@ that model instead.
 To get a better introduction to these types of methods, we'll read some
 sections from the
 [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
-by Christoph Molnar. Start by reading sections:
+by Christoph Molnar. Start by reading the following sectionsfrom the book
+before you continue with the rest of the assignment.
 
-* Interpretability: *2.0, 2.1, 2.2*
-* Interpretable Models: *4.0, 4.4*
-* Model-Agnostic methods: *5.0, 5.1*
+* **Interpretability:** *2.0, 2.1, 2.2*
+* **Interpretable Models:** *4.0, 4.4*
+* **Model-Agnostic methods:** *5.0, 5.1*
 
-from the book before you continue with the rest of the assignment.
 
 Cynthia Rudin from Duke Unversity wrote an interesting article advocating a
 differnt position, namely to stop using black box models altogether, whenever
