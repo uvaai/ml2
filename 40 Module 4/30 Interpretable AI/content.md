@@ -32,7 +32,9 @@ sections from the
 [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 by Christoph Molnar. Start by reading sections:
 
-    2.0, 2.1, 2.2, 4.0, 4.4, 5.0 and 5.1
+* Interpretability: 2.0, 2.1, 2.2
+* Interpretable Models: 4.0, 4.4
+* Model-Agnostic methods: 5.0 and 5.1
 
 from the book before you continue with the rest of the assignment.
 
