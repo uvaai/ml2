@@ -38,39 +38,26 @@ before you continue with the rest of the assignment.
 * **Model-Agnostic methods:** *5.0, 5.1*
 
 
-Cynthia Rudin from Duke Unversity wrote an interesting article advocating a
-differnt position, namely to stop using black box models altogether, whenever
-possible, for any situation where explanations might be needed. Read the
-article linked here:
+Cynthia Rudin from Duke Unversity wrote an article advocating a different
+position, namely to stop using black box models altogether, whenever possible,
+for any situation where explanations might be needed. Read the article linked
+here:
 [Cythia Rudin - Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/abs/1811.10154).
 
+The article makes some interesting claims. For each of the claims listed below,
+state whether you agree or disagree with that claim. Motivate your answers.
 
-Claims from the article. Agree or disagree and why:
+1. Even explanation models with relatively high agreement with the black box
+models, still disagree for some samples, and therefore one cannot trust the
+explanations and by extension the original black box.
 
-1. Learned interpretable models with high agreement are not explanation
-	
-	An inaccurate (low-fidelity) explanation model limits trust in the explanation, and by extension, trust in the
-	black box that it is trying to explain. An explainable model that has a 90% agreement with the original model
-	indeed explains the original model most of the time. However, an explanation model that is correct 90% of the
-	time is wrong 10% of the time. If a tenth of the explanations are incorrect, one cannot trust the explanations, and
-	thus one cannot trust the original black box.
+2. If a pattern in the data is important enough for the black box model to use
+to provide better predictions, then a machine learning researcher might also
+extract this pattern and create a accurate-yet-interpretable version of the
+model.
 
+3. Governments should regulate the use of black box models, either enforcing no
+black box should be deployed when there exists an interpretable model with the
+same level of performance, or just mandating that organizations that introduce
+black box models should report the accuracy of interpretable modeling methods.
 
-2. Existance of interpretable models with similar performance
-
-	If the pattern in the data was important
-	enough that a black box model could leverage it to obtain better predictions, an interpretable model might also
-	locate the same pattern and use it. Again, this depends on the machine learning researcher’s ability to create
-	accurate-yet-interpretable models.
-
-
-	Consider that the data permit a large set of reasonably accurate
-	predictive models to exist. Because this set of accurate models is large, it often contains at least one model that
-	is interpretable. This model is thus both interpretable and accurate.
-
-
-3. Mandates on interpretability should be put into place for companies using black box models
-
-	no black box should be deployed when there exists an interpretable model with the same level of performance.
-
-	organizations that introduce black box models would be mandated to report the accuracy of interpretable modeling methods
