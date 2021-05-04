@@ -3,24 +3,24 @@
 
 As you've read in the writing assignment from the previous module, current AI
 legislation also provides the right to an explanation in the case of an
-automated decision. And in many applications being able to explain why a
+automated decision. And, in many applications being able to explain why a
 certain prediction was made, can be very valuable, as it can help humans to
 assess whether they think that prediction is correct, or even desirable for the
-system to make, (in the case of biases, for instance).
+system to make (in the case of biases, for instance).
 
 As you might imagine, making the predictions of a neural network explainable is
 actually very difficult to do. This type of model is also called a *black box*
-model, where a sample goes in, a prediction comes out, but you can't really say
-much about what exactly happens in the middle. There are just way too many
+model, where a sample goes in, and a prediction comes out, but you can't really
+say much about what exactly happens in the middle. There are just way too many
 neurons, each with their own weights, to really explain why the network made
 that exact prediction.
 
 This has led to recent research into how to make AI systems explainable, which
-has resulted in quite a few different methods to generate an explanation for a
+has resulted several different methods to generate an explanation for a
 black box model. For example:
 
 * Determining what features in the testing sample, or which specific samples
-from the training data where relevant for this prediction.
+from the training data were relevant for this prediction.
 * Interpreting or visualizing the internal structure or weights of the model in
 some way as to give insight in what has actually been learned.
 * Learning an interpretable model that comes very close to the results of 
@@ -30,8 +30,7 @@ that model instead.
 To get a better introduction to these types of methods, we'll read some
 sections from the
 [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
-by Christoph Molnar. Start by reading the following sectionsfrom the book
-before you continue with the rest of the assignment.
+by Christoph Molnar. Start by reading the following sections from the book:
 
 * **Interpretability:** *2.0, 2.1, 2.2*
 * **Interpretable Models:** *4.0, 4.4*
@@ -49,12 +48,12 @@ state whether you agree or disagree with that claim. Motivate your answers.
 
 1. Even explanation models with relatively high agreement with the black box
 models, still disagree for some samples, and therefore one cannot trust the
-explanations and by extension the original black box.
+explanations, and by extension the original black box.
 
-2. If a pattern in the data is important enough for the black box model to use
-to provide better predictions, then a machine learning researcher might also
-extract this pattern and create a accurate-yet-interpretable version of the
-model.
+2. If a pattern in the data is important enough for the black box model to
+leverage to provide better predictions, then a machine learning researcher
+might also extract this same pattern and create a accurate-yet-interpretable
+version of the model.
 
 3. Governments should regulate the use of black box models, either enforcing no
 black box should be deployed when there exists an interpretable model with the
