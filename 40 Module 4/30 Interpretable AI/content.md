@@ -3,8 +3,8 @@
 
 As you've read in the writing assignment from the previous module, current AI
 legislation also provides the right to an explanation in the case of an
-automated decision. And, in many applications being able to explain why a
-certain prediction was made, can be very valuable, as it can help humans to
+automated decision. And, in many applications, being able to explain why a
+certain prediction was made can be very valuable, as it can help humans to
 assess whether they think that prediction is correct, or even desirable for the
 system to make (in the case of biases, for instance).
 
@@ -16,7 +16,7 @@ neurons, each with their own weights, to really explain why the network made
 that exact prediction.
 
 This has led to recent research into how to make AI systems explainable, which
-has resulted several different methods to generate an explanation for a
+has resulted in several different methods to generate an explanation for a
 black box model. For example:
 
 * Determining what features in the testing sample, or which specific samples
@@ -47,8 +47,8 @@ The article makes some interesting claims. For each of the claims listed below,
 state whether you agree or disagree with that claim. Motivate your answers.
 
 1. Even explanation models with relatively high agreement with the black box
-models, still disagree for some samples, and therefore one cannot trust the
-explanations, and by extension the original black box.
+model, still disagree for some samples, and therefore you cannot trust these
+explanations, and by extension cannot trust the original black box model.
 
 2. If a pattern in the data is important enough for the black box model to
 leverage to provide better predictions, then a machine learning researcher
@@ -58,5 +58,6 @@ version of the model.
 3. Governments should regulate the use of black box models, either enforcing no
 black box should be deployed when there exists an interpretable model with the
 same level of performance, or just mandating that organizations that introduce
-black box models should report the accuracy of interpretable modeling methods.
+black box models should also report the accuracy of interpretable modeling
+methods.
 
