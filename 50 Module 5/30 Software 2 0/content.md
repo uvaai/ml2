@@ -34,11 +34,11 @@ described in that chapter, we've linked the papers for these below:
 * **3D-printed turtle**: [Synthesizing robust adversarial examples - Athalye et. al (2017)](http://proceedings.mlr.press/v80/athalye18b.html)
 * **One pixel attack**: [One pixel attack for fooling deep neural networks - Su et. al (2019)](https://arxiv.org/abs/1710.08864)
 
-For the writing assignment this week, you should argue how big a disadvantage
-or risk you think the existence of these types of adversarial attacks is to the
-potential emergence of this "software 2.0" stack, i.e. using neural networks to
-learn to solve problems, instead of having programmers write explicit code to
-solve them:
+For the writing assignment this week, you should argue how big of a
+disadvantage or risk you think the existence of these types of adversarial
+attacks is to the potential emergence of the "software 2.0" stack, i.e. using
+neural networks to learn to solve problems, instead of having programmers write
+explicit code to solve them:
 
 Do you think the overal disadvantage caused by potential adversial attacks is
 small or large compared to advantage of using software 2.0 instead of 1.0? Are
