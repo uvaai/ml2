@@ -49,10 +49,12 @@ grades:
 
 calculation:
     final:
-        module1: 15
-        module2: 15
-        module3: 15
-        module4: 15
+        module1: 10
+        module2: 10
+        module3: 10
+        module4: 10
+        module5: 10
+        module6: 10
         exam: 40
 
 exam:
