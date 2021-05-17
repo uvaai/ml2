@@ -38,12 +38,14 @@ grades:
     writ_8: *manual
     prog_9a: *manual
     prog_9b: *manual
-    prog_10: *manual
-    exam: *manual_exam
-    prog_11: *manual
     writ_11: *manual
+    prog_10: *manual
+    writ_10: *manual
+    prog_11: *manual
+    writ_9: *manual
     prog_12: *manual
     writ_12: *manual
+    exam: *manual_exam
 
 calculation:
     final:
@@ -71,15 +73,17 @@ module3:
     submits:
         prog_9a: 1
         prog_9b: 1
+        writ_11: 1
 
 module4:
     submits:
         prog_10: 1
+        writ_10: 1
 
 module5:
     submits:
         prog_11: 1
-        writ_11: 1
+        writ_9: 1
 
 module6:
     submits:
