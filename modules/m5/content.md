@@ -5,12 +5,12 @@ The deadline for both Data Pipelines and Introduction to Machine Learning 2 is<b
 
 | Day                | Data Pipelines               | Introduction to<br>Machine Learning | Seminars                    |
 | ------------------ | ---------------------------- | ----------------------------------- | --------------------------- |
-| Thursday<br>20/05  | Processing violations and reviews | Theory videos & Convolution: Assignment 2 |                  |
-| Friday<br>21/05    | Counting words and better metrics | Convolution: Assignment 5      |                             |
+| Thursday<br>20/05  | Processing violations and<br>reviews | Theory videos &<br>Convolution: Assignment 2 |            |
+| Friday<br>21/05    | Counting words and<br>better metrics | Convolution: Assignment 5   |                             |
 |                    |                              |                                     |                             |
 |                    |                              |                                     |                             |
-| Tuesday<br>25/05   | Further tweaks and final improvements | Convolution: Assignment 7  |                             |
-| Wednesday<br>26/05 | Finish final improvements    | Convolution: Assignment 8           | Convolution & Conv. Nets    |
+| Tuesday<br>25/05   | Further tweaks and<br>final improvements | Convolution: Assignment 7  |                          |
+| Wednesday<br>26/05 | Finish final improvements    | Convolution: Assignment 8           | Convolution &<br>Conv. Nets |
 | Thursday<br>27/05  | Start Yelp API               | Convolution: Assignment 10          |                             |
 | Friday<br>28/05    | Finish Yelp API              | Writing Assignment                  |                             |
 
