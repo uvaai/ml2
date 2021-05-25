@@ -1,6 +1,6 @@
 # Instructies online tentamen
 
-Het tentamen zal **vrijdag 11 juni om 11:00** zijn en zal via Zoom worden gesurveilleerd. De link hiervoor is: <https://uva-live.zoom.us/j/>
+Het tentamen zal **vrijdag 11 juni om 11:00** zijn en zal via Zoom worden gesurveilleerd. De link hiervoor is: <https://uva-live.zoom.us/j/82374618537?pwd=YnlvRjdMRG9jaVFEN2RBT2lIQTh2dz09>
 
 ## Belangrijke links
 
