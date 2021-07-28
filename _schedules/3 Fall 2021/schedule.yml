@@ -1,0 +1,65 @@
+Module 1:
+  Schedule: /modules/m1
+  Overview: /module-1/overview
+  Theory Videos:
+    Logistic Regression: /module-1/logistic-regression
+  Programming Notebook:
+    Shipwreck Survival: /module-1/shipwreck-survival
+  Written Assignment:
+    Automation and Labour: /module-1/automation-and-labour
+Module 2:
+  Schedule: /modules/m2
+  Overview: /module-2/overview
+  Theory Videos:
+    Neural Networks: /module-2/neural-networks
+  Programming Notebook:
+    Representation and Forward Step: /module-2/model-representation-forward-computation
+  Written Assignment:
+    Model Release Strategies: /module-2/model-release-strategies
+Module 3:
+  Overview: /module-3/overview
+  Schedule: /modules/m3
+  Theory 1:
+    Learning network weights: /module-3/learning-network-weights
+  Programming 1:
+    Backpropagation: /module-3/backpropagation
+  Theory 2:
+    Building deeper networks: /module-3/building-deeper-networks
+  Programming 2:
+    Activation functions: /module-3/activation-functions
+  Theory 3:
+    Applying neural networks: /module-3/applying-neural-networks
+  Writing:
+    Automated Decision Making in Society: /module-3/automated-decision-making-in-society
+Module 4:
+  Overview: /module-4/overview
+  Schedule: /modules/m4
+  Theory:
+    Decision Trees and Random Forests: /module-4/decision-trees-random-forests
+  Programming:
+    Predicting Heart Disease: /module-4/predicting-heart-disease
+  Writing:
+    Interpretable AI: /module-4/interpretable-ai
+Module 5:
+  Overview: /module-5/overview
+  Schedule: /modules/m5
+  Theory:
+    Convolutional Neural Networks: /module-5/convolutional-neural-networks
+  Programming:
+    Filters and Convolution: /module-5/filters-and-convolution
+  Writing:
+    Software 2.0: /module-5/software-2-0
+Module 6:
+  Overview: /module-6/overview
+  Schedule: /modules/m6
+  Theory:
+    Deep Learning: /module-6/deep-learning
+  Programming:
+    Building deeper CNN's: /module-6/building-deeper-cnns
+  Writing:
+    Understanding AI systems: /module-6/understanding-ai-systems
+Exam:
+  Instructions: /exam/overview
+  Exam Questions: /exam/questions
+  Corrections: /exam/corrections
+  Submit: /exam/submit
