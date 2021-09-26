@@ -6,8 +6,8 @@ systems mentioned in news articles. Having spent the last few months studying
 Artificial Intelligence and Machine Learning, you should now have a lot more
 background to understand what a modern AI systems are actually learning.
 
-You may pick your own topic for this writing assignment, but he topic should be
-some system that contains AI/ML which has been covered in news articles
+You may pick your own topic for this writing assignment, but the topic should
+be some system that contains AI/ML and has been covered in news articles
 recently. Possible examples would include:
 
 * Deepfake models used to create fake news videos.
