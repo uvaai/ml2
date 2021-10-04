@@ -15,18 +15,18 @@ are:
 ### 1. Universal Basic Income
 
 The first and most common reply is that implementing a Universal Basic Income
-would solve the problem of unemployement caused by the continued improvements
-in automation. Suri counters this solution with quotes from Collins on "fiscal
-crisis of the state" and this "making capitalism unsustainable". Neither of
-these really cut to the core of the many underlying problems a UBI would
-potentially solve, and also depends on the assumption that capitalism is the
-only viable economic system.
+would solve the problem of unemployment caused by the continued improvements
+in automation. Suri counters this solution with quotes from Collins on the
+"fiscal crisis of the state" and this "making capitalism unsustainable".
+Neither of these really cut to the core of the many underlying problems a UBI
+would potentially solve, and also depends on the assumption that capitalism is
+the only viable economic system.
 
 However, countering these arguments would really just change the subject to
 the advantages and disadvantages of UBI. Implementing a UBI would just as a
 direct effect eliminate this potential problem of unemployment due to
 automation, but that is not the only reason to argue for a UBI. Considering
-pro's and con's of a UBI is an interesting political en economic exercise, but
+pros and cons of a UBI is an interesting political and economic exercise, but
 does not address whether or not an increase in unemployment due to automations
 is actually likely.
 
