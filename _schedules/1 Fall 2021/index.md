@@ -87,7 +87,7 @@ the minor. During these hours you can use the "Request assistance" feature on
 this website, using the question mark symbol at the top of the sidebar. Please
 use this feature instead of raising your hand in class, as it ensures that all
 questions get handled in the order that they are asked. Questions can of be
-about either the PDP or ML1 courses, just make sure to mention what assignment
+about either the DPL or ML2 courses, just make sure to mention what assignment
 you're working on. For your location, please list the room and table you are
 working at, so the TA handling your question knows where to find you when it is
 your turn.
