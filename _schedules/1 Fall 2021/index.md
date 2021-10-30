@@ -2,9 +2,6 @@
 
 University of Amsterdam / Programming Lab / 50822ITM6Y
 
-**IMPORTANT: This course syllabus is not yet final, as some course components
-depend on the government measures that will be announced on August 13th.**
-
 ## Syllabus<br><small>Fall 2021</small>
 
 This course is the continuation of Introduction to Machine Learning 1. In ML1
@@ -22,17 +19,18 @@ Wouter Vrielink (teacher)
 You can reach us at <minorai@mprog.nl> for any practical matters or other
 questions.
 
-## Deadlines and schedules
+### Deadlines
 
-The deadlines for each module can be found on the overview page of that module.
+The deadlines for each module can also be found on the module schedule pages
+(the first item in the sidebar for each module).
 
 We've found that it can be difficult for students to plan when to work on what
-part of the material, especially with two complete new courses, that together
+part of the material, especially with two completely new courses, that together
 require a full-time time investment. Being unfamiliar with a subject makes it a
-lot harder to estimate how long something might take, and working from home
-might also make structuring your work more difficult. To help with all of this,
-we've made a day-to-day schedule for each module, which indicates what elements
-should be completed each day.
+lot harder to estimate how long something might take, and structuring your work
+can be more difficult, especially when working from home. To help with all of
+this, we've made a day-to-day schedule for each module, which indicates what
+elements should be completed each day.
 
 ### Extension policy
 
@@ -55,12 +53,94 @@ period of time. Due to the content of each module being heavily dependent on
 the content of the previous modules, skipping or only partially completing
 modules is *not* possible in this curriculum.
 
+### Absences and calling in sick
+
+With COVID, the policy for when you're sick has become a little more
+complicated, but also *vital* in minimizing the number of students that has to
+work from home, so please do stick to these procedures. The general UvA policy
+for the return to campus can be found
+[here](https://www.uva.nl/en/current/coronavirus/return-to-campus/return-to-campus.html).
+The most important consequence of this policy is that, whenever you're
+experiencing coronavirus-related symptoms, you should work from home. You can
+return to campus if you get a negative test result or have been symptom-free
+for 24 hours.
+
+If you cannot come to campus, due to coronavirus symptoms or otherwise, please
+inform us with an email to <minorai@mprog.nl>. If this is due to symptoms, we
+will offer online alternatives to every on-campus activity, including lectures
+and practical assistance, but can only offer some of these if we are aware you
+are working from home. If you are actually sick and not just experiencing
+symptoms, then we won't expect you to work from home of course, but you should
+still inform us, so we can plan for a possible deadline extension, if needed.
+So in either case, please do send us an email and let us know the reason for
+your absence, so we can handle it accordingly.
+
+## Asking questions
+
+If you have any questions about the material, there are several ways to get
+to ask them and get assistance. 
+
+### Practical assistance
+
+Every weekday between 11 and 3, you can ask practical questions to the TA's of
+the minor. During these hours you can use the "Request assistance" feature on
+this website, using the question mark symbol at the top of the sidebar. Please
+use this feature instead of raising your hand in class, as it ensures that all
+questions get handled in the order that they are asked. Questions can of be
+about either the PDP or ML1 courses, just make sure to mention what assignment
+you're working on. For your location, please list the room and table you are
+working at, so the TA handling your question knows where to find you when it is
+your turn.
+
+On some days there will also be a lecture, either from 11 to 1, or from 1 to 3.
+During the scheduled lectures there will be *no* practical assistance, but
+there will still be assistance the 2 hours before or after lecture, depending
+on the time of the lecture. More information on the lectures can be found in
+the next section. 
+
+If you are working from home, you can also still use the *Request assistance*
+to ask for help with your code. The main difference is that you'll need to make
+a Zoom link for the TA to join, which you should provide as your "location"
+when asking your question. A TA will then join your meeting when it is your
+turn in the queue, so you can share your screen and explain your question
+there.
+
+### Morning meetings
+
+For those students working from home, we'll offer online morning meetings every
+day at **09:00**. Here you can divide yourself into small groups of students,
+all working online that day. There you have a cup of coffee and start the day
+together. The meeting can be joined at
+[Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5).
+
+These meetings will also be useful to discuss your progress and what you're
+planning to do for the day. If, for example, you find you're stuck on the same
+part of an assignment as other students, you can then decide to take a look at
+your approach for a problem together. We encourage you to discuss approaches to
+problems together, as this is an effective way to learn, but this can only
+occur if you know each other and what you are working on. Facilitating this is
+the primary purpose of these meetings.
+
+*Note:* This means working together on analysis and approach of a problem, not
+directly sharing code with each other! For a complete description of what it
+means to do your own work and forms of collaboration are reasonable and
+unreasonable, see the end of this document.
+
+### Email the staff
+
+If you have personal matters to discuss or other questions that do not fit any
+of the formats above, you can email the course staff at <minorai@mprog.nl>
+
 ## Passing the course
 
 The programming and writing assignment will both be graded on a 1 to 10 scale.
 and at the end of the course an average for both these elements will be
-computed. If all elements are completed satisfactorily, your final grade for
-the course is computed as:
+computed. The SOWISO exercises have automatic feedback, so they will only be
+graded on a *pass/fail* basis. Completing all the chapters is required in order
+to recieve a pass for this element.
+
+If all elements are completed satisfactorily, your final grade for the course
+is computed as:
 
     40% programming average + 20% written average + 40% exam grade
 
@@ -155,7 +235,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 
 - Turning to the course's heads for help or receiving help from the course's heads during the quiz or test.
 
-- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to problem set's problems or your own final project.
+- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to assignment problems or your own final project.
 
 - Whiteboarding solutions to problem sets with others using diagrams or pseudocode but not actual code.
 
