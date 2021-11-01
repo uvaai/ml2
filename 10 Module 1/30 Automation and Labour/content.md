@@ -19,7 +19,7 @@ would solve the problem of unemployment caused by the continued improvements
 in automation. Suri counters this solution with quotes from Collins on the
 "fiscal crisis of the state" and this "making capitalism unsustainable".
 Neither of these really cut to the core of the many underlying problems a UBI
-would potentially solve, and also depends on the assumption that capitalism is
+would potentially solve, and also depend on the assumption that capitalism is
 the only viable economic system.
 
 However, countering these arguments would really just change the subject to
