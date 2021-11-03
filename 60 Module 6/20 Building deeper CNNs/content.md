@@ -10,7 +10,7 @@ deeper CNN using the CIFAR-10 data set. The notebook for this can be downloaded
 For the second part you'll build a deep CNN yourself using the GTSRB data set.
 The notebook for this can be downloaded [here](data/CNN_gtsrb.ipynb).
 
-It is recommended that your run both these notebooks as [Google
+It is recommended that you run both these notebooks as [Google
 Colab's](https://colab.research.google.com). Instructions for this can be found
 in the CIFAR-10 notebook.
 
