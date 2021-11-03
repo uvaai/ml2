@@ -15,7 +15,7 @@ you'll add backpropagation to a neural network implementation.
 The second part covers some of the most common extensions of neural networks,
 which allow for building much deeper networks, i.e. with many more hidden
 layers. The [theory videos](/module-3/building-deeper-networks) will introduce
-3 extension and in the [programming notebook](/module-3/activation-functions)
+3 extensions and in the [programming notebook](/module-3/activation-functions)
 you'll implement these extensions yourself.
 
 The last part covers some practical tips for applying neural networks to your
@@ -24,7 +24,3 @@ The [theory videos](/module-3/applying-neural-networks) will introduce
 regularization and cover how to choose between different solutions for common
 problems.
 
-<!---
-Finally, in the [programming notebook](/module-3/cifar10-data-set)
-you can experiment with applying these strategies yourself to the CIFAR10 data set.
--->

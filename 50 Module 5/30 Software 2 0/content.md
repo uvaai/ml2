@@ -40,9 +40,10 @@ attacks is to the potential emergence of the "software 2.0" stack, i.e. using
 neural networks to learn to solve problems, instead of having programmers write
 explicit code to solve them:
 
-Do you think the overal disadvantage caused by potential adversial attacks is
-small or large compared to advantage of using software 2.0 instead of 1.0? Are
-there any applications where you think the potential risks might be *too* large
-to use to switch to software 2.0? How do the risks of these systems compare
-to the normal security risks of traditional software (i.e. software 1.0)?
+Do you think the overall disadvantage caused by potential adversarial attacks
+is small or large compared to the advantage of using software 2.0 instead of
+1.0?  Are there any applications where you think the potential risks might be
+*too* large to use to switch to software 2.0? How do the risks of these systems
+compare to the normal security risks of traditional software (i.e. software
+1.0)?
 

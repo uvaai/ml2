@@ -37,7 +37,7 @@ by Christoph Molnar. Start by reading the following sections from the book:
 * **Model-Agnostic methods:** *5.0, 5.1*
 
 
-Cynthia Rudin from Duke Unversity wrote an article advocating a different
+Cynthia Rudin from Duke University wrote an article advocating a different
 position, namely to stop using black box models altogether, whenever possible,
 for any situation where explanations might be needed. Read the article linked
 here:
@@ -52,12 +52,12 @@ explanations, and by extension cannot trust the original black box model.
 
 2. If a pattern in the data is important enough for the black box model to
 leverage to provide better predictions, then a machine learning researcher
-might also extract this same pattern and create a accurate-yet-interpretable
+might also extract this same pattern and create an accurate-yet-interpretable
 version of the model.
 
-3. Governments should regulate the use of black box models, either enforcing no
-black box should be deployed when there exists an interpretable model with the
-same level of performance, or just mandating that organizations that introduce
-black box models should also report the accuracy of interpretable modeling
-methods.
+3. Governments should regulate the use of black box models, either enforcing
+that no black box should be deployed when there exists an interpretable model
+with the same level of performance, or just mandating that organizations that
+introduce black box models should also report the accuracy of interpretable
+modeling methods.
 

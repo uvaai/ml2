@@ -4,7 +4,7 @@
 For the last writing assignment of this course, we'll take another look at AI
 systems mentioned in news articles. Having spent the last few months studying
 Artificial Intelligence and Machine Learning, you should now have a lot more
-background to understand what a modern AI systems are actually learning.
+background to understand what modern AI systems are actually learning.
 
 You may pick your own topic for this writing assignment, but the topic should
 be some system that contains AI/ML and has been covered in news articles
@@ -29,7 +29,7 @@ different ones.
 
 * Q3. What impression did the news article give you of the system? Were the articles mostly negative, positive or neutral? Did any particular benefit or risk of the system stand out?
 
-Next, try to find more in depth articles or blog posts explaining the actual
+Next, try to find more in-depth articles or blog posts explaining the actual
 working of the system. Your goal in reading these sources should be to get a
 *general* idea of the inner workings of these systems.
 
@@ -37,11 +37,11 @@ Two important things to note: If your system contains a lot of technical
 details you're not familiar with (like might be the case for the *AlphaFold*
 topic), then it is not required that you study all the details to completely
 understand the system. If exact details are hard to find for your system (like
-might the case for the *political microtargeting* topic), then is enough to try
-to speculate what such a system would look like, based on what information you
-*can* find.
+might be the case for the *political microtargeting* topic), then it's enough
+to try to speculate what such a system would look like, based on what
+information you *can* find.
 
-In all cases you should focus on a high-level understanding of what the systems
+In all cases you should focus on a high-level understanding of what the system
 learns or does. Is it a machine learning system or another type of AI?  If so,
 is it supervised or unsupervised learning? What type of prediction does it
 make?  What would the (training) data for this system look like? What types of
@@ -49,12 +49,12 @@ algorithm(s) do you think are part of this system?
 
 * Q4. Which other sources did you find?
 
-* Q5. Give your own high level description / speculation of what type of of AI is used in this system based on the sources you've found. Your answer here should go into some detail, but full complete detail is not required. Try to limit your answer to about 400 words maximum.
+* Q5. Give your own high level description / speculation of what type of AI is used in this system based on the sources you've found. Your answer here should go into some detail, but full complete detail is not required. Try to limit your answer to about 400 words maximum.
 
 * Q6. Describe the type(s) of data required for this system to learn / function, if any. What would this data look like? Where might this data be collected from or how could this data be generated?
 
-Lastly, compare the idea you had of the system based soley on the news article
+Lastly, compare the idea you had of the system based solely on the news article
 to your image after looking at the additional sources.
 
-* Q7. Were there any suprising difference or insights you had after looking at the additional sources? What stood out most to you?
+* Q7. Were there any surprising difference or insights you had after looking at the additional sources? What stood out most to you?
 

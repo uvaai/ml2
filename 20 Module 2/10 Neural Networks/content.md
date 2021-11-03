@@ -1,7 +1,7 @@
 # Neural Networks
 
 These videos by Andrew outline what a neural network looks like, and give some
-good intuitions on why it is such useful model. They should be a good first
+good intuitions on why it is such a useful model. They should be a good first
 introduction into what neural networks are exactly. These videos do not yet
 cover how exactly to train a neural network.
 
@@ -36,9 +36,9 @@ cover how exactly to train a neural network.
 ## Backpropagation: Training a neural network
 
 The algorithm to learn the weights of a neural network based on training data
-is called *backpropagation* and is a quite a difficult algorithm to completely
-understand. Introducing backpropagion in its general form will be one of the
-main topics the *next* neural networks module.
+is called *backpropagation* and is quite a difficult algorithm to completely
+understand. Introducing backpropagation in its general form will be one of the
+main topics of the *next* neural networks module.
 
 Here, for a high level overview of what backpropagation tries to do and
 how neural networks end up being used in practice, we'll refer to these

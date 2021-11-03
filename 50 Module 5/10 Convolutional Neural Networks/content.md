@@ -11,9 +11,9 @@ using large images.
 ## Convolutional Filters
 
 Next up, we'll take a look at some videos from Mike Pound from the
-Computerphile channel, which go into a little more details on how convolutions
-are use in image processing, what the common types of filters are and how these
-filters are used to build a CNN.
+Computerphile channel, which go into a little more detail on how convolutions
+are used in image processing, what the common types of filters are and how
+these filters are used to build a CNN.
 
 ### How Blurs & Filters Work
 

@@ -13,7 +13,8 @@ specific attribute and measuring the resulting (dis)order of subsets.
 
 These next few short videos by Victor Lavrenko give a more formal and more
 complete picture of what a Decision Tree is and how exactly it is built. They
-also cover the extensions to continuous features, regession and Random Forests.
+also cover the extensions to continuous features, regression and Random
+Forests.
 
 ### Decision Tree: How it works
 
