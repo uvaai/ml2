@@ -58,36 +58,43 @@ calculation:
         exam: 40
 
 exam:
+    show_progress: true
     submits:
         exam: 1
 
 module1:
+    show_progress: true
     submits:
         prog_7: 2
         writ_7: 1
 
 module2:
+    show_progress: true
     submits:
         prog_8: 2
         writ_8: 1
 
 module3:
+    show_progress: true
     submits:
         prog_9a: 1
         prog_9b: 1
         writ_9: 1
 
 module4:
+    show_progress: true
     submits:
         prog_10: 2
         writ_10: 1
 
 module5:
+    show_progress: true
     submits:
         prog_11: 2
         writ_11: 1
 
 module6:
+    show_progress: true
     submits:
         prog_12: 2
         writ_12: 1
