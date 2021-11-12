@@ -18,7 +18,7 @@ their unintuitive nature.
 To get a better understanding of what exactly adversarial examples are, we'll
 continue reading the *Interpretable ML* book by Christoph Molnar. Adversarial
 examples are strongly related to counterfactual explanations, so we'll start
-there. Read sections *6.1.0, 6.1.1.0 and 6.1.1.1* from that chapter:
+there. Read sections *9.3.0, 9.3.1.0 and 9.3.1.1* from that chapter:
 
 [Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
 

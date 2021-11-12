@@ -32,9 +32,9 @@ sections from the
 [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 by Christoph Molnar. Start by reading the following sections from the book:
 
-* **Interpretability:** *2.0, 2.1, 2.2*
-* **Interpretable Models:** *4.0, 4.4*
-* **Model-Agnostic methods:** *5.0, 5.1*
+* **Interpretability:** *3.0, 3.1, 3.2*
+* **Interpretable Models:** *5.0, 5.4*
+* **Model-Agnostic methods:** *6.0*
 
 
 Cynthia Rudin from Duke University wrote an article advocating a different
