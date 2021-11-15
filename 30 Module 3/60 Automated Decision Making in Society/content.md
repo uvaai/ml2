@@ -120,11 +120,11 @@ If so, which one(s) and why?
 
 
 Even if a decision is only partially automated, anecdotal evidence has been
-reported that automated recommendations might still influence the human making
-the actual decision. This appeared to be the case for judges not wanting to
-contradict the sentencing recommendations made by the COMPAS algorithm (which
-was covered in an earlier written assignment). It appears here again, in the
-WOB-data regarding the questionnaire on the use algorithms by the Dutch
+reported that these automated recommendations can still influence the human
+making the actual decision. This appeared to be the case for judges not wanting
+to contradict the sentencing recommendations made by the COMPAS algorithm
+(which was covered in an earlier written assignment). It appears here again, in
+the WOB-data regarding the questionnaire on the use algorithms by the Dutch
 government.  There, in the reply from the *Centrum Indicatiestelling Zorg*,
 they state "Ook is er een algoritme in gebruik dat advies geeft over een
 eventueel toe te kennen Zorgprofiel. [...] Medewerkers vinden het soms lastig
