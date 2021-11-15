@@ -122,13 +122,13 @@ If so, which one(s) and why?
 Even if a decision is only partially automated, anecdotal evidence has been
 reported that automated recommendations might still influence the human making
 the actual decision. This appeared to be the case for judges not wanting to
-contradict the sentencing recommendation by the COMPAS algorithm, which was
-covered in an earlier written assignment. It also appears in WOB-data
-regarding the questionnaire on use algorithms by the Dutch government, in the
-reply from the *Centrum Indicatiestelling Zorg*, which states "Ook is er een
-algoritme in gebruik dat advies geeft over een eventueel toe te kennen
-Zorgprofiel. [...] Medewerkers vinden het soms lastig om, op basis van de eigen
-expertise, af te wijken van het voorstel dat een algoritme geeft."
+contradict the sentencing recommendation by the COMPAS algorithm (which was
+covered in an earlier written assignment). It also appears in the WOB-data
+regarding the questionnaire on the use algorithms by the Dutch government.
+There, in the reply from the *Centrum Indicatiestelling Zorg*, they state "Ook
+is er een algoritme in gebruik dat advies geeft over een eventueel toe te
+kennen Zorgprofiel. [...] Medewerkers vinden het soms lastig om, op basis van
+de eigen expertise, af te wijken van het voorstel dat een algoritme geeft."
 
 * **Q8.** Do you think any of the partially automated decisions you listed for
 Q3 are at risk of such an influence? Why, or why not?
