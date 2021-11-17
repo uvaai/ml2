@@ -29,7 +29,13 @@ templates:
         calculation: done
         hide_calculated: true
     6: &manual_exam
-        type: float
+        type: pass
+        subgrades:
+            passed: integer
+        calculation: passed
+        is_test: true
+        hide_subgrades: true
+
 
 grades:
     prog_7: *manual
