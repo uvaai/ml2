@@ -16,7 +16,7 @@ The deadline for both Data Pipelines and Introduction to Machine Learning 2 is<b
 
 <br>
 **NOTE:** Crawling part 1 has become a bonus assignment. The solution CSV for
-crawling part 1 will me made available on the assignment page.
+crawling part 1 will be made available on the annoucements page.
 
 ### Lectures
 
