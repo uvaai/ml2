@@ -14,10 +14,9 @@ The deadline for both Data Pipelines and Introduction to Machine Learning 2 is<b
 | Tuesday<br>23/11   | Crawling part 2              | Finish Activations +<br>Watch Theory 3 | Activation Functions     |
 | Wednesday<br>24/11 |                              | Finish Written Assignment           |                             |
 
-**NOTE:** Crawling part 1 has become a bonus assignment.
-
-The solution CSV for crawling part 1 will me made available on the assignment
-page.
+<br>
+**NOTE:** Crawling part 1 has become a bonus assignment. The solution CSV for
+crawling part 1 will me made available on the assignment page.
 
 ### Lectures
 
