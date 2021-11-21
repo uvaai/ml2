@@ -1,5 +1,5 @@
 
-# Module 7
+# Logistic Regression
 
 This week we'll take a look at Logistic Regression. Logistic Regression is a
 regression method used to model the probability of an input being
