@@ -29,10 +29,10 @@ templates:
         calculation: done
         hide_calculated: true
     6: &manual_exam
-        type: pass
+        type: float
         subgrades:
             passed: integer
-        calculation: passed
+        calculation: points
         is_test: true
         hide_subgrades: true
 
