@@ -61,3 +61,16 @@ with the same level of performance, or just mandating that organizations that
 introduce black box models should also report the accuracy of interpretable
 modeling methods.
 
+Your assignment should be long enough to make a clear and cohesive argument for
+your point of view. In general, this tends to correspond with around 500 words. 
+The minimum requirement for the assignment is 350 words.
+
+#### Peer review
+
+You are encouraged to swap writing assignments with other students, read them
+and share feedback with each other, both on the contents of the arguments and
+the structure of the writing. Writing a good text can be difficult and,
+especially after you rewrote something a couple of times, other people will
+generally see improvements that you can't spot anymore. So, make use of that
+and help each other out by exchanging feedback.
+
