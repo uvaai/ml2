@@ -121,7 +121,6 @@ where to find you when it is your turn.
 The hours are scheduled as follows:
 
 * In general, assistance hours are from 10 to 13
-* On Monday there are group seminars in the morning, so the assistance hours are from 13 to 16
 * If there is a Q&A lecture listed in the daily schedule, the assistance will start after the Q&A, generally from 11 to 14
 
 ### Q & A Lectures
