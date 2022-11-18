@@ -20,9 +20,9 @@ respondents is the use of "case-based algorithms" (i.e. machine learning) with
 many of the specific algorithms corresponding to methods we've covered in ML1
 or will still cover in ML2, like Decision Trees and Convolutional Neural
 Networks. If you're interested in more of the specifics, part of the
-questionnaire responses were made public by a WOB-request by the NOS and can be
-searched through
-[here](https://app.nos.nl/datavisualisatie/2018/algoritmen/index.html).
+questionnaire responses were made public by a WOB-request by the NOS and were
+reported in the article
+[here](https://nos.nl/artikel/2286848-overheid-gebruikt-op-grote-schaal-voorspellende-algoritmes-risico-op-discriminatie).
 
 In 2018 the EU also introduced the General Data Protection Regulation, which
 put into place many regulations regarding the use of (personal) data. The most
