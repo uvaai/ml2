@@ -1,7 +1,9 @@
 
 ## Module 6
 
-Module 5 and 6 have been merged this period. The schedule for the combined module can be found in module 5.
+Module 5 and 6 have been merged this period.
+
+The schedule for the combined module can be found in module 5.
 
 
 
