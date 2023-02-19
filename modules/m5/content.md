@@ -11,7 +11,7 @@ The deadline for both Data Processing and Representations and Introduction to Ma
 | Monday<br>22/05    | Watch Theory videos &<br>Start CIFAR | Convolution: Assignment 7   | Q & A lecture               |
 | Tuesday<br>23/05   | Finish CIFAR Notebook        | Convolution: Assignment 8           |                             |
 | Wednesday<br>24/05 | Start GTSRB Notebook         | Convolution: Assignment 10          |                             |
-| Thursday<br>25/05  | Finish. GTSRB Notebook       | Writing Assignment:<br>Software 2.0 | Group seminar               |
+| Thursday<br>25/05  | Finish GTSRB Notebook       | Writing Assignment:<br>Software 2.0 | Group seminar               |
 
 
 
