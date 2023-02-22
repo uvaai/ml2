@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 50822ITM6Y
 
-## Syllabus<br><small>Fall 2022</small>
+## Syllabus<br><small>Spring 2023</small>
 
 This course is the continuation of Introduction to Machine Learning 1. In ML1
 you've learned about some of the basic algorithms in machine learning and to
