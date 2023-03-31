@@ -30,7 +30,7 @@ on campus full-time.
 Most on-campus activities, including practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
 in the room, like the group seminars and the exam. The schedule for these 
-group seminars can be found on Datanose [here](https://datanose.nl/#course[111919])
+group seminars can be found on Datanose [here](https://datanose.nl/#course[113607])
 
 The schedule for the practical assistance hours and lectures that will be held
 in L0.10 can be found in the "Asking Questions" section below.
