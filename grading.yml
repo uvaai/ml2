@@ -1,4 +1,14 @@
 templates:
+    1: &automatic
+        type: pass
+        subgrades:
+            done: boolean
+        automatic:
+            done: -1
+        calculation: done
+        auto_publish: true
+        hide_calculated: true
+        hide_subgrades: true
     2: &auto-manual
         type: float
         subgrades:
