@@ -51,6 +51,8 @@ grades:
     writ_11: *manual
     prog_12: *manual
     writ_12: *manual
+    late_day1: *automatic
+    late_day2: *automatic
     exam: *manual_exam
 
 calculation:
@@ -104,4 +106,3 @@ exam:
     show_progress: true
     submits:
         exam: 1
-
