@@ -78,7 +78,7 @@ research [in the way that it is most likely to benefit humanity as a
 whole](https://openai.com/blog/introducing-openai), ended up choosing the
 following release strategy for these ChatGPT models: an unreleased model and
 training set, with limited free access to producing outputs for prompts, while
-monitizing access during peak hours and to more advanced features, like their
+monitizing access during peak hours and for more advanced features, like their
 newly released GPT-4 model. For this assignment, assume the hypothetical new
 language model is another large leap in improvement over ChatGPT's output, and
 so is completely indistinguishable from human writing.
