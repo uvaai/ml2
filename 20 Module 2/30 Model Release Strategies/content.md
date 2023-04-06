@@ -78,10 +78,10 @@ research [in the way that it is most likely to benefit humanity as a
 whole](https://openai.com/blog/introducing-openai), ended up choosing the
 following release strategy for these ChatGPT models: an unreleased model and
 training set, with limited free access to producing outputs for prompts, while
-monitizing access during peak hours and more advanced features, like their
-newly released GPT-4 model. For this assignment, assume the hypothetical new
-language model is another large leap in improvement over ChatGPT's output, and
-so is completely indistinguishable from human writing.
+monitizing access during peak hours and when using more advanced features, like
+their newly released GPT-4 model. For this assignment, assume the hypothetical
+new language model is another large leap in improvement over ChatGPT's output,
+and so is completely indistinguishable from human writing.
 
 Your assignment should be long enough to make a clear and cohesive argument for
 your point of view. In general, this tends to correspond with around 500 words. 
