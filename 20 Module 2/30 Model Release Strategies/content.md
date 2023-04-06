@@ -2,13 +2,13 @@
 # Model Release Strategies
 
 > *Note:* A large part of this assignment was originally written before the
-release of *ChatGPT* in November of 2022. This makes the discussion on the
+release of *ChatGPT* in November of 2022. This might make the discussion on the
 *potential* release of an effective large language model seem a bit dated, as
 ChatGPT is already proving to have [a large impact in many areas](https://blog.gitnux.com/chat-gpt-statistics/).
 However, exactly because of that impact, it is still very relevant to consider
-the effects of different ways of releasing powerful AI models into the world.
-The GPT models discussed below are the predecessors of ChatGPT, and so still
-make for an interesting case study.
+the different ways you can release powerful AI models into the world. The GPT
+models discussed below are actually the predecessors of ChatGPT, and so make
+for an interesting case study.
 
 This module you've started to learn about neural networks, which are currently
 the AI models with the biggest impact by far. Although all neural network
