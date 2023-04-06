@@ -4,11 +4,11 @@
 > *Note:* A large part of this assignment was originally written before the
 release of *ChatGPT* in November of 2022. This makes the discussion on the
 *potential* release of an effective large language model seem a bit dated, as
-ChatGPT is already proving to have a large impact in many areas. However,
-exactly because of that impact, it is still very relevant to consider the
-effects of different ways to release powerful AI models into the world. The GPT
-models discussed below are the predessors of ChatGPT, and so still make for an
-interesting case study.
+ChatGPT is already proving to have [a large impact in many areas](https://blog.gitnux.com/chat-gpt-statistics/).
+However, exactly because of that impact, it is still very relevant to consider
+the effects of different ways of releasing powerful AI models into the world.
+The GPT models discussed below are the predecessors of ChatGPT, and so still
+make for an interesting case study.
 
 This module you've started to learn about neural networks, which are currently
 the AI models with the biggest impact by far. Although all neural network
@@ -70,14 +70,14 @@ right away. You may even propose some alternate release strategy, as long as
 whatever strategy you pick for this hypothetical model is supported by
 arguments based on your impressions from reading the 4 articles linked above.
 
-> *Note:* OpenAI, which was originally founded as a non-profit with the
-explicit goal of open and collaborative AI research
-[in the way that it is most likely to benefit humanity as a whole](https://openai.com/blog/introducing-openai),
-has now already created a very powerful large language model called ChatGPT.
-ChatGPT already produces very convincing fake text, but it can still be
-detected as such most of the time. Open AI ended up choosing the following
-release strategy for these ChatGPT models: an unreleased model and training
-set, with limited free access to producing outputs for prompts, while
+> *Note:* OpenAI has now created a very powerful large language model
+called ChatGPT, which already produces very convincing fake text, but it can
+still be detected as such some of the time. OpenAI, which was originally
+founded as a non-profit with the explicit goal of open and collaborative AI
+research [in the way that it is most likely to benefit humanity as a
+whole](https://openai.com/blog/introducing-openai), ended up choosing the
+following release strategy for these ChatGPT models: an unreleased model and
+training set, with limited free access to producing outputs for prompts, while
 monitizing access during peak hours and for using more advanced features like
 their newly released GPT-4 model. For this assignment, assume the hypothetical
 new language model is another large leap in improvement over ChatGPT's output,
