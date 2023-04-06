@@ -2,7 +2,7 @@
 # Model Release Strategies
 
 > *Note:* A large part of this assignment was originally written before the
-release of *ChatGPT* in November of 2022. This might make the discussion on the
+release of *ChatGPT* in November of 2022. This can make a discussion on the
 *potential* release of an effective large language model seem a bit dated, as
 ChatGPT is already proving to have [a large impact in many areas](https://blog.gitnux.com/chat-gpt-statistics/).
 However, exactly because of that impact, it is still very relevant to consider
