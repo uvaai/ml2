@@ -14,8 +14,9 @@ exploratory inquiry into the use of algorithms by government organisations.
 They sent a questionnaire to other ministries, provinces and municipalities, the
 results of which were analysed by the CBS.
 [You can download a PDF with the report here.](https://www.cbs.nl/nl-nl/maatwerk/2018/48/gebruik-van-algoritmen-door-overheidsorganisaties)
-(English language students can instead read the recent survey by the Italian
-IVASS on [the use of Machine Learning algorithms by insurance companies](IVASS_MLalgorithms.pdf))
+(*Note:* English language students should read the recent survey by the Italian
+IVASS on [the use of Machine Learning algorithms by insurance companies](IVASS_MLalgorithms.pdf)
+instead)
 
 Start by reading sections 1 and 2 of the report. Most common among the
 respondents is the use of "case-based algorithms" (i.e. machine learning) with
