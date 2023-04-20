@@ -67,13 +67,31 @@ grades:
 
 calculation:
     final:
-        module1: 10
-        module2: 10
-        module3: 10
-        module4: 10
-        module5: 10
-        module6: 10
+        programming: 40
+        writtens: 30
         exam: 40
+
+programming:
+    show_progress: false
+    submits:
+        prog_7: 2
+        prog_8: 2
+        prog_9a: 1
+        prog_9b: 1
+        prog_10: 2
+        prog_11: 2
+        prog_12: 2
+
+writtens:
+    show_progress: false
+    submits:
+        writ_7: 1
+        writ_8: 1
+        writ_9: 1
+        writ_10: 1
+        writ_11: 1
+        writ_12: 1
+
 
 module1:
     show_progress: true
@@ -110,7 +128,7 @@ module6:
     show_progress: true
     submits:
         prog_12: 2
-        writ_12: 1
+        # writ_12: 1
 
 exam:
     show_progress: true
