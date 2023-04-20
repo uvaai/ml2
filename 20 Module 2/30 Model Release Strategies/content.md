@@ -1,6 +1,15 @@
 
 # Model Release Strategies
 
+> *Note:* A large part of this assignment was originally written before the
+release of *ChatGPT* in November of 2022. This can make a discussion on the
+*potential* release of an effective large language model seem a bit dated, as
+ChatGPT is already proving to have [a large impact in many areas](https://blog.gitnux.com/chat-gpt-statistics/).
+However, exactly because of that impact, it is still very relevant to consider
+the different ways you can release powerful AI models into the world. The GPT
+models discussed below are actually the predecessors of ChatGPT, and so make
+for an interesting case study.
+
 This module you've started to learn about neural networks, which are currently
 the AI models with the biggest impact by far. Although all neural network
 models share the same basic design, there are many, many different types and
@@ -51,15 +60,28 @@ model was good, but most results were still selected by humans from a group of
 possible generated results, meaning the model was not yet advanced enough to
 always generate convincing examples.
 
+[You can also experiment with a basic version of GPT-2 for yourself here](https://bellard.org/textsynth/)
+
 For this writing assignment, you are asked to argue for a specific release
 strategy for a hypothetical new language model that consistently produces very
-convincing fake text, which is almost indistinguishable from human writing. You
-can choose to have some form of a staged release or just release the model
-publicly right away. You may even propose some alternate release strategy, as
-long as whatever strategy you pick for this hypothetical model is supported by
+convincing fake text, which is indistinguishable from human writing. You can
+choose to have some form of a staged release or just release the model publicly
+right away. You may even propose some alternate release strategy, as long as
+whatever strategy you pick for this hypothetical model is supported by
 arguments based on your impressions from reading the 4 articles linked above.
 
-[You can also experiment with a basic version of GPT-2 for yourself here](https://bellard.org/textsynth/)
+> *Note:* OpenAI has now created a very powerful large language model
+called ChatGPT, which already produces very convincing fake text, but it can
+still be detected as such some of the time. OpenAI, which was originally
+founded as a non-profit with the explicit goal of open and collaborative AI
+research [in the way that it is most likely to benefit humanity as a
+whole](https://openai.com/blog/introducing-openai), ended up choosing the
+following release strategy for these ChatGPT models: an unreleased model and
+training set, with limited free access to producing outputs for prompts, while
+monitizing access during peak hours and when using more advanced features, like
+their newly released GPT-4 model. For this assignment, assume the hypothetical
+new language model is another large leap in improvement over ChatGPT's output,
+and so is completely indistinguishable from human writing.
 
 Your assignment should be long enough to make a clear and cohesive argument for
 your point of view. In general, this tends to correspond with around 500 words. 
