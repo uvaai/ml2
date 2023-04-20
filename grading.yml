@@ -68,7 +68,7 @@ grades:
 calculation:
     final:
         programming: 40
-        writtens: 30
+        writtens: 20
         exam: 40
 
 programming:
