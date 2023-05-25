@@ -2,31 +2,31 @@
 
 ### Neural Network Learning: Cost function
 
-![embed](https://youtube.com/embed/0twSSFZN9Mc)
+![embed](https://youtube.com/embed/18X68kLAfKY)
 
 ### Neural Network Learning: Backpropagation algorithm
 
-![embed](https://youtube.com/embed/x_Eamf8MHwU)
+![embed](https://youtube.com/embed/SvAEX5taVKk)
 
 ### Neural Network Learning: Backpropagation intuition
 
-![embed](https://youtube.com/embed/mOmkv5SI9hU)
+![embed](https://youtube.com/embed/q1bQDyV6lsg)
 
 ### Neural Network Learning: Gradient checking
 
-![embed](https://youtube.com/embed/P6EtCVrvYPU)
+![embed](https://youtube.com/embed/I-X8_EcGYik)
 
 ### Neural Network Learning: Random initialization
 
-![embed](https://youtube.com/embed/OF8ocg5mgx0)
+![embed](https://youtube.com/embed/NhgB6FLyHJc)
 
 ### Neural Network Learning: Putting it together
 
-![embed](https://youtube.com/embed/cObOAIImeVQ)
+![embed](https://youtube.com/embed/T7-ZsYlFH4M)
 
 ### Neural Network Learning: Autonomous driving example
 
-![embed](https://youtube.com/embed/ppFyPUx9RIU)
+![embed](https://youtube.com/embed/WkmplH50K1k)
 
 ### Deep Learning: What is backprogation really doing?
 
@@ -35,10 +35,4 @@
 ### Deep Learning: Backpropagation calculus
 
 ![embed](https://youtube.com/embed/tIeHLnjs5U8)
-
-### Q & A
-
-Any questions you might have about this theory can be asked 
-[here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
-These questions will be answered during the Q&A lecture of this module.
 

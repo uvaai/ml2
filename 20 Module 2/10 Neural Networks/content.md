@@ -7,31 +7,31 @@ cover how exactly to train a neural network.
 
 ### Neural Network Representation: Non-linear hypothese
 
-![embed](https://youtube.com/embed/1ZhtwInuOD0)
+![embed](https://youtube.com/embed/mcnvIWDnPns)
 
 ### Neural Network Representation: Neurons and the brain
 
-![embed](https://youtube.com/embed/m3U1_Zv4_Ik)
+![embed](https://youtube.com/embed/Nx3HVwg2uGA)
 
 ### Neural Network Representation: Model representation I
 
-![embed](https://youtube.com/embed/EVeqrPGfuCY)
+![embed](https://youtube.com/embed/wnSol2JRZeY)
 
 ### Neural Network Representation: Model representation II
 
-![embed](https://youtube.com/embed/iPNN805konI)
+![embed](https://youtube.com/embed/vuhueI_7324)
 
 ### Neural Network Representation: Examples and intuitions I
 
-![embed](https://youtube.com/embed/0a19YIQgRL4)
+![embed](https://youtube.com/embed/BhWlHvjEn3s)
 
 ### Neural Network Representation: Examples and intuitions II
 
-![embed](https://youtube.com/embed/0i9OhkbfNwE)
+![embed](https://youtube.com/embed/QZqmNpEyiKI)
 
 ### Neural Network Representation: Multi-class classification
 
-![embed](https://youtube.com/embed/gAKQOZ5zIWg)
+![embed](https://youtube.com/embed/HzpptanxP6A)
 
 ## Backpropagation: Training a neural network
 
@@ -51,10 +51,4 @@ introductory videos by *3blue1brown*.
 ### Deep Learning: Gradient descent, how neural networks learn
 
 ![embed](https://youtube.com/embed/IHZwWFHWa-w)
-
-### Q & A
-
-Any questions you might have about this theory can be asked 
-[here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
-These questions will be answered during the Q&A lecture of this module.
 

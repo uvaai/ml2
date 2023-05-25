@@ -26,23 +26,17 @@
 
 ### Learning with large datasets
 
-![embed](https://youtube.com/embed/lrAe6457ri4)
+![embed](https://youtube.com/embed/nxR9-gr-bA4)
 
 ### Stochastic gradient descent
 
-![embed](https://youtube.com/embed/W9iWNJNFzQI)
+![embed](https://youtube.com/embed/HLf4QNAwsd0)
 
 ### Mini-batch gradient descent
 
-![embed](https://youtube.com/embed/l4lSUAcvHFs)
+![embed](https://youtube.com/embed/U-4XvK7jncg)
 
 ### Stochastic gradient descent convergence
 
-![embed](https://youtube.com/embed/G97ZtT8mKXk)
-
-### Q & A
-
-Any questions you might have about this theory can be asked 
-[here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
-These questions will be answered during the Q&A lecture of this module.
+![embed](https://youtube.com/embed/G3EIMNuKcDE)
 

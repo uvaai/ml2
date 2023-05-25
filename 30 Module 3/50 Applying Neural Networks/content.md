@@ -2,43 +2,37 @@
 
 ### Regularization: The problem of overfitting
 
-![embed](https://youtube.com/embed/u73PU6Qwl1I)
+![embed](https://youtube.com/embed/C2zKaaKP1gc)
 
 ### Regularization: Cost function
 
-![embed](https://youtube.com/embed/KvtGD37Rm5I)
+![embed](https://youtube.com/embed/yMeWKGVZRf8)
 
 ### Application: Deciding what to try next
 
-![embed](https://youtube.com/embed/sZSKGNbrwus)
+![embed](https://youtube.com/embed/c03aZtGvKVw)
 
 ### Application: Evaluating a hypothesis
 
-![embed](https://youtube.com/embed/BpgnnS7mKKU)
+![embed](https://youtube.com/embed/m7JeOLm8wog)
 
 ### Application: Model selection and train/validation/test sets
 
-![embed](https://youtube.com/embed/uoTBdCODGvk)
+![embed](https://youtube.com/embed/2KQXN-8Y0ww)
 
 ### Application: Diagnosing bias vs variance
 
-![embed](https://youtube.com/embed/fDQkUN9yw44)
+![embed](https://youtube.com/embed/tTSssB9OuI4)
 
 ### Application: Regularization and bias/variance
 
-![embed](https://youtube.com/embed/4MKN-JkNGXY)
+![embed](https://youtube.com/embed/yq-9A5P-cXw)
 
 ### Application: Learning Curves
 
-![embed](https://youtube.com/embed/ISBGFY-gBug)
+![embed](https://youtube.com/embed/rczX4iAHhS0)
 
 ### Application: Deciding what to try next (revisited)
 
-![embed](https://youtube.com/embed/yoYA1MFpYRg)
-
-### Q & A
-
-Any questions you might have about this theory can be asked 
-[here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
-These questions will be answered during the Q&A lecture of this module.
+![embed](https://youtube.com/embed/Kum1UFqKEp4)
 
