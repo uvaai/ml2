@@ -16,7 +16,7 @@ where $g(z)$ is the Sigmoid function, and $(x_1)^2$ the input $x_1$ squared.
 
 (b) Given is a new input of  $x_1 = 0.5$, $x_2 = 0.5$. Explain how you would make a prediction for this input and what that prediction would be.
 
-(c) Explain what shape of decision boundary you would approximately expect for this model?
+(c) Explain what shape of decision boundary you would approximately expect for this model.
 
 
 #### Neural Networks
