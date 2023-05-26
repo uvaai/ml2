@@ -1,12 +1,12 @@
 
 ## Practice questions
 
-Below is a sample of some of the types of questions you might get at the ML2 exam. Note that this is not an exaustive list of the topics that will be covered in the exam, as that includes all theory videos and notebooks that are part of the course.
+Below is a sample of some of the types of questions you might get at the ML2 exam. Note that this is not an exaustive list of the topics that will be covered in the exam, as this includes all theory videos and notebooks that are in the course.
 
 
 #### Logistic Regression
 
-Asumme you have a Logistic Regression model with already learned weights of the form
+Assume you have a Logistic Regression model with already learned weights of the form
 
 $$h(x) = g(-1 + 0*x_1 + 0*x_2 + 1*(x_1)^2 + 1*(x_2)^2)$$
 
