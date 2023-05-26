@@ -36,7 +36,7 @@ Assume you are training a neural network to recognize the handwritten digits of 
 
 #### Deep Learning
 
-(a) Draw a ReLU activation function and use this graph to explain why this activation works better for very deep networks than the Sigmoid activation
+(a) Draw a ReLU activation function. Then, use this graph to explain why this activation works better for very deep networks than the Sigmoid activation.
 
 (b) How does stochastic gradient descent differ from regular (full-batch) gradient descent, and for which of these would you expect more improvement in the network with a single step? Explain your answers.
 
