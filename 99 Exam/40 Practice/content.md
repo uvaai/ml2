@@ -1,7 +1,7 @@
 
 ## Practice questions
 
-Below is a sample of some of the types of questions you might get at the ML2 exam. Note that this is not an exaustive list of the topics that will be covered in the exam, as this includes all theory videos and notebooks that are in the course.
+Below is a sample of some of the types of questions you might get at the ML2 exam. Note that this is not an exhaustive list of the topics that will be covered in the exam, as this includes all theory videos and notebooks from the course.
 
 
 #### Logistic Regression
