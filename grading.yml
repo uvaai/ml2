@@ -72,6 +72,7 @@ calculation:
         exam: 40
 
 programming:
+    type: average
     show_progress: false
     submits:
         prog_7: 2
@@ -83,6 +84,7 @@ programming:
         prog_12: 2
 
 writtens:
+    type: average
     show_progress: false
     submits:
         writ_7: 1
@@ -131,6 +133,7 @@ module6:
         # writ_12: 1
 
 exam:
+    type: average
     show_progress: true
     submits:
         exam: 1
