@@ -92,7 +92,7 @@ writtens:
         writ_9: 1
         writ_10: 1
         writ_11: 1
-        writ_12: 1
+        # writ_12: 1
 
 module1:
     type: average
