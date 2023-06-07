@@ -94,20 +94,22 @@ writtens:
         writ_11: 1
         writ_12: 1
 
-
 module1:
+    type: average
     show_progress: true
     submits:
         prog_7: 2
         writ_7: 1
 
 module2:
+    type: average
     show_progress: true
     submits:
         prog_8: 2
         writ_8: 1
 
 module3:
+    type: average
     show_progress: true
     submits:
         prog_9a: 1
@@ -115,18 +117,21 @@ module3:
         writ_9: 1
 
 module4:
+    type: average
     show_progress: true
     submits:
         prog_10: 2
         writ_10: 1
 
 module5:
+    type: average
     show_progress: true
     submits:
         prog_11: 2
         writ_11: 1
 
 module6:
+    type: average
     show_progress: true
     submits:
         prog_12: 2
@@ -139,6 +144,7 @@ exam:
         exam: 1
 
 late_days:
+    type: points
     show_progress: true
     submits:
         late_day1: 0
