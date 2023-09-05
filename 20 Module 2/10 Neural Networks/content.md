@@ -7,31 +7,7 @@ cover how exactly to train a neural network.
 
 ### Neural Network Representation: Non-linear hypothese
 
-![embed](https://youtube.com/embed/mcnvIWDnPns)
-
-### Neural Network Representation: Neurons and the brain
-
-![embed](https://youtube.com/embed/Nx3HVwg2uGA)
-
-### Neural Network Representation: Model representation I
-
-![embed](https://youtube.com/embed/wnSol2JRZeY)
-
-### Neural Network Representation: Model representation II
-
-![embed](https://youtube.com/embed/vuhueI_7324)
-
-### Neural Network Representation: Examples and intuitions I
-
-![embed](https://youtube.com/embed/BhWlHvjEn3s)
-
-### Neural Network Representation: Examples and intuitions II
-
-![embed](https://youtube.com/embed/QZqmNpEyiKI)
-
-### Neural Network Representation: Multi-class classification
-
-![embed](https://youtube.com/embed/HzpptanxP6A)
+![embed](https://youtube.com/embed/SGEroEKFbnY)
 
 ## Backpropagation: Training a neural network
 
