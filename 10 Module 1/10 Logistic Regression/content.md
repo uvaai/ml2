@@ -8,7 +8,7 @@ important for the model we will build in this week's programming exercises.
 
 ### Logistic Regression
 
-![embed](https://youtube.com/embed/4u81xU7BIO)
+![embed](https://youtube.com/embed/4u81xU7BIOc)
 
 ### Recap: Feature Scaling (13:26 - 22:18)
 
