@@ -6,37 +6,17 @@ regression model that is used for classification problems. The last video here
 you've already seen, but we have included it again this week, as it is very
 important for the model we will build in this week's programming exercises.
 
-### Logistic Regression: Classification
+### Logistic Regression
 
-![embed](https://youtube.com/embed/K5oZM1Izn3c)
+![embed](https://youtube.com/embed/4u81xU7BIO)
 
-### Logistic Regression: Hypothesis Representation
-
-![embed](https://youtube.com/embed/WiDuvuM1JyI)
-
-### Logistic Regression: Decision Boundary
-
-![embed](https://youtube.com/embed/ZB3jIH5Oms8)
-
-### Logistic Regression: Cost Function
-
-![embed](https://youtube.com/embed/4apOGNHzGbk)
-
-### Logistic Regression: Simplified Cost Function and Gradient Descent
-
-![embed](https://youtube.com/embed/kvqmFtmKzzM)
-
-### Logistic Regression: MultiClass Classification OneVsAll
-
-![embed](https://youtube.com/embed/BzSsQWhDRXE)
-
-### Recap: Feature Scaling
+### Recap: Feature Scaling (13:26 - 22:18)
 
 You have already seen this video in module 5 of ML1. We will discuss and apply
 feature scaling in this week's notebook, so if you are unsure on when and why
 you would apply feature scaling, please watch this video again.
 
-![embed](https://youtube.com/embed/yQci-wS0iMw)
+![embed](https://youtube.com/embed/UVCFaaEBnTE?start=806&end=1338)
 
 ### Optional Theory: Maximum Likelihood
 
