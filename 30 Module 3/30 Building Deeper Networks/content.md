@@ -24,19 +24,7 @@
 
 ![embed](https://youtube.com/embed/fODpu1-lNTw)
 
-### Learning with large datasets
+### Learning with large datasets (00:00 - 36:52)
 
-![embed](https://youtube.com/embed/nxR9-gr-bA4)
-
-### Stochastic gradient descent
-
-![embed](https://youtube.com/embed/HLf4QNAwsd0)
-
-### Mini-batch gradient descent
-
-![embed](https://youtube.com/embed/U-4XvK7jncg)
-
-### Stochastic gradient descent convergence
-
-![embed](https://youtube.com/embed/G3EIMNuKcDE)
+![embed](https://youtube.com/embed/ed4whd9B-xw?end=2212)
 
