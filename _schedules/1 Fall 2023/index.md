@@ -19,7 +19,7 @@ Wouter Vrielink (teacher)
 You can reach us at <minorai@mprog.nl> for any practical matters or other
 questions.
 
-## Schedule 
+## Schedule
 
 The core schedule for this course, combined with Data Processing and Representations, is
 built around working with the material each weekday from 9 to 5.  For this we
@@ -29,8 +29,8 @@ on campus full-time.
 
 Most on-campus activities, including practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
-in the room, like the group seminars and the exam. The schedule for these 
-group seminars can be found on Datanose [here](https://datanose.nl/#course[113607])
+in the room, like the group seminars and the exam. The schedule for these
+group seminars can be found on Datanose [here](https://datanose.nl/#course[119467])
 
 The schedule for the practical assistance hours and lectures that will be held
 in L0.10 can be found in the "Asking Questions" section below.
@@ -240,12 +240,12 @@ master these different skills. This is why we offer a lot practical assistance,
 so there is a chance for you to ask the questions you have about the
 scheduled material *every day*.
 
-In spite of this, we maintain a soft attendance requirement. This means that 
+In spite of this, we maintain a soft attendance requirement. This means that
 there is no hard rule stating that if you miss a certain percentage of days,
 you will fail the course, i.e. attendance does not directly affect your final
 grade.
 
-However, indirectly attendance definitely will affect your grade. The material 
+However, indirectly attendance definitely will affect your grade. The material
 requires you to work regularly on the assignments and ask questions along the
 way so you don't get stuck. This means if you are not on campus, you are much
 more likely to get stuck longer and thus end up with too little time before the
