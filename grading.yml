@@ -60,7 +60,7 @@ grades:
     writ_8:
         <<: *manual
         deadline: 13/11/23 18:00
-    prog_9a: 
+    prog_9a:
         <<: *manual
         deadline: 13/11/23 18:00
     prog_9b:
@@ -118,7 +118,7 @@ writtens:
         writ_9: 1
         writ_10: 1
         writ_11: 1
-        # writ_12: 1
+        writ_12: 1
 
 module1:
     type: average
@@ -161,7 +161,7 @@ module6:
     show_progress: true
     submits:
         prog_12: 2
-        # writ_12: 1
+        writ_12: 1
 
 exam:
     type: average
