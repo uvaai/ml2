@@ -233,7 +233,7 @@ way so you don't get stuck. This means if you are not on campus, you are much
 more likely to get stuck longer and thus end up with too little time before the
 deadline.
 
-In addition, we will still take attendence samples regularly in the room. This
+In addition, we will still take attendance samples regularly in the room. This
 does not affect whether you pass or fail the course, but is used as metric to
 give us an indication of the effort you are putting into following the courses
 as intended. If you request an extension or exception, or ask for extra

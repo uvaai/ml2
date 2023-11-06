@@ -48,19 +48,45 @@ templates:
 
 
 grades:
-    prog_7: *manual
-    writ_7: *manual
-    prog_8: *manual
-    writ_8: *manual
-    prog_9a: *manual
-    prog_9b: *manual
-    writ_9: *manual
-    prog_10: *manual
-    writ_10: *manual
-    prog_11: *manual
-    writ_11: *manual
-    prog_12: *manual
-    writ_12: *manual
+    prog_7:
+        <<: *manual
+        deadline: 03/11/23 18:00
+    writ_7:
+        <<: *manual
+        deadline: 03/11/23 18:00
+    prog_8:
+        <<: *manual
+        deadline: 03/11/23 18:00
+    writ_8:
+        <<: *manual
+        deadline: 13/11/23 18:00
+    prog_9a: 
+        <<: *manual
+        deadline: 13/11/23 18:00
+    prog_9b:
+        <<: *manual
+        deadline: 22/11/23 18:00
+    writ_9:
+        <<: *manual
+        deadline: 22/11/23 18:00
+    prog_10:
+        <<: *manual
+        deadline: 30/11/23 18:00
+    writ_10:
+        <<: *manual
+        deadline: 30/11/23 18:00
+    prog_11:
+        <<: *manual
+        deadline: 8/12/23 18:00
+    writ_11:
+        <<: *manual
+        deadline: 8/12/23 18:00
+    prog_12:
+        <<: *manual
+        deadline: 15/12/23 18:00
+    writ_12:
+        <<: *manual
+        deadline: 15/12/23 18:00
     late_day1: *automatic
     late_day2: *automatic
     exam: *manual_exam
