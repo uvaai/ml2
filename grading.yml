@@ -62,7 +62,7 @@ grades:
         deadline: 13/11/23 18:00
     prog_9a:
         <<: *manual
-        deadline: 13/11/23 18:00
+        deadline: 22/11/23 18:00
     prog_9b:
         <<: *manual
         deadline: 22/11/23 18:00
