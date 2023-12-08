@@ -16,7 +16,7 @@ The easiest way to run code on a GPU is probably by using **Kaggle** or **Google
 
 ### Kaggle
 
-Kaggle is a popular online platform and community for data science and machine learning enthusiasts funded and owned by Google. t serves as a hub for data-related challenges, boasting an extensive dataset repository, and, most importantly, offers a cloud-based Jupyter Notebook environment. To get started, create an account [here](https://www.kaggle.com/account/login?phase=startRegisterTab).
+Kaggle is a popular online platform and community for data science and machine learning enthusiasts funded and owned by Google. It serves as a hub for data-related challenges, boasting an extensive dataset repository, and, most importantly, offers a cloud-based Jupyter Notebook environment. To get started, create an account [here](https://www.kaggle.com/account/login?phase=startRegisterTab).
 
 Upon logging in you will land on your dashboard. In the menu on the left, find the a big plus sign, where you can create a "New Notebook". This will open a standard notebook template. Disregard the contents of this template, go to "File -> Import Notebook" in the top left corner, and upload your `.ipynb` file. *Don't forget to change the notebook's name in the top left, so you can find it more easily in the future.*
 
