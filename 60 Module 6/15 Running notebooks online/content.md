@@ -10,7 +10,9 @@ Having your code run on the GPU using Tensorflow is pretty straightforward, but 
 
 The easiest way to run code on a GPU is probably by using **Kaggle** or **Google Colab**. Both offer (limited) computing resources completely for free for anyone with an account. Either service enables you to run your own Jupyter notebooks on quality GPUs without much hassle.
 
-**We recommend you use Kaggle**, and only use Google Colab as an alternative for when Kaggle does not work. Kaggle has more transparent usage limits (30 hours of GPU usage per week) and can always offer you the same GPU, while Google Colab has dynamic usage limits that can throw you out at any time and does not always offer you the same hardware. <!--Kaggle also offers a data upload feature, which means that you do not need to redownload your data every time you restart your notebook! -->
+**We recommend you use Kaggle**, and only use Google Colab as an alternative for when Kaggle does not work. Kaggle has more transparent usage limits (30 hours of GPU usage per week) and can always offer you the same GPU, while Google Colab has dynamic usage limits that can throw you out at any time and does not always offer you the same hardware.
+
+> Note that your GPU-time on either platform is limited. Try to remember to close the tab when you are working on other exercises or when you plan to go for lunch.
 
 ### Kaggle
 
@@ -21,6 +23,10 @@ Upon logging in you will land on your dashboard. In the menu on the left, find t
 Now all we have to do is to enable the GPU. Press the three vertical dots in the top right corner of the screen, and under "Accelerator" select "GPU P100". After confirming your choice, your notebook will now run on a GPU!
 
 > If you want to access your notebooks after closing the tab, you can navigate to it using the menu on the left, selecting "Your Work". Your profile page will now be displayed. Press the "Code" tab on your profile and you will find your notebooks there!
+
+##### A Convenient Kaggle feature
+
+Kaggle offers a highly convenient feature; persistent storage of variables and files. This means that even after closing or disconnecting from a notebook, Kaggle will retain any created variables and downloaded files, saving time when you resume your work. _However, this feature is **not** enabled by default!_. Fortunately, enabling it is a straightforward process. When you've opened the desired notebook, access the "Notebook options" menu on the right. Within the "Persistence" section, choose "variables and files." With this selection, the persistence feature will be enabled, ensuring the preservation of your notebook's state across sessions.
 
 ### Google Colab
 
