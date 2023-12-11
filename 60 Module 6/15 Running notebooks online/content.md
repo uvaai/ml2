@@ -48,3 +48,9 @@ To check that everything works, run the code below in a cell:
 If everything is working correctly, you should see a single GPU listed as the device for your online notebook:
 
     [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+
+> It is possible that Kaggle gives an error in the cell that downloads the data; "could not resolve host". This can be solved with the following steps:    
+  1. Download the data file yourself from: https://www.cs.toronto.edu/%7Ekriz/cifar-10-python.tar.gz
+  2. In the sidebar under the Data section, there is a an icon to upload data, right next to big button to "Add Data". Upload the data file here and call it "cifar10".
+  3. Change the name of the folder in the cell below the download-cell from 'cifar-10-batches-py' to '/kaggle/input/cifar10/cifar-10-batches-py'. **Note:** make sure you change the folder in both `unpickle`s!
+  You should now be able to skip the download cell, and continue the notebook as is.
