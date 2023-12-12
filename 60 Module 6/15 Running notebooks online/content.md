@@ -26,7 +26,9 @@ Now all we have to do is to enable the GPU. Press the three vertical dots in the
 
 ##### A Convenient Kaggle feature
 
-Kaggle offers a highly convenient feature; persistent storage of variables and files. This means that even after closing or disconnecting from a notebook, Kaggle will retain any created variables and downloaded files, saving time when you resume your work. _However, this feature is **not** enabled by default!_. Fortunately, enabling it is a straightforward process. When you've opened the desired notebook, access the "Notebook options" menu on the right. Within the "Persistence" section, choose "variables and files". With this selection, the persistence feature will be enabled, ensuring the preservation of your notebook's state across sessions.
+Kaggle offers a highly convenient feature; persistent storage of variables and files. This means that even after closing or disconnecting from a notebook, Kaggle will retain any created variables and downloaded files, saving time when you resume your work. _However, this feature is **not** enabled by default!_. Fortunately, enabling it is a straightforward process. When you've opened the desired notebook, access the "Notebook options" menu on the right. Within the "Persistence" section, choose "files only". With this selection, the persistence feature will be enabled, ensuring the preservation of your notebook's state across sessions. While you're there, change "Environment" to "Always use latest environment".
+
+
 
 ### Google Colab
 
@@ -49,7 +51,7 @@ If everything is working correctly, you should see a single GPU listed as the de
 
     [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
 
-#### Could not resolve host?
+#### Kaggle: Could not resolve host?
 
 It is possible that Kaggle gives an error in the cell that downloads the data; "could not resolve host". This can be solved with the following steps:    
 
@@ -58,3 +60,7 @@ It is possible that Kaggle gives an error in the cell that downloads the data; "
 3. Change the name of the folder in the cell below the download-cell from `'cifar-10-batches-py'` to `'/kaggle/input/cifar10/cifar-10-batches-py'`. **Note:** make sure you change the folder in both `unpickle`s!
 
 You should now be able to skip the download cell, and continue the notebook as is.
+
+#### Kaggle: Low accuracy on first cell?
+
+Make sure you have "Environment" set to "Always use latest environment", and "Persistence" set to "files only". Restart your notebook by pressing the "Factory reset" button, or by stopping and re-opening the session.
