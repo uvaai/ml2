@@ -39,6 +39,7 @@ A *Colab* is a Jupyter notebook that is not running on your own computer, but on
 On the Colab page, select *Upload*, upload your `.ipynb` file. Running a code cell on the Colab page will now actually run the code on a Google computer and not on your own machine!
 
 Next we'll switch to a machine that has access to a GPU. In the menu at the top, select **Runtime** and then **Change runtime type**. Select the GPU hardware accelerator and Save. Now, any code you run will run on a Google GPU, which will make training your neural network much faster!
+
 <!--
 ## Checking functionality
 
