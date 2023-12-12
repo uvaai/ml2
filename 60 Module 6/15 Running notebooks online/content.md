@@ -8,6 +8,10 @@ Having your code run on the GPU using Tensorflow is pretty straightforward, but 
 
 ## Running code online
 
+The easiest way to run code on a GPU is probably by **Google Colab**. Colab offers (limited) computing resources completely for free for anyone with an account. Either service enables you to run your own Jupyter notebooks on quality GPUs without much hassle.
+
+<!-- ## Running code online
+
 The easiest way to run code on a GPU is probably by using **Kaggle** or **Google Colab**. Both offer (limited) computing resources completely for free for anyone with an account. Either service enables you to run your own Jupyter notebooks on quality GPUs without much hassle.
 
 **We recommend you use Kaggle**, and only use Google Colab as an alternative for when Kaggle does not work. Kaggle has more transparent usage limits (30 hours of GPU usage per week) and can always offer you the same GPU, while Google Colab has dynamic usage limits that can throw you out at any time and does not always offer you the same hardware.
@@ -26,9 +30,7 @@ Now all we have to do is to enable the GPU. Press the three vertical dots in the
 
 ##### A Convenient Kaggle feature
 
-Kaggle offers a highly convenient feature; persistent storage of variables and files. This means that even after closing or disconnecting from a notebook, Kaggle will retain any created variables and downloaded files, saving time when you resume your work. _However, this feature is **not** enabled by default!_. Fortunately, enabling it is a straightforward process. When you've opened the desired notebook, access the "Notebook options" menu on the right. Within the "Persistence" section, choose "files only". With this selection, the persistence feature will be enabled, ensuring the preservation of your notebook's state across sessions. While you're there, change "Environment" to "Always use latest environment".
-
-
+Kaggle offers a highly convenient feature; persistent storage of variables and files. This means that even after closing or disconnecting from a notebook, Kaggle will retain any created variables and downloaded files, saving time when you resume your work. _However, this feature is **not** enabled by default!_. Fortunately, enabling it is a straightforward process. When you've opened the desired notebook, access the "Notebook options" menu on the right. Within the "Persistence" section, choose "files only". With this selection, the persistence feature will be enabled, ensuring the preservation of your notebook's state across sessions. While you're there, change "Environment" to "Always use latest environment". -->
 
 ### Google Colab
 
@@ -37,7 +39,7 @@ A *Colab* is a Jupyter notebook that is not running on your own computer, but on
 On the Colab page, select *Upload*, upload your `.ipynb` file. Running a code cell on the Colab page will now actually run the code on a Google computer and not on your own machine!
 
 Next we'll switch to a machine that has access to a GPU. In the menu at the top, select **Runtime** and then **Change runtime type**. Select the GPU hardware accelerator and Save. Now, any code you run will run on a Google GPU, which will make training your neural network much faster!
-
+<!--
 ## Checking functionality
 
 To check that everything works, run the code below in a cell:
@@ -63,4 +65,4 @@ You should now be able to skip the download cell, and continue the notebook as i
 
 #### Kaggle: Low accuracy on first cell?
 
-Make sure you have "Environment" set to "Always use latest environment", and "Persistence" set to "files only". Restart your notebook by pressing the "Factory reset" button, or by stopping and re-opening the session.
+Make sure you have "Environment" set to "Always use latest environment", and "Persistence" set to "files only". Restart your notebook by pressing the "Factory reset" button, or by stopping and re-opening the session. -->
