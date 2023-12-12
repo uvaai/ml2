@@ -26,7 +26,7 @@ Now all we have to do is to enable the GPU. Press the three vertical dots in the
 
 ##### A Convenient Kaggle feature
 
-Kaggle offers a highly convenient feature; persistent storage of variables and files. This means that even after closing or disconnecting from a notebook, Kaggle will retain any created variables and downloaded files, saving time when you resume your work. _However, this feature is **not** enabled by default!_. Fortunately, enabling it is a straightforward process. When you've opened the desired notebook, access the "Notebook options" menu on the right. Within the "Persistence" section, choose "variables and files." With this selection, the persistence feature will be enabled, ensuring the preservation of your notebook's state across sessions.
+Kaggle offers a highly convenient feature; persistent storage of variables and files. This means that even after closing or disconnecting from a notebook, Kaggle will retain any created variables and downloaded files, saving time when you resume your work. _However, this feature is **not** enabled by default!_. Fortunately, enabling it is a straightforward process. When you've opened the desired notebook, access the "Notebook options" menu on the right. Within the "Persistence" section, choose "variables and files". With this selection, the persistence feature will be enabled, ensuring the preservation of your notebook's state across sessions.
 
 ### Google Colab
 
