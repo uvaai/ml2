@@ -7,14 +7,14 @@ The deadline for both Data Processing and Representations and Introduction to Ma
 | ------------------ | ---------------------------- | ----------------------------------- | --------------------------- |
 | Tuesday<br>02/04   | Introduction, Game of Cards  | Theory videos +<br>Logistic Regression: Assignment 2 |            |
 | Wednesday<br>03/04 | Populations: Phase 1         | Logistic Regression: Assignment 5   |                             |
-| Thursday<br>04/04  | Populations: Phase 2 & 3     | Logistic Regression: Assignment 8   | Quiz/lecture                |
+| Thursday<br>04/04  | Populations: Phase 2 & 3     | Logistic Regression: Assignment 8   | Office hours                |
 | Friday<br>05/04    | Populations: Phase 4         | Logistic Regression: Assignment 10  |                             |
 |                    |                              |                                     |                             |
 | Monday<br>08/04    | Populations: Phase 5         | Written Assignment                  | Group seminar               |
 
 
 
-#### Quiz/lecture
+#### Office hours
 
-The quiz/lecture will be held in room **L0.11 at 14:00** on the scheduled day.
+The office hours will be held in room **L0.10 at 10:00** on the scheduled day. During office hours you can use the question queue to ask the staff any further explanations on the theory of that module, or discuss any personal matters.
 
