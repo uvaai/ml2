@@ -1,15 +1,16 @@
 
 ## Module 6
 
-The deadline for both Data Processing and Representations and Introduction to Machine Learning 2 is<br>**Friday December 15th at 17:59**
+The deadline for both Data Processing and Representations and Introduction to Machine Learning 2 is<br>**Thursday May 23rd at 17:59**
 
 | Day                | Data Processing<br>and Representations | Introduction to<br>Machine Learning | Seminars          |
 | ------------------ | ---------------------------- | ----------------------------------- | --------------------------- |
-| Monday<br>11/12    | Scraping: Step 2             | Watch Theory videos &<br>Start CIFAR | Group seminar              |
-| Tuesday<br>12/12   | Scraping: Step 2             | Finish CIFAR Notebook               | Quiz/lecture                |
-| Wednesday<br>13/12 | Scraping: Transforming &<br> Visualizing | Start GTSRB Notebook    |                             |
-| Thursday<br>14/12  | Crawling: Part 1             | Finish GTSRB Notebook               |                             |
-| Friday<br>15/12    | Crawling: Part 2             | Writing                             |                             |
+| Thursday<br>16/05  | Scraping: Step 2             | Watch Theory videos &<br>Start CIFAR |                            |
+| Friday<br>17/05    | Scraping: Step 2             | Finish CIFAR Notebook               | Quiz/lecture                |
+|                    |                              |                                     |                             |
+| Tuesday<br>21/05   | Scraping: Transforming &<br> Visualizing | Start GTSRB Notebook    |                             |
+| Wednesday<br>22/05 | Crawling: Part 1             | Finish GTSRB Notebook               |                             |
+| Thursday<br>23/05  | Crawling: Part 2             | Writing                             |                             |
 
 
 
