@@ -45,20 +45,26 @@ templates:
         calculation: points
         is_test: true
         hide_subgrades: true
-
+    7: &written
+        type: float
+        subgrades:
+            instructions: float
+            structure_and_style: float
+            argumentation: float
+        calculation: "instructions + structure_and_style + argumentation"
 
 grades:
     prog_7:
         <<: *manual
         deadline: 03/11/23 18:00
     writ_7:
-        <<: *manual
+        <<: *written
         deadline: 03/11/23 18:00
     prog_8:
         <<: *manual
         deadline: 13/11/23 18:00
     writ_8:
-        <<: *manual
+        <<: *written
         deadline: 13/11/23 18:00
     prog_9a:
         <<: *manual
@@ -67,28 +73,26 @@ grades:
         <<: *manual
         deadline: 22/11/23 18:00
     writ_9:
-        <<: *manual
+        <<: *written
         deadline: 22/11/23 18:00
     prog_10:
         <<: *manual
         deadline: 30/11/23 18:00
     writ_10:
-        <<: *manual
+        <<: *written
         deadline: 30/11/23 18:00
     prog_11:
         <<: *manual
         deadline: 8/12/23 18:00
     writ_11:
-        <<: *manual
+        <<: *written
         deadline: 8/12/23 18:00
     prog_12:
         <<: *manual
         deadline: 15/12/23 18:00
     writ_12:
-        <<: *manual
+        <<: *written
         deadline: 15/12/23 18:00
-    late_day1: *automatic
-    late_day2: *automatic
     exam: *manual_exam
 
 calculation:
@@ -168,10 +172,3 @@ exam:
     show_progress: true
     submits:
         exam: 1
-
-late_days:
-    type: points
-    show_progress: true
-    submits:
-        late_day1: 0
-        late_day2: 0
