@@ -75,12 +75,12 @@ grades:
     writ_9:
         <<: *written
         deadline: 25/04/24 18:00
-    prog_10:
-        <<: *manual
-        deadline: 30/11/23 18:00
-    writ_10:
-        <<: *written
-        deadline: 30/11/23 18:00
+#    prog_10:
+#        <<: *manual
+#        deadline: 30/11/23 18:00
+#    writ_10:
+#        <<: *written
+#        deadline: 30/11/23 18:00
     prog_11:
         <<: *manual
         deadline: 15/05/24 18:00
@@ -109,7 +109,7 @@ programming:
         prog_8: 2
         prog_9a: 1
         prog_9b: 1
-        prog_10: 2
+#        prog_10: 2
         prog_11: 2
         prog_12: 2
 
@@ -120,7 +120,7 @@ writtens:
         writ_7: 1
         writ_8: 1
         writ_9: 1
-        writ_10: 1
+#        writ_10: 1
         writ_11: 1
         writ_12: 1
 
@@ -146,12 +146,12 @@ module3:
         prog_9b: 1
         writ_9: 1
 
-module4:
-    type: average
-    show_progress: true
-    submits:
-        prog_10: 2
-        writ_10: 1
+#module4:
+#    type: average
+#    show_progress: true
+#    submits:
+#        prog_10: 2
+#        writ_10: 1
 
 module5:
     type: average
