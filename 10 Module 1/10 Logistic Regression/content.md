@@ -51,6 +51,32 @@ regression model that is used for classification problems.
 
 ![embed](https://www.youtube.com/embed/6SZUnXEHCns)
 
+## Regularization
+
+This series of videos covers several different ways you might
+address overfitting.
+
+### The Problem of Overfitting
+
+![embed](https://www.youtube.com/embed/8upNQi-40Q8)
+
+### Addressing Overfitting
+
+![embed](https://www.youtube.com/embed/1kgcON0Eauc)
+
+### Cost Function with Regularization
+
+![embed](https://www.youtube.com/embed/NIiZZY7nlfU)
+
+### Regularized Linear Regression
+
+![embed](https://www.youtube.com/embed/jhrrw8Iuus0)
+
+### Regularized Logistic Regression
+
+![embed](https://www.youtube.com/embed/NhZXRzH2y-E)
+
+
 <!--
 ### Optional Theory: Maximum Likelihood
 
