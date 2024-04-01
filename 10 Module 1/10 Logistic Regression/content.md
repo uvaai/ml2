@@ -6,9 +6,9 @@ course on Coursera.
 ## Recap videos
 
 These first few videos here you've already seen, but we have included them
-again this week, as we'll actually apply feature scaling in this week's
-notebook. So, if you are unsure on when and why you would apply feature
-scaling, please watch these video again.
+again this week, as we'll actually implement feature scaling and learning
+curves in this week's notebook. If you are unsure what these concepts are
+or when to apply them, please watch these video again.
 
 ### Feature Scaling part 1
 
@@ -17,6 +17,14 @@ scaling, please watch these video again.
 ### Feature Scaling part 2
 
 ![embed](https://www.youtube.com/embed/gmJqLGrUscg)
+
+### Checking Gradient Descent for Convergence
+
+![embed](https://www.youtube.com/embed/5g4H5_gsTpU)
+
+### Choosing the Learning Rate
+
+![embed](https://www.youtube.com/embed/P_9hNBVRldM)
 
 ### Supervised Learning part 2
 
