@@ -26,7 +26,7 @@ or when to apply them, please watch these video again.
 
 ![embed](https://www.youtube.com/embed/P_9hNBVRldM)
 
-### Supervised Learning part 2
+### Supervised Learning: Classification
 
 ![embed](https://www.youtube.com/embed/hh6gE0LxfO8)
 
