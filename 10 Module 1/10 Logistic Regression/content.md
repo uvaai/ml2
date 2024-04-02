@@ -3,7 +3,7 @@
 This week we'll continue with more videos from Andrew Ng's machine learning
 course on Coursera. 
 
-## Recap videos
+## Recap Videos
 
 These first few videos here you've already seen, but we have included them
 again this week, as we'll actually implement feature scaling and learning
@@ -30,7 +30,7 @@ or when to apply them, please watch these video again.
 
 ![embed](https://www.youtube.com/embed/hh6gE0LxfO8)
 
-## Classification: Logistic Regression
+## Logistic Regression
 
 The topic this week is Logistic Regression, which is a regression model that
 is used for classification problems. This model will also be the basic
