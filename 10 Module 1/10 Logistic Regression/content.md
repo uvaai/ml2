@@ -63,7 +63,7 @@ regression model that is used for classification problems.
 
 This series of videos covers several different ways you might
 address overfitting, which one of the core problems for all
-machine learning algorithms.
+supervised machine learning algorithms.
 
 ### The Problem of Overfitting
 
