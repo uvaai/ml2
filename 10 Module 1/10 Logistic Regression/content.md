@@ -34,7 +34,7 @@ or when to apply them, please watch these video again.
 
 The topic this week is Logistic Regression, which is a regression model that
 is used for classification problems. This model will also be the basic
-building block for Neural networks next module.
+building block we'll use to construct Neural Networks next module.
 
 ### Motivation
 
