@@ -10,19 +10,19 @@ again this week, as we'll actually implement feature scaling and learning
 curves in this week's notebook. If you are unsure what these concepts are
 or when to apply them, please watch these video again.
 
-### Feature Scaling part 1
+### Feature Scaling: Motivation
 
 ![embed](https://www.youtube.com/embed/YVtP5UGdgXg)
 
-### Feature Scaling part 2
+### Feature Scaling: Normalization
 
 ![embed](https://www.youtube.com/embed/gmJqLGrUscg)
 
-### Checking Gradient Descent for Convergence
+### Learning Curves: Convergence
 
 ![embed](https://www.youtube.com/embed/5g4H5_gsTpU)
 
-### Choosing the Learning Rate
+### Learning Curves: Learning Rate
 
 ![embed](https://www.youtube.com/embed/P_9hNBVRldM)
 
@@ -62,7 +62,8 @@ regression model that is used for classification problems.
 ## Regularization
 
 This series of videos covers several different ways you might
-address overfitting.
+address overfitting, which one of the core problems for all
+machine learning algorithms.
 
 ### The Problem of Overfitting
 
