@@ -30,10 +30,11 @@ or when to apply them, please watch these video again.
 
 ![embed](https://www.youtube.com/embed/hh6gE0LxfO8)
 
-## Classification
+## Classification: Logistic Regression
 
-The topic this week is Logistic Regression, which is a
-regression model that is used for classification problems.
+The topic this week is Logistic Regression, which is a regression model that
+is used for classification problems. This model will also be the basic
+building block for Neural networks next module.
 
 ### Motivation
 
@@ -59,11 +60,11 @@ regression model that is used for classification problems.
 
 ![embed](https://www.youtube.com/embed/6SZUnXEHCns)
 
-## Regularization
+## Overfitting and Regularization
 
 This series of videos covers several different ways you might
-address overfitting, which one of the core problems for all
-supervised machine learning algorithms.
+address overfitting, which one of the most important problems
+for all supervised machine learning algorithms.
 
 ### The Problem of Overfitting
 
