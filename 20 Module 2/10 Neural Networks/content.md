@@ -5,43 +5,12 @@ good intuitions on why it is such a useful model. They should be a good first
 introduction into what neural networks are exactly. These videos do not yet
 cover how exactly to train a neural network.
 
-#### Notation
+#### A note on notation
 
-These videos use a slightly different notation than we use in the course, which
-changes a few things:
-
-1. The parameter vector $w$ is called $\theta$ (theta) here.
-2. The bias term is included in the parameter vector as $\theta_0$.
-3. The input vector $x$ is expanded to also contain $x_0$, which is a constant input always set to $1$. This constant "feature" get multiplied with the $\theta_0$ bias, and adds the bias term that way (instead of just adding it separately, like we've done before).
-
-This means you might see a Logistic Regression using just two features and
-a linear decision boundary as:
-
-$$g(\theta^Tx)$$
-
-where
-
-$$\theta = \left[\begin{array}{c} \theta_0 \\ \theta_1} \\ \theta_2 \end{array} \right]\ ,\ x = \left[\begin{array}{c} x_0 \\ x_1} \\ x_2 \end{array} \right]$$
-
-which, when you write out the vector multiplication, is the same as
-
-$$g(\theta_0x_0 + \theta_1x_1 + \theta_2x_2)$$
-
-If we apply the $3^{rd}$ rule stating $x_0$ is always just $1$, this becomes
-
-$$g(\theta_0 + \theta_1x_1 + \theta_2x_2)$$
-
-and then applying the $2^{nd}$ rule, we can replace $\theta_0$ with the bias term $b$
-
-$$g(b + \theta_1x_1 + \theta_2x_2)$$
-
-Finally, we can apply the $1^{st}$ rule, replacing $\theta$ with $w$
-
-$$g(b + w_1x_1 + w_2x_2)$$
-
-which should be the version of the equation you are familiar with.
-
-Note that, conceptually, these notation do exactly the same thing, as this really just a slightly different way of writing the same Logistic Regression.
+**Important:** This video use a slightly different notation than we use in
+the course, meaning the equations for Logistic Regression won't look exactly
+like the ones you're familiar with. This page briefly describes the changes
+in notation, so have a look before watching the video: [nn_notation](nn_notation.pdf)
 
 ### Neural Network Representation: Non-linear hypothese
 
