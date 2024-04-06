@@ -11,7 +11,7 @@ cover how exactly to train a neural network.
 the course, meaning the equations for Logistic Regression won't look exactly
 like the ones you're familiar with. The following page briefly describes the
 changes in notation, so have a look there before watching the video:
-[neural_network_notation](nn_notation.pdf)
+[neural_network_notation](../../nn_notation.pdf)
 
 ### Neural Network Representation: Non-linear hypothese
 

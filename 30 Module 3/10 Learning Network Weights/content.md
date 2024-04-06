@@ -5,7 +5,7 @@
 This video uses the same theta notation that was also used in the previous
 module. The following page briefly describes the changes in notation, in
 case you need a quick refresher:
-[neural_network_notation](../../module-2/neural-networks/nn_notation.pdf)
+[neural_network_notation](../../nn_notation.pdf)
 
 ### Neural Network Learning
 
