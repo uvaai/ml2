@@ -7,7 +7,7 @@ cover how exactly to train a neural network.
 
 #### A note on notation
 
-**Important:** This video use a slightly different notation than we use in
+**Important:** This video uses a slightly different notation than we use in
 the course, meaning the equations for Logistic Regression won't look exactly
 like the ones you're familiar with. The following page briefly describes the
 changes in notation, so have a look there before watching the video:
