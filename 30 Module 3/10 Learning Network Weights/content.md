@@ -11,6 +11,13 @@ case you need a quick refresher:
 
 ![embed](https://youtube.com/embed/UVjj2fHu9YU)
 
+***Note:*** There is a typo in the slides around minute 25. The equation for a single sample should be
+
+$$cost(i) = y^{(i)}log(h_{\Theta}(x^{(i)})) + (1 - y^{(i)})log(1 - h_{\Theta}(x^{(i)}))$$
+
+so the 1 - h term is missing in the second half of the equation.
+
+
 ### Deep Learning: What is backprogation really doing?
 
 ![embed](https://youtube.com/embed/Ilg3gGewQ5U)
