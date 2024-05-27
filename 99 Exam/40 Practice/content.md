@@ -10,11 +10,11 @@ Assume you have a Logistic Regression model with already learned weights of the 
 
 $$h(x) = g(-1 + 0*x_1 + 0*x_2 + 1*(x_1)^2 + 1*(x_2)^2)$$
 
-where $g(z)$ is the Sigmoid function, and $(x_1)^2$ the input $x_1$ squared.
+where $$g(z)$$ is the Sigmoid function, and $$(x_1)^2$$ the input $$x_1$$ squared.
 
 (a) What are the learned weights of this model?
 
-(b) Given is a new input of  $x_1 = 0.5$, $x_2 = 0.5$. Explain how you would make a prediction for this input and what that prediction would be.
+(b) Given is a new input of  $$x_1 = 0.5$$, $$x_2 = 0.5$$. Explain how you would make a prediction for this input and what that prediction would be.
 
 (c) Explain what shape of decision boundary you would approximately expect for this model.
 
