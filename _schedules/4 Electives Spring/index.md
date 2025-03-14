@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 50822ITM6
 
-## Syllabus<br><small>Fall 2024</small>
+## Syllabus<br><small>Spring 2025</small>
 
 This course is the continuation of Introduction to Machine Learning 1. In ML1
 you've learned about some of the basic algorithms in machine learning and to
@@ -24,16 +24,19 @@ questions.
 
 ## Deadlines
 
-The deadlines for each of the 6 modules is listed below. Note that some of the
+The deadlines for each of the 5 modules is listed below. Note that some of the
 modules are larger than other, and so not all deadlines are exactly 1 week
 apart:
 
-* **Module 1:** *Friday November 1st at 17:59*
-* **Module 2:** *Monday November 11th at 17:59*
-* **Module 3:** *Wednesday November 20th at 17:59*
-* **Module 4:** *Thursday November 28th at 17:59*
-* **Module 5:** *Friday December 6th at 17:59*
-* **Module 6:** *Friday December 13th at 17:59*
+* **Module 1:** *Friday April 4th at 23:59*
+* **Module 2:** *Monday April 14th at 23:59*
+* **Module 3:** *Friday April 25th at 23:59*
+* **Module 5:** *Tuesday May 13th at 23:59*
+* **Module 6:** *Tuesday May 20th at 23:59*
+
+Note that there is free week this period from April 28th until May 6th.
+There is an optional module 4 for that week, but this is not required
+and there will not be any classes scheduled that wek.
 
 ### Absences and calling in sick
 
