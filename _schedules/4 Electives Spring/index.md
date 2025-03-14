@@ -24,8 +24,8 @@ questions.
 
 ## Deadlines
 
-The deadlines for each of the 5 modules is listed below. Note that some of the
-modules are larger than other, and so not all deadlines are exactly 1 week
+The deadlines for each of the 5 modules are listed below. Note that some of the
+modules are larger than others, and so not all deadlines are exactly 1 week
 apart:
 
 * **Module 1:** *Friday April 4th at 23:59*
@@ -34,9 +34,9 @@ apart:
 * **Module 5:** *Tuesday May 13th at 23:59*
 * **Module 6:** *Tuesday May 20th at 23:59*
 
-Note that there is free week this period from April 28th until May 6th.
-There is an optional module 4 for that week, but this is not required
-and there will not be any classes scheduled that wek.
+Note that there is free week this period from April 28th until May 6th, where
+there will be an optional module 4 available. Submitting this module will
+not be required and there will also not be any classes scheduled that week.
 
 ### Absences and calling in sick
 
@@ -100,7 +100,7 @@ so the TA handling your question knows where to find you when it is your turn.
 
 ### Scheduling practical assistance
 
-All practical assistance will be in the main room of the minor AI, **L0.11** in
+All practical assistance will be in the main room of the minor AI, **L0.10** in
 the Lab42 building of Science Park, and will be scheduled as follows:
 
 * On Mondays from 13:30 to 16:00

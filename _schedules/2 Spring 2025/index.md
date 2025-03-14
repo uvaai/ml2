@@ -21,7 +21,7 @@ questions.
 
 ## Schedule
 
-The core schedule for this course, combined with Python for Data Processing, is
+The core schedule for this course, combined with Data Processing and Representations, is
 built around working with the material each weekday from 9 to 5. For this we
 have one room on the Science Park campus permanently reserved for minor AI
 students, namely **L0.10**, which provides enough space for all of you to work
@@ -30,7 +30,7 @@ on campus full-time.
 Most on-campus activities, including practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
 in the room, like the group seminars and the exam. The schedule for these
-group seminars can be found on Datanose [here](https://datanose.nl/#course[119468])
+group seminars can be found on Datanose [here](https://datanose.nl/#course[128476])
 
 The schedule for the practical assistance hours that will be held in L0.10 can
 be found in the "Asking Questions" section below.
@@ -88,7 +88,7 @@ schedule a meeting and still have room in the module for an alternative planning
 Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
-In addition, for this course and Python for Data Processing, you have a
+In addition, for this course and Data Processing and Representations, you have a
 combined total of 2 late days, each of which you can use to get a single 24
 hour extension for the module deadline. You can request a late day using the
 submit forms linked in the sidebar of the main
@@ -160,7 +160,7 @@ written assignment topics, or some small programming exercises to practice
 with the group. In addition, you can always use these seminars to ask you TA any
 questions you might have about the feedback they gave you as part of the grading for
 the previous module. The schedule for the group seminars can be found on Datanose
-[here](https://datanose.nl/#course[119468])
+[here](https://datanose.nl/#course[128476])
 
 ### Email the staff
 
