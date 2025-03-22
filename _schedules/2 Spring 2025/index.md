@@ -127,7 +127,10 @@ the DPR or ML2 courses, just make sure to mention what assignment you're
 working on. For your location, please list the table you are working at, so the
 TA handling your question knows where to find you when it is your turn.
 
-The assistance hours are scheduled each day from 10:00 to 12:30.
+The hours are scheduled as follows:
+
+* In general, assistance hours are from 10:00 to 12:30
+* On Mondays there are group seminars in the morning, so the assistance hours are from 13:30 to 16:00 instead.
 
 ### Office hours
 
