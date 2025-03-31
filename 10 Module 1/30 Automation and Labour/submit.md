@@ -5,7 +5,7 @@ This week we'll dive deeper into the claim that the rise of AI will lead to
 massive unemployment of low-skilled labourers, who are easily replaced by
 machines. Start by reading this introductory *Medium* article on the topic:
 
-[A. Suri - Artificial Intelligence and the rise of economic inequality](https://towardsdatascience.com/artificial-intelligence-and-the-rise-of-economic-inequality-b9d81be58bec)
+[A. Suri - Artificial Intelligence and the rise of economic inequality](https://medium.com/data-science/artificial-intelligence-and-the-rise-of-economic-inequality-b9d81be58bec)
 
 Suri gives a good overview of the arguments usually used to state the
 rise of AI will indeed lead to massive unemployment, but only briefly
