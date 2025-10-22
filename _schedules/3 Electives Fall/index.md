@@ -28,12 +28,12 @@ The deadlines for each of the 6 modules is listed below. Note that some of the
 modules are larger than other, and so not all deadlines are exactly 1 week
 apart:
 
-* **Module 1:** *Friday November 1st at 17:59*
-* **Module 2:** *Monday November 11th at 17:59*
-* **Module 3:** *Wednesday November 20th at 17:59*
-* **Module 4:** *Thursday November 28th at 17:59*
-* **Module 5:** *Friday December 6th at 17:59*
-* **Module 6:** *Friday December 13th at 17:59*
+* **Module 1:** *Friday October 31st at 17:59*
+* **Module 2:** *Monday November 10th at 17:59*
+* **Module 3:** *Wednesday November 19th at 17:59*
+* **Module 4:** *Thursday November 27th at 17:59*
+* **Module 5:** *Friday December 5th at 17:59*
+* **Module 6:** *Friday December 12th at 17:59*
 
 ### Absences and calling in sick
 

@@ -56,43 +56,43 @@ templates:
 grades:
     prog_7:
         <<: *manual
-        deadline: 04/04/25 18:00
+        deadline: 31/10/25 18:00
     writ_7:
         <<: *written
-        deadline: 04/04/25 18:00
+        deadline: 31/10/25 18:00
     prog_8:
         <<: *manual
-        deadline: 14/04/25 18:00
+        deadline: 10/11/25 18:00
     writ_8:
         <<: *written
-        deadline: 14/04/25 18:00
+        deadline: 10/11/25 18:00
     prog_9a:
         <<: *manual
-        deadline: 25/04/25 18:00
+        deadline: 19/11/25 18:00
     prog_9b:
         <<: *manual
-        deadline: 25/04/25 18:00
+        deadline: 19/11/25 18:00
     writ_9:
         <<: *written
-        deadline: 25/04/25 18:00
-    # prog_10:
-    #    <<: *manual
-    #    deadline: 28/11/25 18:00
-    # writ_10:
-    #    <<: *written
-    #    deadline: 28/11/25 18:00
+        deadline: 19/11/25 18:00
+    prog_10:
+        <<: *manual
+        deadline: 27/11/25 18:00
+    writ_10:
+        <<: *written
+        deadline: 27/11/25 18:00
     prog_11:
         <<: *manual
-        deadline: 13/05/25 18:00
+        deadline: 05/12/25 18:00
     writ_11:
         <<: *written
-        deadline: 13/05/25 18:00
+        deadline: 05/12/25 18:00
     prog_12:
         <<: *manual
-        deadline: 20/05/25 18:00
+        deadline: 12/12/25 18:00
     writ_12:
         <<: *written
-        deadline: 20/05/25 18:00
+        deadline: 12/12/25 18:00
     exam: *manual_exam
 
 calculation:
@@ -109,7 +109,7 @@ programming:
         prog_8: 2
         prog_9a: 1
         prog_9b: 1
-        # prog_10: 2
+        prog_10: 2
         prog_11: 2
         prog_12: 2
 
@@ -120,7 +120,7 @@ writtens:
         writ_7: 1
         writ_8: 1
         writ_9: 1
-        # writ_10: 1
+        writ_10: 1
         writ_11: 1
         writ_12: 1
 
@@ -146,12 +146,12 @@ module3:
         prog_9b: 1
         writ_9: 1
 
-# module4:
-#    type: average
-#    show_progress: true
-#    submits:
-#        prog_10: 2
-#        writ_10: 1
+module4:
+    type: average
+    show_progress: true
+    submits:
+        prog_10: 2
+        writ_10: 1
 
 module5:
     type: average
