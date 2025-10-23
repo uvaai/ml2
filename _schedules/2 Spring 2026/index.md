@@ -1,8 +1,8 @@
-# Introduction to Machine Learning 2
+# Inleiding Machine Learning 2
 
 University of Amsterdam / Programming Lab / 50822ITM6Y
 
-## Syllabus<br><small>Spring 2025</small>
+## Syllabus<br><small>Spring 2026</small>
 
 This course is the continuation of Introduction to Machine Learning 1. In ML1
 you've learned about some of the basic algorithms in machine learning and to
@@ -55,11 +55,11 @@ look at possible solutions early.
 
 #### Part-time students
 
-If you are a part-time student, you can just follow the part of the daily
-schedule intended for your half of the program. You should still attend the
-group seminars with the other students, but can otherwise choose which days
-you are present and which days of practical assistance combine best
-with your own schedule.
+If you are a part-time student, you can just follow the *Inleiding
+Machine Learning* half of the daily schedule. You should still attend the group
+seminars with the other students, as scheduled [here](https://datanose.nl/#course[136815]),
+but can otherwise choose which of the daily practical assistance slots combine
+best with your own schedule.
 
 ### Absences and calling in sick
 
@@ -71,7 +71,7 @@ registered.
 Depending on how long you were sick, and if you are behind with the module, you
 can then also contact the course staff to discuss an alternate planning for the
 module. Note that this option requires you to have also already messaged your
-TA at the start of your absense. Any exceptions or extensions required for this
+TA at the start of your absence. Any exceptions or extensions required for this
 will need to be discussed with course staff (so not your TA). See the extension
 policy below for more details.
 
@@ -99,7 +99,7 @@ will default to a 1.
 
 You can use only 1 late day per module to get a 24 hour extension on the deadline.
 This extension is for the whole module, so applies to both courses. If the deadline
-is on a Friday, using  a single late day will instead grant a 48 hour extension
+is on a Friday, using a single late day will instead grant a 48 hour extension
 over the weekend, meaning your deadline will move to Sunday. If you have used both
 late days, or require more than 24 hours of extension, you may still try and
 request a staff extension.
@@ -122,7 +122,7 @@ to the TA's of the minor. During these hours you can use the "Assistance"
 feature on the main [minor AI website](https://minai.proglab.nl/), using the
 question mark symbol in the top right corner of that page. Please use this
 feature instead of raising your hand in class, as it ensures that all questions
-get handled in the order that they are asked.  Questions can of be about either
+get handled in the order that they are asked. Questions can of be about either
 the DPR or ML2 courses, just make sure to mention what assignment you're
 working on. For your location, please list the table you are working at, so the
 TA handling your question knows where to find you when it is your turn.
@@ -285,7 +285,7 @@ so instead of learning and considering all the possibilities, you just end up
 trying to recreate the solution you already saw. As there usually quite a few
 different ways to solve programming problems, this can even end up with code
 that is similar enough in structure that it is caught by our automated
-plagiarism detector.
+plagiarism detection.
 
 ### Helping other students
 

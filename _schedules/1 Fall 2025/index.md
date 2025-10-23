@@ -10,8 +10,6 @@ what types of problems they can be applied. For ML2 we'll be focussing more on
 combining smaller models as components into bigger and more complex models, most
 notably neural networks.
 
-Log in with your UvAnetID and create an account to get access to the modules.
-
 ## Staff
 
 Tim Doolan (coordinator)
@@ -30,7 +28,7 @@ have one room on the Science Park campus permanently reserved for minor AI
 students, namely **L0.11**, which provides enough space for all of you to work
 on campus full-time.
 
-Most on-campus activities, including the practical assistance, will generally be
+Most on-campus activities, including practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
 in the room, like the group seminars and the exam. The schedule for these
 group seminars can be found on Datanose [here](https://datanose.nl/#course[136815])
@@ -126,7 +124,7 @@ feature on the main [minor AI website](https://minai.proglab.nl/), using the
 question mark symbol in the top right corner of that page. Please use this
 feature instead of raising your hand in class, as it ensures that all questions
 get handled in the order that they are asked. Questions can of be about either
-the PDP or ML1 courses, just make sure to mention what assignment you're
+the DPR or ML2 courses, just make sure to mention what assignment you're
 working on. For your location, please list the table you are working at, so the
 TA handling your question knows where to find you when it is your turn.
 
@@ -176,17 +174,15 @@ of the formats above, you can email the course staff at <ai@proglab.nl>
 
 ## Passing the course
 
-The programming and writing assignment will both be graded on a 1 to 10 scale
-and at the end of the course an average for both these elements will be
-computed.
- 
 Passing the attendace requirement each week is required to pass the course.
-The minimum satisfactory average grade from the assignments is a 4.5 and the
-minimum grade for the exam is also a 4.5. If all elements are completed
-satisfactorily, your final grade for the course is computed as:
+The programming and writing assignment will both be graded on a 1 to 10 scale.
+and at the end of the course an average for both these elements will be
+computed. The minimum satisfactory average grade from the assignments is a
+4.5 and the minimum grade for the exam is also a 4.5.
+
+If all elements are completed satisfactorily, your final grade for the course is computed as:
 
     40% programming average + 20% written average + 40% exam grade
-
 
 ### Attendance
 

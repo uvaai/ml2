@@ -1,6 +1,6 @@
 # Introduction to Machine Learning 2
 
-University of Amsterdam / Programming Lab / 50822ITM6
+University of Amsterdam / Programming Lab / 50824ITM6Y
 
 ## Syllabus<br><small>Spring 2025</small>
 
