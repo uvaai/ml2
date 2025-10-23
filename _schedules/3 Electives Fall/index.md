@@ -1,8 +1,8 @@
 # Introduction to Machine Learning 2
 
-University of Amsterdam / Programming Lab / 50822ITM6
+University of Amsterdam / Programming Lab / 50824ITM6Y
 
-## Syllabus<br><small>Fall 2024</small>
+## Syllabus<br><small>Fall 2025</small>
 
 This course is the continuation of Introduction to Machine Learning 1. In ML1
 you've learned about some of the basic algorithms in machine learning and to
@@ -19,7 +19,8 @@ Tim Doolan (coordinator)
 Wouter Vrielink (teacher)
 
 You can reach us at <ai@proglab.nl> for any practical matters or other
-questions.
+questions. Note that any code related questions should always be asked on
+campus during the practical assistance sessions in the main room **L0.11**.
 
 
 ## Deadlines
@@ -71,7 +72,7 @@ deadline without a requested late day will not be graded, meaning your grade
 will default to a 1.
 
 You can use only 1 late day per module to get a 24 hour extension on the
-deadline.  This extension is for the whole module, so applies to all submits
+deadline. This extension is for the whole module, so applies to all submits
 for the course. If the deadline is on a Friday, using a single late day will
 instead grant a 48 hour extension over the weekend, meaning your deadline will
 move to Sunday. If you have used both late days, or require more than 24 hours
@@ -85,23 +86,28 @@ graded. Staff extension requests should be emailed to <ai@proglab.nl>
 
 ## Practical assistance
 
-There are 5 slots of 2.5 hours scheduled every week for practical assistance,
-where you can ask any questions to the TA's of the minor. During these hours
+There are 5 slots of 3 hours scheduled every week for practical assistance,
+where you can ask any questions to the staff of the course. During these hours
 you can use the "Assistance" feature on the main [minor AI website](https://minai.proglab.nl/),
 using the question mark symbol in the top right corner of that page. Please use
 this feature instead of raising your hand in class, as it ensures that all
 questions get handled in the order that they are asked. Questions can of be
 about any part of the course, just make sure to mention what assignment
 you're working on. For your location, please list the table you are working at,
-so the TA handling your question knows where to find you when it is your turn.
+so the staff member handling your question knows where to find you when it is your turn.
 
-### Scheduling practical assistance
+### Practical assistance schedule
 
 All practical assistance will be in the main room of the minor AI, **L0.11** in
 the Lab42 building of Science Park, and will be scheduled as follows:
 
-* On Mondays from 13:30 to 16:00
-* On Tuesdays, Wednesdays, and Thursdays, Fridays from 10:00 to 12:30
+* On Mondays from 10:00 to 13:00
+* On Tuesdays, Wednesdays, and Thursdays, Fridays from 14:00 to 17:00
+
+You may join any of these scheduled slots to ask your questions. Note that attendance
+might be taken during the practicals, even though attendance is not mandatory. This is
+mainly to monitor the usage of each of the sessions, and ensure there is enough space
+and assistance for those present.
 
 ### TA Slack
 
@@ -130,6 +136,13 @@ All programming notebooks should run from top to bottom without errors, using
 `Cell > Run All`. Your grade for the programming notebooks depends on 3
 factors: Correctness of the produced output, answers to the open questions, and
 the style and design of the code.
+
+The main goal of the programming notebooks in ML2 is **not** to learn
+programming, but to better understand the algorithms you are implementing. Your
+answers to the open question and checking that the produced output for each
+step makes sense, are the main ways to show this understanding. Writing clear
+code with good comments is also only possible when you understand what you're
+implementing well enough.
 
 If all coding cells are completed, all open questions are answered and your
 notebook runs top to bottom without errors, your grade starts at a 6. The
