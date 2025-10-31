@@ -56,10 +56,10 @@ templates:
 grades:
     prog_7:
         <<: *manual
-        deadline: 03/11/25 13:00
+        deadline: 03/11/25 12:00
     writ_7:
         <<: *written
-        deadline: 03/11/25 13:00
+        deadline: 03/11/25 12:00
     prog_8:
         <<: *manual
         deadline: 10/11/25 18:00
