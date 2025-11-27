@@ -32,10 +32,10 @@ sections from the
 [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 by Christoph Molnar. Start by reading the following sections from the book:
 
-* **Interpretability:** *3.0, 3.1, 3.2*
-* **Interpretable Models:** *5.0, 5.4*
-* **Model-Agnostic methods:** *6.0*
-
+* 2: Interpretability 
+* 4: Methods Overview
+* 9: Decision Tree
+* 25: Surrogate Models
 
 Cynthia Rudin from Duke University wrote an article advocating a different
 position, namely to stop using black box models altogether, whenever possible,
