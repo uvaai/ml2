@@ -100,7 +100,7 @@ so the TA handling your question knows where to find you when it is your turn.
 
 ### Scheduling practical assistance
 
-All practical assistance will be in the main room of the minor AI, **L0.10** in
+All practical assistance will be in the main room of the minor AI, **L0.09** in
 the Lab42 building of Science Park, and will be scheduled as follows:
 
 * On Mondays from 13:30 to 16:00
