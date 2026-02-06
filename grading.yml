@@ -41,8 +41,8 @@ templates:
     6: &manual_exam
         type: float
         subgrades:
-            passed: integer
-        calculation: passed
+            points: float
+        calculation: points
         is_test: true
         hide_subgrades: true
     7: &written
