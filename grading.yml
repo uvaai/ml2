@@ -42,7 +42,7 @@ templates:
         type: float
         subgrades:
             passed: integer
-        calculation: points
+        calculation: passed
         is_test: true
         hide_subgrades: true
     7: &written
