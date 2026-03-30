@@ -56,43 +56,43 @@ templates:
 grades:
     prog_7:
         <<: *manual
-        deadline: 03/11/25 12:00
+        deadline: 07/04/26 18:00
     writ_7:
         <<: *written
-        deadline: 03/11/25 12:00
+        deadline: 07/04/26 18:00
     prog_8:
         <<: *manual
-        deadline: 10/11/25 18:00
+        deadline: 15/04/26 18:00
     writ_8:
         <<: *written
-        deadline: 10/11/25 18:00
+        deadline: 15/04/26 18:00
     prog_9a:
         <<: *manual
-        deadline: 19/11/25 18:00
+        deadline: 24/04/26 18:00
     prog_9b:
         <<: *manual
-        deadline: 19/11/25 18:00
+        deadline: 24/04/26 18:00
     writ_9:
         <<: *written
-        deadline: 19/11/25 18:00
-    prog_10:
-        <<: *manual
-        deadline: 27/11/25 18:00
-    writ_10:
-        <<: *written
-        deadline: 27/11/25 18:00
+        deadline: 24/04/26 18:00
+#    prog_10:
+#        <<: *manual
+#        deadline: 27/11/26 18:00
+#    writ_10:
+#        <<: *written
+#        deadline: 27/11/26 18:00
     prog_11:
         <<: *manual
-        deadline: 05/12/25 18:00
+        deadline: 13/05/26 18:00
     writ_11:
         <<: *written
-        deadline: 05/12/25 18:00
+        deadline: 13/05/26 18:00
     prog_12:
         <<: *manual
-        deadline: 12/12/25 18:00
+        deadline: 22/05/26 18:00
     writ_12:
         <<: *written
-        deadline: 12/12/25 18:00
+        deadline: 22/05/26 18:00
     exam: *manual_exam
 
 calculation:
