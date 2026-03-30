@@ -28,11 +28,11 @@ The deadlines for each of the 5 modules are listed below. Note that some of the
 modules are larger than others, and so not all deadlines are exactly 1 week
 apart:
 
-* **Module 1:** *Friday April 4th at 23:59*
-* **Module 2:** *Monday April 14th at 23:59*
-* **Module 3:** *Friday April 25th at 23:59*
-* **Module 5:** *Tuesday May 13th at 23:59*
-* **Module 6:** *Tuesday May 20th at 23:59*
+* **Module 1:** *Monday April 7th at 23:59*
+* **Module 2:** *Wednesday April 15th at 23:59*
+* **Module 3:** *Friday April 24th at 23:59*
+* **Module 5:** *Wednesday May 13th at 23:59*
+* **Module 6:** *Friday May 22nd at 23:59*
 
 Note that there is free week this period from April 28th until May 6th, where
 there will be an optional module 4 available. Submitting this module will
@@ -125,7 +125,7 @@ assignments is a 4.5 and the minimum grade for the exam is also a 4.5. If all
 elements are completed satisfactorily, your final grade for the course is
 computed as:
 
-    40% programming average + 20% written average + 40% exam grade
+    40% programming average + 10% written average + 50% exam grade
 
 ### Programming Grades
 
