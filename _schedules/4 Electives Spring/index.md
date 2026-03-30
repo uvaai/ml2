@@ -34,7 +34,7 @@ apart:
 * **Module 5:** *Wednesday May 13th at 23:59*
 * **Module 6:** *Friday May 22nd at 23:59*
 
-Note that there is free week this period from April 28th until May 6th, where
+Note that there is free week this period from April 27th until May 5th, where
 there will be an optional module 4 available. Submitting this module will
 not be required and there will also not be any classes scheduled that week.
 
