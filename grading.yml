@@ -75,12 +75,12 @@ grades:
     writ_9:
         <<: *written
         deadline: 24/04/26 18:00
-#    prog_10:
-#        <<: *manual
-#        deadline: 27/11/26 18:00
-#    writ_10:
-#        <<: *written
-#        deadline: 27/11/26 18:00
+    prog_10:
+        <<: *manual
+        deadline: 27/11/26 18:00
+    writ_10:
+        <<: *written
+        deadline: 27/11/26 18:00
     prog_11:
         <<: *manual
         deadline: 13/05/26 18:00
