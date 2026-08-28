@@ -94,6 +94,7 @@ grades:
         <<: *written
         deadline: 22/05/26 18:00
     exam: *manual_exam
+    resit: *manual_exam
 
 calculation:
     final:
