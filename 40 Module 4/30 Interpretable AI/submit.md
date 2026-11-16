@@ -32,7 +32,7 @@ sections from the
 [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 by Christoph Molnar. Start by reading the following sections from the book:
 
-* 2: Interpretability 
+* 2: Interpretability (you can skip the last section "Human-friendly explanations")
 * 4: Methods Overview
 * 9: Decision Tree
 * 25: Surrogate Models
